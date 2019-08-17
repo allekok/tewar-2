@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ckb">
+    <head>
+	<title>تەوار - وەشانی ٢.٠</title>
+	<meta charset="utf-8" >
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	<link rel="stylesheet" href="src/frontend/style/main.css">
+	<script>	 
+         if ('serviceWorker' in navigator)
+	     navigator.serviceWorker.register('/tewar/service-worker.js', {scope: '/tewar/'});
+	</script>
+    </head>
+    <body>
+	<header>
+	    <h1>تەوار <small>وەشانی ٢.٠</small></h1>
+	</header>
+	<main id="main">
+	    <form method="get" action="src/backend/lookup.php" id="frm">
+		<input type="text" name="q" id="q" placeholder="وشە...">
+		<!-- < If Javascript was not enabled -->
+		<input type="hidden" name="dicts" value="henbane-borine,xal,kawe">
+		<!-- /> -->
+		<div id="dicts"></div>
+		<button type="submit">گەڕان</button>
+	    </form>
+	    <div id="result"></div>
+	</main>
+	<script src="src/frontend/script/main.js" defer></script>
+    </body>
+</html>
