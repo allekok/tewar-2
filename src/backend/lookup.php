@@ -1,6 +1,6 @@
 <?php
 /* Lookup for words in DB 
- * Input: $_REQUEST['q', 'output']
+ * Input: $_REQUEST['q', 'dicts', 'output']
  * Output: Text or JSON */
 require('library.php');
 
