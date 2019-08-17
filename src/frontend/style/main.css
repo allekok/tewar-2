@@ -9,7 +9,7 @@
 *
 {
     box-sizing:border-box;
-    font-family:'kurd';
+    font-family:'kurd', Arial;
     font-size:inherit;
 }
 body
@@ -100,4 +100,17 @@ header small
 {
     font-size:.5em;
     vertical-align:top;
+}
+code
+{
+    display:block;
+    direction:ltr;
+    font-family:'kurd', Monospace;
+    border-left:2px solid;
+    padding:.5em 0 .5em 1em;
+}
+footer
+{
+    padding:1em;
+    text-align:left;
 }

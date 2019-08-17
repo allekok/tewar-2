@@ -6,7 +6,7 @@ self.addEventListener('install', function(event) {
 	caches.open(cache_ver).then(function(cache) {
 	    return cache.addAll([
 		'/tewar/src/frontend/script/main.js',
-		'/tewar/src/frontend/style/main.css',
+		'/tewar/src/frontend/style/main.css?v1',
 		'/tewar/src/frontend/style/DroidNaskh-Regular.woff2',
 	    ]);
 	}));
