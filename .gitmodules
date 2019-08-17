@@ -1,0 +1,27 @@
+[submodule "dict/zkurd/dict"]
+	path = dict/zkurd/dict
+	url = https://github.com/dolanskurd/zkurd.git
+[submodule "dict/dictio/dict"]
+	path = dict/dictio/dict
+	url = https://github.com/dolanskurd/Dictio.git
+[submodule "dict/xal/dict"]
+	path = dict/xal/dict
+	url = https://github.com/dolanskurd/Xal.git
+[submodule "dict/bashur/dict"]
+	path = dict/bashur/dict
+	url = https://github.com/dolanskurd/Bashur.git
+[submodule "dict/henbane-borine/dict"]
+	path = dict/henbane-borine/dict
+	url = https://github.com/dolanskurd/HenbaneBorine.git
+[submodule "dict/kawe/dict"]
+	path = dict/kawe/dict
+	url = https://github.com/dolanskurd/KaweDict.git
+[submodule "dict/e2k/dict"]
+	path = dict/e2k/dict
+	url = https://github.com/dolanskurd/E2KThesaurus.git
+[submodule "dict/kameran/dict"]
+	path = dict/kameran/dict
+	url = https://github.com/dolanskurd/Kameran.git
+[submodule "src/mdict-utils"]
+	path = src/mdict-utils
+	url = https://github.com/liuyug/mdict-utils.git
