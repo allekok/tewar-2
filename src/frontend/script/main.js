@@ -131,8 +131,8 @@ function dicts_print ()
     for (const i in dicts)
     {
 	dicts_html += `<div><input type="checkbox" id="${i}" 
-${dicts_selected.indexOf(i) !== -1 ? 'checked' : ''}>
-		<label for="${i}">${dicts[i]}</label></div>`;
+${dicts_selected.indexOf(i) !== -1 ? 'checked' : ''}
+><label for="${i}">${dicts[i]}</label></div>`;
     }
     document.getElementById(dicts_el_id).innerHTML = dicts_html;
 }

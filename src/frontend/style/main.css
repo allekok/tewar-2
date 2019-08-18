@@ -16,6 +16,10 @@ body
 {
     margin:1em;
 }
+a
+{
+    color:#00e;
+}
 #main
 {
     max-width:800px;
@@ -76,9 +80,13 @@ button:hover
 {
     font-size:.85em;
 }
+#dicts input[type=checkbox]
+{
+    margin:0;
+}
 #dicts label
 {
-    padding-left:1em;
+    padding-right:.5em;
 }
 #dicts
 {
@@ -113,4 +121,6 @@ footer
 {
     padding:1em;
     text-align:left;
+    max-width:1000px;
+    margin:auto;
 }
