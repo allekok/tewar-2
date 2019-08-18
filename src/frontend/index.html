@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ckb">
+    <head>
+	<title>تەوار - وەشانی ٢.٠</title>
+	<meta charset="utf-8" >
+	<meta name="viewport" content="width=device-width, initial-scale=1" >
+	{SERVICE_WORKER}
+	{STYLE}
+    </head>
+    <body>
+	<header>
+	    <h1>تەوار <small>وەشانی ٢.٠</small></h1>
+	</header>
+	<main id="main">
+	    <form method="get" action="src/backend/lookup.php" id="frm">
+		<input type="text" name="q" id="q" placeholder="وشە...">
+		<!-- < If Javascript was not enabled -->
+		<input type="hidden" name="dicts" value="henbane-borine,xal,kawe">
+		<!-- /> -->
+		<div id="dicts"></div>
+		<button type="submit">گەڕان</button>
+	    </form>
+	    <div id="result"></div>
+	</main>
+	<footer>
+	    <a href="dev.html" title="کۆدەکانی تەوار">
+		کۆد
+	    </a>
+	    -
+	    <a href="https://allekok.com/" title="شێعری شاعیرانی کورد">
+		ئاڵەکۆک
+	    </a>
+	</footer>
+	{SCRIPT}
+    </body>
+</html>

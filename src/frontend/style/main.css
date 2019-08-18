@@ -1,15 +1,8 @@
-@font-face
-{
-    font-family:'kurd';
-    font-display:swap;
-    font-style:normal;
-    font-weight:400;
-    src:url('DroidNaskh-Regular.woff2') format('woff2');
-}
+{FONT_DECL}
 *
 {
     box-sizing:border-box;
-    font-family:'kurd', Arial;
+    font-family:{FONT}, Arial;
     font-size:inherit;
 }
 body
@@ -113,7 +106,7 @@ code
 {
     display:block;
     direction:ltr;
-    font-family:'kurd', Monospace;
+    font-family:{FONT}, Monospace;
     border-left:2px solid;
     padding:.5em 0 .5em 1em;
 }

@@ -4,11 +4,136 @@
 	<title>تەوار - وەشانی ٢.٠</title>
 	<meta charset="utf-8" >
 	<meta name="viewport" content="width=device-width, initial-scale=1" >
-	<link rel="stylesheet" href="src/frontend/style/main.css?v2">
-	<script>	 
-         if ('serviceWorker' in navigator)
-	     navigator.serviceWorker.register('/tewar/service-worker.js', {scope: '/tewar/'});
-	</script>
+	<script>
+    if ('serviceWorker' in navigator)
+	navigator.serviceWorker.register('/service-worker.js', {scope: '/'}); </script>
+	<style>@font-face
+{
+    font-family:'kurd';
+    font-display:swap;
+    font-style:normal;
+    font-weight:400;
+    src:url('src/frontend/style/DroidNaskh-Regular.woff2') format('woff2');
+}
+*
+{
+    box-sizing:border-box;
+    font-family:'kurd', Arial;
+    font-size:inherit;
+}
+body
+{
+    margin:1em;
+}
+a
+{
+    color:#00e;
+}
+#main
+{
+    max-width:800px;
+    margin:auto;
+}
+input[type=text],button
+{
+    appearance:none;
+    -webkit-appearance:none;
+    transition:all .2s ease;
+    -webkit-transition:all .2s ease;
+}
+input[type=text]
+{
+    width:100%;
+    display:block;
+    padding:1em;
+    outline:0;
+    border:0;
+    border-bottom:2px solid;
+}
+input[type=text]:focus
+{
+    border-color:#00e;
+}
+button
+{
+    display:block;
+    outline:0;
+    border:0;
+    border-radius:1em;
+    margin:1em auto;
+    padding:1em 2em;
+    background:none;
+    border:2px solid;
+}
+button:hover
+{
+    border-color:#00e;
+}
+@keyframes loading
+{
+    0% {width:3em}
+    25% {width:5em}
+    65% {width:2em}
+    80% {width:5em}
+    100% {width:3em}
+}
+.loading
+{
+    height:2px;
+    animation:loading 1s ease infinite;
+    display:block;
+    margin:1em auto;
+    background:#00e;
+}
+#dicts div
+{
+    font-size:.85em;
+}
+#dicts input[type=checkbox]
+{
+    margin:0;
+}
+#dicts label
+{
+    padding-right:.5em;
+}
+#dicts
+{
+    padding:1em 0 0;
+}
+header h1
+{
+    cursor:pointer;
+    display:inline-block;
+    margin:.3em 0;
+}
+header
+{
+    font-size:2em;
+    max-width:1000px;
+    margin:auto;
+}
+header small
+{
+    font-size:.5em;
+    vertical-align:top;
+}
+code
+{
+    display:block;
+    direction:ltr;
+    font-family:'kurd', Monospace;
+    border-left:2px solid;
+    padding:.5em 0 .5em 1em;
+}
+footer
+{
+    padding:1em;
+    text-align:left;
+    max-width:1000px;
+    margin:auto;
+}
+</style>
     </head>
     <body>
 	<header>
@@ -34,6 +159,182 @@
 		ئاڵەکۆک
 	    </a>
 	</footer>
-	<script src="src/frontend/script/main.js?v2" defer></script>
+	<script>/* Constants */
+const dicts = {
+    'henbane-borine': 'هەنبانەبۆرینە (کوردیی ناوەندی-فارسی)',
+    xal: 'خاڵ (کوردیی ناوەندی-کوردیی ناوەندی)',
+    kawe: 'کاوە (فارسی-کوردیی ناوەندی)',
+    bashur: 'باشوور (کوردیی گۆرانی-فارسی)',
+    kameran: 'کامەران (کوردیی کورمانجی-کوردیی کورمانجی)',
+    //dictio: 'دیکتیۆ (ئینگلیزی-کوردیی ناوەندی)',
+    e2k: 'e2k (ئینگلیزی-کوردیی ناوەندی)',
+    zkurd: 'zkurd (ئینگلیزی-کوردیی ناوەندی)',
+};
+const dicts_selected_storage_name = 'dicts_selected';
+const dicts_selected_storage = isJSON(localStorage.getItem(dicts_selected_storage_name));
+const dicts_selected = dicts_selected_storage || [ 'henbane-borine' , 'kawe' , 'xal' ];
+const dicts_el_id = 'dicts';
+const q_el_id = 'q';
+const result_el_id = 'result';
+const form_el_id = 'frm';
+
+/* Functions */
+function getUrl (url, callback)
+{
+    const client = new XMLHttpRequest();
+    client.open('get', url);
+    client.onload = function ()
+    {
+	callback(this.responseText);
+    }
+    client.send();
+}
+
+function lookup ()
+{
+    const q_el = document.getElementById(q_el_id);
+    const dicts = get_selected_dicts();
+    const dicts_req = dicts.join(',');
+    const result_el = document.getElementById(result_el_id);
+    const q = encodeURIComponent(q_el.value.trim());
+    const request = `src/backend/lookup.php?q=${q}&dicts=${dicts_req}&output=json`;
+    const loading = '<div class="loading"></div>';
+
+    if(!q)
+    {
+	q_el.focus();
+	return;
+    }
+    if(dicts.length == 0)
+    {
+	result_el.innerHTML = '<p>(تکایە فەرهەنگێک هەڵبژێرن)</p>';
+	return;
+    }
+
+    // Loading animation
+    result_el.innerHTML = loading;
+
+    // Save selected dicts
+    save_selected_dicts(dicts);
+    
+    getUrl(request, function(response) {
+	response = isJSON(response);
+	if(! response) return;
+	
+	let toprint = '';
+	for(const i in response)
+	{
+	    const res = response[i];
+	    toprint += `<h2>${dict_to_kurdish(i)}</h2>`;
+	    if(!res.length)
+		toprint += `<p><i>(نەدۆزرایەوە)</i></p>`;
+	    for(const j in res)
+	    {
+		const r = res[j];
+		toprint += `<p>- ${r}</p>`;
+	    }
+	}
+	result_el.innerHTML = toprint;
+    });
+}
+
+function isJSON (string)
+{
+    try
+    {
+	return JSON.parse(string);
+    }
+    catch (e)
+    {
+	console.log(e);
+	return false;
+    }
+}
+
+function get_selected_dicts ()
+{
+    let selected = [];
+    
+    const dicts_el = document.getElementById(dicts_el_id);
+    const dicts_checks = dicts_el.querySelectorAll('input[type=checkbox]');
+    dicts_checks.forEach(function (o) {
+	const d = o.id;
+	if(o.checked && dict_valid(d))
+	    selected.push(d);
+    });
+    
+    return selected;
+}
+
+function save_selected_dicts (selected_dicts)
+{
+    localStorage.setItem(dicts_selected_storage_name,
+			 JSON.stringify(selected_dicts));
+}
+
+function dict_to_kurdish (dict)
+{
+    dict = dict.toLowerCase();
+    try
+    {
+	return dicts[dict];
+    }
+    catch (e)
+    {
+	console.log(e);
+	return false;
+    }
+}
+
+function dicts_print ()
+{
+    let dicts_html = '';
+    for (const i in dicts)
+    {
+	dicts_html += `<div><input type="checkbox" id="${i}" 
+${dicts_selected.indexOf(i) !== -1 ? 'checked' : ''}
+><label for="${i}">${dicts[i]}</label></div>`;
+    }
+    document.getElementById(dicts_el_id).innerHTML = dicts_html;
+}
+
+function dict_valid (dict)
+{
+    for(const i in dicts)
+	if(i == dict) return dict;
+    
+    return false;
+}
+
+function clear_screen ()
+{
+    const result_el = document.getElementById(result_el_id);
+    const q_el = document.getElementById(q_el_id);
+    
+    result_el.innerHTML = '';
+    q_el.value = '';
+
+    q_el.focus();
+}
+
+/* Events */
+window.addEventListener('load', function () {
+    // Dicts
+    dicts_print();
+
+    // Form
+    const form_el = document.getElementById(form_el_id);
+    form_el.addEventListener('submit', function(e) {
+	e.preventDefault();
+	lookup();
+    });
+
+    // Header
+    const header_h1_el = document.querySelector('header h1');
+    header_h1_el.addEventListener('click', function() {
+	clear_screen();
+    });
+});
+</script>
     </body>
 </html>
