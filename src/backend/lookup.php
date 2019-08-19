@@ -23,9 +23,12 @@ else
     $toprint = '';
     foreach($results as $dict=>$result)
     {
-	foreach($result as $res)
+	if($result)
 	{
-	    $toprint .= "$dict\t$res\n";
+	    foreach($result as $res)
+	    {
+		$toprint .= "$dict\t$res\n";
+	    }
 	}
     }
     echo trim($toprint);
