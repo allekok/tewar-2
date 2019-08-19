@@ -109,8 +109,8 @@ function dict_list ()
 
 function get_from_user ($request)
 {
-    return @strtolower(trim(
-	filter_var($request, FILTER_SANITIZE_STRING)));
+    return @ strtolower (trim (filter_var (
+	$request,FILTER_SANITIZE_STRING )));
 }
 
 function lookup ($q, $dict_name)
@@ -122,7 +122,7 @@ function lookup ($q, $dict_name)
     $query = "ALTER TABLE `$dict_name`";
     if(! mysqli_query($mysql, $query))
 	return NULL;
-
+    
     $query = "SELECT meaning FROM `$dict_name` WHERE word='$q'";
     $mysql_result = mysqli_query($mysql, $query);
     if(! $mysql_result)
