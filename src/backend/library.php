@@ -1,6 +1,17 @@
 <?php
 require('../../config.php');
 
+const _dicts = [
+    'bashur',
+    //'dictio',
+    'e2k',
+    'henbane-borine',
+    'kameran',
+    'kawe',
+    'xal',
+    'zkurd',
+];
+
 function mysql_connection ($db = MYSQL_DB)
 {
     $mysql = mysqli_connect(MYSQL_HOST,

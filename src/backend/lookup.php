@@ -11,7 +11,8 @@ $results = [];
 
 foreach($dicts as $dict)
 {
-    $results[$dict] = lookup($q, $dict);
+    if(in_array($dict, _dicts))
+	$results[$dict] = lookup($q, $dict);
 }
 
 if($output_type == 'json')
