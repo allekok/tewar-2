@@ -36,7 +36,7 @@ function meta ($string)
 
 function dict_list ()
 {
-    require('../config.php');    
+    require('../config.php');
     if(! file_exists(DICT_PATH))
 	die('func: dict_list, `DICT_PATH` not found.');
     $d = opendir(DICT_PATH);
