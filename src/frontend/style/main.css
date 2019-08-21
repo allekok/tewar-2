@@ -18,23 +18,25 @@ a
     max-width:800px;
     margin:auto;
 }
-input[type=text],button
+textarea,button
 {
     appearance:none;
     -webkit-appearance:none;
     transition:all .2s ease;
     -webkit-transition:all .2s ease;
 }
-input[type=text]
+textarea
 {
     width:100%;
     display:block;
     padding:1em;
     outline:0;
     border:0;
-    border-bottom:2px solid;
+    border:2px solid;
+    border-radius:1em;
+    height:10em;
 }
-input[type=text]:focus
+textarea:focus
 {
     border-color:#00e;
 }
@@ -69,7 +71,7 @@ button:hover
     margin:1em auto;
     background:#00e;
 }
-#dicts div
+#dicts div, #frm p
 {
     font-size:.85em;
 }

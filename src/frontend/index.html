@@ -12,8 +12,16 @@
 	    <h1>تەوار <small>وەشانی ٢.٠</small></h1>
 	</header>
 	<main id="main">
-	    <form method="get" action="src/backend/lookup.php" id="frm">
-		<input type="text" name="q" id="q" placeholder="وشە...">
+	    <form method="post" action="src/backend/lookup.php" id="frm">
+		<textarea name="q" id="q" placeholder="وشەکان..."></textarea>
+		<p>
+		    تکایە ئەگەر وشەکەو لە چەند بەش پێکهاتووە کە دەبێ بە بۆشایی جوێ بکرێنەوە، بە جێی بۆشایی، "-" بەکار بێنن.
+		    بۆ نمونە:
+		    <br>
+		    "یەک کەوتن"
+		    -&rsaquo;
+		    "یەک-کەوتن"
+		</p>
 		<!-- < If Javascript was not enabled -->
 		<input type="hidden" name="dicts" value="henbane-borine,xal,kawe">
 		<!-- /> -->

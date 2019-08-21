@@ -10,8 +10,10 @@ const dicts = {
     zkurd: 'zkurd (ئینگلیزی-کوردیی ناوەندی)',
 };
 const dicts_selected_storage_name = 'dicts_selected';
-const dicts_selected_storage = isJSON(localStorage.getItem(dicts_selected_storage_name));
-const dicts_selected = dicts_selected_storage || [ 'henbane-borine' , 'kawe' , 'xal' ];
+const dicts_selected_storage = isJSON(
+    localStorage.getItem(dicts_selected_storage_name));
+const dicts_selected = dicts_selected_storage ||
+      [ 'henbane-borine' , 'xal' ];
 const dicts_el_id = 'dicts';
 const q_el_id = 'q';
 const result_el_id = 'result';
@@ -29,6 +31,19 @@ function getUrl (url, callback)
     client.send();
 }
 
+function postUrl (url, request, callback)
+{
+    const client = new XMLHttpRequest();
+    client.open('post', url);
+    client.onload = function ()
+    {
+	callback(this.responseText);
+    }
+    client.setRequestHeader(
+	"Content-type","application/x-www-form-urlencoded");
+    client.send(request);
+}
+
 function lookup ()
 {
     const q_el = document.getElementById(q_el_id);
@@ -36,7 +51,8 @@ function lookup ()
     const dicts_req = dicts.join(',');
     const result_el = document.getElementById(result_el_id);
     const q = encodeURIComponent(q_el.value.trim());
-    const request = `src/backend/lookup.php?q=${q}&dicts=${dicts_req}&output=json`;
+    const url = 'src/backend/lookup.php';
+    const request = `q=${q}&dicts=${dicts_req}&output=json`;
     const loading = '<div class="loading"></div>';
 
     if(!q)
@@ -56,22 +72,26 @@ function lookup ()
     // Save selected dicts
     save_selected_dicts(dicts);
     
-    getUrl(request, function(response) {
+    postUrl(url, request, function(response) {
 	response = isJSON(response);
 	if(! response) return;
 	
-	let toprint = '';
+	let toprint = '<p>گەڕان ' + response.time
+	    + 'چرکەی خایاند.</p>';
 	for(const i in response)
 	{
-	    const res = response[i];
+	    if(i == 'time') continue;
+	    
 	    toprint += `<h2>${dict_to_kurdish(i)}</h2>`;
-	    if(!res.length)
-		toprint += `<p><i>(نەدۆزرایەوە)</i></p>`;
-	    for(const j in res)
+	    
+	    const res = response[i];
+	    let wm_html = '';
+	    for(const w in res)
 	    {
-		const r = res[j];
-		toprint += `<p>- ${r}</p>`;
+		const m = res[w];
+		if(m) wm_html += `<p>- <b>${w}</b>: ${m}</p>`;
 	    }
+	    toprint += wm_html ? wm_html : '<p><i>(نەدۆزرایەوە)</i></p>';
 	}
 	result_el.innerHTML = toprint;
     });

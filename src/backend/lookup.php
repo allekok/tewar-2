@@ -4,31 +4,31 @@
  * Output: Text or JSON */
 require('library.php');
 
-$q = get_from_user(@$_REQUEST['q']);
+$q = match_words(get_from_user(@$_REQUEST['q']));
 $dicts = explode(',' , get_from_user(@$_REQUEST['dicts']));
 $output_type = get_from_user(@$_REQUEST['output']);
-$results = [];
 
-foreach($dicts as $dict)
-{
-    if(in_array($dict, _dicts))
-	$results[$dict] = lookup($q, $dict);
-}
+$t0 = microtime(true);
+$results = lookup($q, $dicts);
+$t1 = microtime(true);
+
+$dt = kurdish_numbers(number_format($t1-$t0, 3));
 
 if($output_type == 'json')
 {
+    $results['time'] = $dt;
     echo json_encode($results);
 }
 else
 {
-    $toprint = '';
+    $toprint = 'گەڕان ' . $dt . "چرکەی خایاند.\n";
     foreach($results as $dict=>$result)
     {
 	if($result)
 	{
-	    foreach($result as $res)
+	    foreach($result as $w => $meaning)
 	    {
-		$toprint .= "$dict\t$res\n";
+		$toprint .= "$dict\t$w\t$meaning\n";
 	    }
 	}
     }

@@ -15,7 +15,7 @@ function number_of_lines ($string)
 
 function sanitize_string ($string)
 {
-    $string = str_replace(["\r\n", ' '],
+    $string = str_replace(["\r\n", ' ',],
 			  [  "\n", ' '],
 			  $string);
     $string = trim($string);
