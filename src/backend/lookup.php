@@ -17,6 +17,8 @@ $dt = kurdish_numbers(number_format($t1-$t0, 3));
 if($output_type == 'json')
 {
     $results['time'] = $dt;
+    
+    header('Content-type:application/json; charset=utf-8');
     echo json_encode($results);
 }
 else
@@ -32,6 +34,8 @@ else
 	    }
 	}
     }
+    
+    header('Content-type:text/plain; charset=utf-8');
     echo trim($toprint);
 }
 ?>
