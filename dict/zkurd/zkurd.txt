@@ -619,7 +619,7 @@ EtherTalk	(Ether Talk)، تێتێر تاک
 event	ڕووداو
 event-counter	ڕووداوژمێر
 event-file	پەڕگەی ڕووداو
-exa--(=-E-)	"ئێگزا-"
+exa-(=-E-)	"ئێگزا-"
 exabit-(=-Eb)	"ئێگزابیت"
 exabyte-(=-EB)	"ئێگزابایت"
 exceed	زیاتربوون یان ڕۆیشتن لە (سنوور، پەیڕەو)، تێپەڕبوون لە
@@ -756,7 +756,7 @@ general	گشتی
 generate	بەدیهێنان
 GIF-(1)	"گیف"، فۆرماتی ناوبەستی گرافیک
 GIF-(2)	(جۆرە درێژکراوەیەکی پەڕگە)
-gig--=-giga-	بنواڕە -giga
+gig-=-giga-	بنواڕە -giga
 giga-	"گیگا-"، "جیگا-"
 global	جیهانی
 GNU	GNU، "گنو"
@@ -1578,7 +1578,7 @@ SYN-character-	بنواڕە synchronous idle character
 sync	هاوکاتگەری
 sync-bit	بیتی هاوکاتگەری
 synchro-(1)	هاوکاتگەر، هاودەمگەر، "سەنکرۆ"
-synchro--(2)	"هاوکات ـ"
+synchro-(2)	"هاوکات ـ"
 synchronise-	بنواڕە synchronize
 synchronism	هاوکاتی، هاودەمی، هاوهەنگاوی
 synchronization-(1)	هاوکاتی، هاودەمی

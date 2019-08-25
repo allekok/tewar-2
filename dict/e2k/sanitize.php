@@ -20,8 +20,7 @@ $input = preg_replace(['/\r\n<link .*"Phonetic">\s*/ui',
 		      ["\t","\t",', ',', ',''], $input);
 $input = sanitize_string($input);
 
-file_put_contents(output, $input);
-meta($input);
+save(output, $input);
 
 exec('rm E2K-*');
 ?>

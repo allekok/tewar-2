@@ -13,6 +13,5 @@ if(! file_exists(dict_path))
 $input = file_get_contents(dict_output_path);
 $input = sanitize_string($input);
 
-file_put_contents(output, $input);
-meta($input);
+save(output, $input);
 ?>

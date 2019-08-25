@@ -15,8 +15,7 @@ $input = preg_replace(['/\r\n<link rel="stylesheet" type="text\/css" href="XalD.
 		      ["\t",''], $input);
 $input = sanitize_string($input);
 
-file_put_contents(output, $input);
-meta($input);
+save(output, $input);
 
 exec('rm Xal\ *');
 ?>

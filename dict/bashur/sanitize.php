@@ -27,8 +27,7 @@ $input = str_replace("\r\n\tفارسی:",
 $input = filter_var($input, FILTER_SANITIZE_STRING);
 $input = sanitize_string($input);
 
-file_put_contents(output, $input);
-meta($input);
+save(output, $input);
 
 exec('rm Bashur\ *');
 ?>

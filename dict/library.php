@@ -27,10 +27,14 @@ function mdict_unpack ($path)
     exec("mdict -x '$path'");
 }
 
-function meta ($string)
+function meta ($string, $dict_path)
 {
     $meta = "ئەژماری دێڕەکان\t" .
-	    kurdish_numbers(number_format(number_of_lines($string)));
+	    kurdish_numbers(number_format(number_of_lines($string))) .
+	    "\nگەورەیی فەرهەنگ\t" .
+	    kurdish_numbers(number_format(filesize($dict_path)/1e6, 1)) .
+	    'MB';
+    
     file_put_contents(meta_file_name, $meta);
 }
 
@@ -57,5 +61,11 @@ function kurdish_numbers ($input)
     return str_replace(['1','2','3','4','5','6','7','8','9','0'],
 		       ['١','٢','٣','٤','٥','٦','٧','٨','٩','٠'],
 		       $input);
+}
+
+function save ($where, $string)
+{
+    file_put_contents($where, $string);
+    meta($string, $where);
 }
 ?>

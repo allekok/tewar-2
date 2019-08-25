@@ -18,8 +18,11 @@ foreach($dicts as $o)
 	$line = explode("\t", trim(fgets($f)));
 	if(@$line[1])
 	{
-	    $w = preg_replace('/\s+/u', '-', trim($line[0]));
-	    $w = str_replace('‌', '', $w);
+	    $w = trim($line[0]);
+	    $w = str_replace('ه‌', 'ە', $w);
+	    $w = trim(str_replace('‌', ' ', $w));
+	    $w = preg_replace('/\s+/u', '-', $w);
+	    $w = preg_replace('/-+/u', '-', $w);
 	    $m = trim($line[1]);
 	    $new_lines[] = "$w\t$m";
 	}

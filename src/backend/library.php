@@ -71,10 +71,11 @@ function sanitize_string ($string)
 	'!','@','#','$','%','^','&','*','(',')',
 	'=','_','+','\\','|','[',']','{','}',
 	'"',"'",';',':','/','?','.',',','<','>',
-	'،','؟','؛','‌'
+	'،','؟','؛',
     ];
 
     $string = str_replace($to_remove, '', $string);
+    $string = str_replace('‌', '-', $string);
     
     return $string;
 }
