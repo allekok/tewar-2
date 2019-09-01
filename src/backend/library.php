@@ -1,5 +1,5 @@
 <?php
-require('../../config.php');
+@include_once('../../config.php');
 
 function dict_path ($dict_name)
 {
