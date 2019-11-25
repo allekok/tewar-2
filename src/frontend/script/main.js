@@ -48,11 +48,9 @@ function lookup ()
 {
     const q_el = document.getElementById(q_el_id);
     const dicts = get_selected_dicts();
-    const dicts_req = dicts.join(',');
     const result_el = document.getElementById(result_el_id);
     const q = encodeURIComponent(q_el.value.trim());
     const url = 'src/backend/lookup.php';
-    const request = `q=${q}&dicts=${dicts_req}&output=json`;
     const loading = '<div class="loading"></div>';
 
     if(!q)
@@ -71,20 +69,20 @@ function lookup ()
 
     // Save selected dicts
     save_selected_dicts(dicts);
-    
-    postUrl(url, request, function(response) {
-	response = isJSON(response);
-	if(! response) return;
-	
-	let toprint = '<p>گەڕان ' + response.time
-	    + 'چرکەی خایاند.</p>';
-	for(const i in response)
-	{
-	    if(i == 'time') continue;
+
+    for(const i in dicts)
+    {
+	const request = `q=${q}&dicts=${dicts[i]}&output=json`;
+	postUrl(url, request, function(response) {
+	    response = isJSON(response);
+	    if(! response) return;
 	    
-	    toprint += `<h2>${dict_to_kurdish(i)}</h2>`;
+	    if(result_el.innerHTML == loading)
+		result_el.innerHTML = '';
 	    
-	    const res = response[i];
+	    let toprint = `<h2>${dict_to_kurdish(dicts[i])}</h2>`;
+	    
+	    const res = response[dicts[i]];
 	    let wm_html = '';
 	    for(const w in res)
 	    {
@@ -92,9 +90,10 @@ function lookup ()
 		if(m) wm_html += `<p>- <b>${w}</b>: ${m}</p>`;
 	    }
 	    toprint += wm_html ? wm_html : '<p><i>(نەدۆزرایەوە)</i></p>';
-	}
-	result_el.innerHTML = toprint;
-    });
+	    
+	    result_el.innerHTML += toprint;
+	});
+    }
 }
 
 function isJSON (string)

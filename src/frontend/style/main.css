@@ -119,3 +119,7 @@ footer
     max-width:1000px;
     margin:auto;
 }
+#result h2 small
+{
+    font-size:.7em;
+}
