@@ -119,7 +119,16 @@ footer
     max-width:1000px;
     margin:auto;
 }
+#result h2
+{
+    color:#00E;
+    font-weight:normal;
+}
 #result h2 small
 {
     font-size:.7em;
+}
+#result p
+{
+    padding-right:1.5em;
 }
