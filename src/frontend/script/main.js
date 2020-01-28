@@ -89,7 +89,8 @@ function lookup ()
 		const m = res[w];
 		if(m) wm_html += `<p>- <b>${w}</b>: ${m}</p>`;
 	    }
-	    toprint += wm_html ? wm_html : '<p><i>(نەدۆزرایەوە)</i></p>';
+	    toprint += wm_html ? wm_html :
+		'<p><i style="color:#555">(نەدۆزرایەوە)</i></p>';
 	    
 	    result_el.innerHTML += toprint;
 	});
