@@ -16,10 +16,16 @@ $dt = kurdish_numbers(number_format($t1-$t0, 3));
 
 if($output_type == 'json')
 {
-    $results['time'] = $dt;
+    $new_results = [];
+    foreach($results as $dict_name => $dict) {
+	foreach($dict as $arr) {
+	    @$new_results[$dict_name][$arr[0]] = $arr[1];
+	}
+    }
+    $new_results['time'] = $dt;
     
     header('Content-type:application/json; charset=utf-8');
-    echo json_encode($results);
+    echo json_encode($new_results);
 }
 else
 {
@@ -28,8 +34,10 @@ else
     {
 	if($result)
 	{
-	    foreach($result as $w => $meaning)
+	    foreach($result as $arr)
 	    {
+		$w = $arr[0];
+		$meaning = $arr[1];
 		$toprint .= "$dict\t$w\t$meaning\n";
 	    }
 	}

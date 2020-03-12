@@ -1,9 +1,20 @@
 <?php
 @include_once('../../config.php');
 
+$extras = ["&#34;","&#39;","&laquo;","&raquo;","&rsaquo;",
+	   "&lsaquo;","&bull;","&nbsp;","?", "!", "#", "&",
+	   "*", "(", ")", "-","+", "=", "_","[", "]", "{",
+	   "}","<",">","\\","/", "|", "'","\"", ";", ":", ",",
+	   ".", "~", "`", "؟", "،", "»", "«","ـ","؛","›","‹","•","‌"];
+$ar_signs =["ِ", "ُ", "ٓ", "ٰ", "ْ", "ٌ", "ٍ", "ً", "ّ", "َ"];
+$replace = [
+    "from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ"],
+    "to"=>["ر","ل","و","ت","ز","ز","ز"],
+];
+
 function dict_path ($dict_name)
 {
-    return DICT_PATH . "/$dict_name/$dict_name.txt";
+    return DICT_PATH . "/$dict_name/{$dict_name}.txt_search";
 }
 
 function dict_list ()
@@ -66,17 +77,10 @@ function match_words ($string)
 
 function sanitize_string ($string)
 {
-    // Remove Punctuation Marks
-    $to_remove = [
-	'!','@','#','$','%','^','&','*','(',')',
-	'=','_','+','\\','|','[',']','{','}',
-	'"',"'",';',':','/','?','.',',','<','>',
-	'،','؟','؛',
-    ];
-
-    $string = str_replace($to_remove, '', $string);
-    $string = str_replace('‌', '-', $string);
-    
+    global $extras, $ar_sign, $replace;
+    $string = str_replace($extras, "", $string);
+    $string = str_replace($ar_sign, "", $string);
+    $string = str_replace($replace["from"], $replace["to"], $string);
     return $string;
 }
 
@@ -89,9 +93,9 @@ function dict ($dict_name)
     while(! feof($f))
     {
 	$line = explode("\t", trim(fgets($f)));
-	if(@$line[1])
+	if(@$line[2])
 	{
-	    $dict[$line[0]] = $line[1];
+	    $dict[$line[0]] = [$line[1],$line[2]];
 	}
     }
     fclose($f);
