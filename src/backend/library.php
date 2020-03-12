@@ -77,9 +77,9 @@ function match_words ($string)
 
 function sanitize_string ($string)
 {
-    global $extras, $ar_sign, $replace;
+    global $extras, $ar_signs, $replace;
     $string = str_replace($extras, "", $string);
-    $string = str_replace($ar_sign, "", $string);
+    $string = str_replace($ar_signs, "", $string);
     $string = str_replace($replace["from"], $replace["to"], $string);
     return $string;
 }

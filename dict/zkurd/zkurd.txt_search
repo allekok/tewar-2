@@ -1,8 +1,8 @@
-A-1	A-(1)	"ئەی"
-A-Programming-Language-	A-Programming-Language-	زمانی پرۆگرامکردنی "ئەی"،
+A1	A-(1)	"ئەی"
+AProgrammingLanguage	A-Programming-Language-	زمانی پرۆگرامکردنی "ئەی"،
 A	A+	ئەی‌پڵەس
-a-bus	a-bus	تێپەڕگەی "ئەی"
-a-ring--a-circle	a-ring-(=-a-circle)	"ئەی‌‌‌‌ڕینگ"، ئەی‌بازنه، ئای ئاڵقەدار، ئای بازنەدار‌
+abus	a-bus	تێپەڕگەی "ئەی"
+aringacircle	a-ring-(=-a-circle)	"ئەی‌‌‌‌ڕینگ"، ئەی‌بازنه، ئای ئاڵقەدار، ئای بازنەدار‌
 a2b	a2b	ئەی‌توو‌بی
 A4	A4	ئا٤، ئاچوار
 A5	A5	ئا٥، ئاپێنج
@@ -10,85 +10,85 @@ A	A:	ئا جووتخاڵ
 AAA	AAA	تریپڵ ئەی، ڕەسەنێتی، دەسەڵاتپێدان و ژمێریاری
 AAAI	AAAI	تریپڵ‌ئەی‌‌ئای، کۆمەڵەی ئەمریکی بۆ هزری دەستکرد
 AAC	AAC	ئە‌ی‌ئەی‌سی
-AB-roll	AB-roll	خلۆریی ئەی‌بی
+ABroll	AB-roll	خلۆریی ئەی‌بی
 abacus	abacus	چۆرت، ئەژمێر
 abandon	abandon	وازلێهێنان. وەلانان
-abandon-text	abandon-text	وازلێهێنانی دەق
+abandontext	abandon-text	وازلێهێنانی دەق
 abandonware	abandonware	فڕێواڵە، بەرنامەواڵەی وازلێهێنراو
 abbreviate	abbreviate	کورتەکردنەوە، کورتکردنەوە
 abbreviated	abbreviated	کورتە
-abbreviated-addressing-	abbreviated-addressing-	ناونیشانپێدانی کورتە
-abbreviation-	abbreviation-	١ـ کورتکردنەوە ٢ـ کورتە، کورتکراوه
+abbreviatedaddressing	abbreviated-addressing-	ناونیشانپێدانی کورتە
+abbreviation	abbreviation-	١ـ کورتکردنەوە ٢ـ کورتە، کورتکراوه
 abbreviations	abbreviations	١ـ فەرماننامەی کورتەکان ٢ـ کورتەکان
-abbreviations-file	abbreviation[s]-file	پەڕگەی کورتەکان
+abbreviationsfile	abbreviation[s]-file	پەڕگەی کورتەکان
 ABC	ABC	١ـ ئەلفبێ٢ـ بنەماکان ٣ـ پەڕتووکی سەرەتایی ٤ـ ئەلفبێی کار، سەرەتاکانی کار ٥ـ ئەی‌بی‌سی (کۆمپیوتەری ئاتانازۆف‌ـ بێڕی، لە مێژووی کۆمپیوتەردا)
-abend--abnormal-end--abnormal-termination	abend-(=-abnormal-end-=-abnormal-termination)	١ـ "ئابێند"، دواییهاتنی نائاسایی، کۆتاییپێهاتنی نائاسایی  ٢ـ کۆتاییپێهێنانی نائاسایی
-abend-recovery-program	abend-recovery-program	بەرنامەی چێکەرەوەی "ئابێند"
+abendabnormalendabnormaltermination	abend-(=-abnormal-end-=-abnormal-termination)	١ـ "ئابێند"، دواییهاتنی نائاسایی، کۆتاییپێهاتنی نائاسایی  ٢ـ کۆتاییپێهێنانی نائاسایی
+abendrecoveryprogram	abend-recovery-program	بەرنامەی چێکەرەوەی "ئابێند"
 ability	ability	توانا، لێهاتوویی
 ABIOS	ABIOS	ئەی‌بایووز، ئەی‌بی‌ئای‌ئۆ‌ئێس
 abnormal	abnormal	ناوازە، نائاسایی، ناسروشتی
 abnormally	abnormally	نائاسایییانە، ناسروشتییانه
 abort	abort	١ـ پچڕاندن، کوژاندنەوە ٢ـ لابردن، وەستاندن، كۆتاییپێهێنان (کۆتاییپێهێنانی بەئەنقەستی جێبەجێکردنی بەرنامە لەبەر سەرهەڵدانی هەڵە) ٣ـ کۆتاییپێهاتن (کۆتاییپێهاتنی جێبەجێکردنی بەرنامە لەلایەن سیستەمی کارپێکردنەوە)
-about-	about...-	سەبارەت...
+about	about...-	سەبارەت...
 abridge	abridge	کورتکردنەوە
 abridged	abridged	کورتەیی (ئاوەڵناو)
-abridged-version	abridged-version	وەشانی کورتەیی (لە پەڕتووک و دراوەدا‌)
+abridgedversion	abridged-version	وەشانی کورتەیی (لە پەڕتووک و دراوەدا‌)
 abridgement	abridgement	کورتکاری، پوختەکاری
 abrupt	abrupt	لەپڕ، لەناکاو، کوتوپڕ
 abscissa	abscissa	ڕایەڵی ئاسۆیی، پۆ
 absolute	absolute	١ـ ڕەها، بێپایان، بێجڵەو، بێسنوور، بەربەرەڵا ٢ـ تەواو
-absolute-address-actual-address--machine-address--direct-address	absolute-address-(actual-address-=-machine-address-=-direct-address)	ناونیشانی ڕەها، ناونیشانی پەتی، ناونیشانی ڕاستەقینە، ناونیشانی ماشینی، ناونیشانی فیزیکی
-absolute-addressing	absolute-addressing	ناونیشانپێدانی ڕەها
-absolute-assembler	absolute-assembler	ئەسمبلەری ڕەها
-absolute-code-1--absolute-program	absolute-code-(1)-(=-absolute-program)	بەرنامەی ڕەها، بەرنامەی ماشینی
-absolute-code-2	absolute-code-(2)	کۆدی ڕەها، نهێنیی ڕەها، نهێنیی کردەی ڕەها
-absolute-disk-address	absolute-disk-address	ناونیشانی ڕەهای دیسک، ناونیشانی فیزیکیی دیسک
-absolute-error	absolute-error	هەڵەی ڕەها، هەڵەی پەتی
-absolute-instruction--actual-instruction	absolute-instruction-(=-actual-instruction)	ڕێکارنامەی ڕەها، ڕێکارنامەی پەتی
-absolute-loader	absolute-loader	بارکەری پەتی
-abstract-1	abstract-(1)	پوخته، کورته
-abstract-2	abstract-(2)	١ـ ڕووت، نەبینراو، نادیار‌، لێدابڕاو ٢ـ پوختەکردن، کورتکردنەوە ٣ـ ڕووتکردن، بەڕووتی
-abstract-data-type	abstract-data-type	جۆرەـ‌ دراوەی ڕووت
-abstract-specification	abstract-specification	تایبەتمەندیی ڕووت
+absoluteaddressactualaddressmachineaddressdirectaddress	absolute-address-(actual-address-=-machine-address-=-direct-address)	ناونیشانی ڕەها، ناونیشانی پەتی، ناونیشانی ڕاستەقینە، ناونیشانی ماشینی، ناونیشانی فیزیکی
+absoluteaddressing	absolute-addressing	ناونیشانپێدانی ڕەها
+absoluteassembler	absolute-assembler	ئەسمبلەری ڕەها
+absolutecode1absoluteprogram	absolute-code-(1)-(=-absolute-program)	بەرنامەی ڕەها، بەرنامەی ماشینی
+absolutecode2	absolute-code-(2)	کۆدی ڕەها، نهێنیی ڕەها، نهێنیی کردەی ڕەها
+absolutediskaddress	absolute-disk-address	ناونیشانی ڕەهای دیسک، ناونیشانی فیزیکیی دیسک
+absoluteerror	absolute-error	هەڵەی ڕەها، هەڵەی پەتی
+absoluteinstructionactualinstruction	absolute-instruction-(=-actual-instruction)	ڕێکارنامەی ڕەها، ڕێکارنامەی پەتی
+absoluteloader	absolute-loader	بارکەری پەتی
+abstract1	abstract-(1)	پوخته، کورته
+abstract2	abstract-(2)	١ـ ڕووت، نەبینراو، نادیار‌، لێدابڕاو ٢ـ پوختەکردن، کورتکردنەوە ٣ـ ڕووتکردن، بەڕووتی
+abstractdatatype	abstract-data-type	جۆرەـ‌ دراوەی ڕووت
+abstractspecification	abstract-specification	تایبەتمەندیی ڕووت
 abstractor	abstractor	پوختەنووس، پوختەساز
 accelerate	accelerate	١ـ تاودان، لەزپێدان، خێراکردن، گوڕپێدان ٢ـ تاوسەندن، لەزگرتن، گوڕگرتن
 accelerated	accelerated	تاودراو، تاوگرتوو، لەزگرتوو، تاودار
 acceleration	acceleration	تاو، لەز، گوڕ، خێرایی
-acceleration-function	acceleration-function	پابەندی تاو
+accelerationfunction	acceleration-function	پابەندی تاو
 accelerator	accelerator	تاودەر
 acceptance	acceptance	وەرگرتن، وەرگیران
-acceptance-number--ACCN	acceptance-number-(=-ACCN)	ژمارەی وەرگیران
-acceptance-test	acceptance-test	ئەزموونی وەرگیران، تاقیکردنەوەی وەرگیران
+acceptancenumberACCN	acceptance-number-(=-ACCN)	ژمارەی وەرگیران
+acceptancetest	acceptance-test	ئەزموونی وەرگیران، تاقیکردنەوەی وەرگیران
 acceptor	acceptor	وەرگر
 access	access	١ـ چوونەناو، دەستپێگەیشتن، ڕێی چوونەژوورەوە یاتێپەڕبوون ٢ـ مافی چوونەناو یان چوونەژوورەوە
-access-arm	access-arm	باسکی دەستپێگەیشتن، قۆڵی دەستپێگەیشتن
-access-barred	access-barred	دەستپێگەیشتنی نەلواو، دەستپێگەیشتنی ڕێپێنەدراو
-access-charge	access-charge	مزی دەستپێگەیشتن
-access-code--password	access-code-(=-password)	تێپەڕوشه، تێپەڕەوشە
+accessarm	access-arm	باسکی دەستپێگەیشتن، قۆڵی دەستپێگەیشتن
+accessbarred	access-barred	دەستپێگەیشتنی نەلواو، دەستپێگەیشتنی ڕێپێنەدراو
+accesscharge	access-charge	مزی دەستپێگەیشتن
+accesscodepassword	access-code-(=-password)	تێپەڕوشه، تێپەڕەوشە
 accessibility	accessibility	توانای دەستپێگەیشتن، دەستپێگەیشتەنێتی، توانای چوونەژوورێتی
-account--user-account	account-(=-user-account)	هەژمار، هەژماری بەکارهێنەر
+accountuseraccount	account-(=-user-account)	هەژمار، هەژماری بەکارهێنەر
 accountancy	accountancy	ژمێریاری
-accumulator-	accumulator-	كۆكەر
-acoustic--acoustical	acoustic-(=-acoustical)	١ـ دەنگی ٢ـ دەنگناسی، دەنگزانی فەرماننامەی بێناونیشان، ڕێکارنامەی بێناونیشان
+accumulator	accumulator-	كۆكەر
+acousticacoustical	acoustic-(=-acoustical)	١ـ دەنگی ٢ـ دەنگناسی، دەنگزانی فەرماننامەی بێناونیشان، ڕێکارنامەی بێناونیشان
 acquire	acquire	بەدەستهێنان (ی مافی لەچاپدانەوە)، کڕینی ماف (ی لەچاپدانەوە)
-acquiring-editor	acquiring-editor	پێداچووی مافی لەچاپدانەوە
+acquiringeditor	acquiring-editor	پێداچووی مافی لەچاپدانەوە
 Acrobat	Acrobat	ئەكروبات
 acronym	acronym	سەروشە
 action	action	کردار، کار، کردە، کردەوە
 active	active	چالاك، كارا
 ActiveX	ActiveX	ئەکتیڤ‌ئێکس (‌ActiveX)
-AD-After-Dark-image	AD-[After-Dark-image]	(جۆرە درێژکراوەیەکی پەڕگە)
-Ada--ADA	Ada-(=-ADA)	ئادا، ئێیدا
-Ada-language	Ada-language	زمانی ئادا، زمانی ئێیدا
-Ada-programming	Ada-programming	بەرنامەکردنی‌ ئادا، بەرنامەکردن بە زمانی ئێیدا
+ADAfterDarkimage	AD-[After-Dark-image]	(جۆرە درێژکراوەیەکی پەڕگە)
+AdaADA	Ada-(=-ADA)	ئادا، ئێیدا
+Adalanguage	Ada-language	زمانی ئادا، زمانی ئێیدا
+Adaprogramming	Ada-programming	بەرنامەکردنی‌ ئادا، بەرنامەکردن بە زمانی ئێیدا
 adapt	adapt	سازکردن، گونجاندن
 adapter	adapter	سازكەر، گونجێنەر
 add	add	خستنەسەر، کۆکردنەوه، پێوەنان
-add-on	add-on	١ـ پێوەکراو، زیاترکراو، سەرخراو، زێدەکراو ٢ـ زیاترکەر، پێزیادکەر، وەسەرخەر
+addon	add-on	١ـ پێوەکراو، زیاترکراو، سەرخراو، زێدەکراو ٢ـ زیاترکەر، پێزیادکەر، وەسەرخەر
 address	address	ناونیشان
-address-bar	address-bar	تووڵی ناونیشان
-address-bus	address-bus	تێپەڕگەی ناونیشان
-addressless-instruction--zero-addressed-instruction	addressless-instruction-(=-zero-addressed-instruction)	فەرماننامەی بێناونیشان، ڕێکارنامەی بێناونیشان
+addressbar	address-bar	تووڵی ناونیشان
+addressbus	address-bus	تێپەڕگەی ناونیشان
+addresslessinstructionzeroaddressedinstruction	addressless-instruction-(=-zero-addressed-instruction)	فەرماننامەی بێناونیشان، ڕێکارنامەی بێناونیشان
 adminstration	adminstration	بەڕێوەبەری، بەڕێوەبەرایەتی، فەرمانگە
 adminstrator	adminstrator	بەڕێوەبەر
 advanced	advanced	پەرەسەندوو
@@ -100,10 +100,10 @@ alignment	alignment	لاگرتن، ڕیزكردن.
 alpha	alpha	ئالفا
 alphanumeric	alphanumeric	ئەلفژمارەیی
 alternate	alternate	لەبری، جێگرەوە، بژارە
-analog-1-	analog-(1)-	لێکچوو، هاویەک، هاوتا، هاوشێوە، بەرانبەر
-analog-2-	analog-(2)-	بەراوردی، پێوانەیی، بەراوردکارانە (ناڕەنووسی)
-analog-3-	analog-(3)-	بەراوردی، ئامێری بەراوردی، ئامێری پێوانەیی، ئامێری بەراوردکارانە (لە بەرانبەر "ئامێری ڕەنووسی")
-analog-adder	analog-adder	پێزیادکەری پێوانەیی
+analog1	analog-(1)-	لێکچوو، هاویەک، هاوتا، هاوشێوە، بەرانبەر
+analog2	analog-(2)-	بەراوردی، پێوانەیی، بەراوردکارانە (ناڕەنووسی)
+analog3	analog-(3)-	بەراوردی، ئامێری بەراوردی، ئامێری پێوانەیی، ئامێری بەراوردکارانە (لە بەرانبەر "ئامێری ڕەنووسی")
+analogadder	analog-adder	پێزیادکەری پێوانەیی
 analysis	analysis	شیكردنەوه، شیتەڵکاری
 anchor	anchor	لەنگەر
 animation	animation	جووڵاو، بزێو
@@ -112,32 +112,32 @@ anonymous	anonymous	نەناسراو، نەزانراو، بێناو، کەسن�
 antiglare	antiglare	دژەبریقە
 antivirus	antivirus	دژەڤایرۆس
 Apache	Apache	ئەپاچی
-APL-	APL-	ئەی‌پی‌ئێڵ
+APL	APL-	ئەی‌پی‌ئێڵ
 append	append	پاشكۆكردن، لەتەكخستن
 Apple	Apple	"ئەپڵ"
-Apple-Computer--Apple-Macintosh-Computer--Macintosh-Computer	Apple-Computer-(=-Apple-Macintosh-Computer-=-Macintosh-Computer)	کۆمپیوتەری ئەپڵ، پێژمێری ماکینتۆش
+AppleComputerAppleMacintoshComputerMacintoshComputer	Apple-Computer-(=-Apple-Macintosh-Computer-=-Macintosh-Computer)	کۆمپیوتەری ئەپڵ، پێژمێری ماکینتۆش
 appliance	appliance	ئامێر، کەرەستە، دەزگا
-appliance-computer	appliance-computer	پێژمێری ئامادە، کۆمپیوتەری ئامادەی کار
+appliancecomputer	appliance-computer	پێژمێری ئامادە، کۆمپیوتەری ئامادەی کار
 applicabillity	applicabillity	بەکاربەریخوازی
 applicable	applicable	بەکاربەریخواز
 applicant	applicant	داواکار، داخواز
-application-1	application-(1)	بەرنامەی بەکاربەری، نەرمەواڵەی بەکاربەری، بەرنامە، نەرمەواڵە
-application-2	application-(2)	١ـ داوانامە، داخوازنامە ٢ـ پرۆگرام (ی پێژمێر) ٣ـ بەکاربەری، بەکارهێنان، کارپێکردن، خستنەکار ٤ـ کاری بەکاربەریی کۆمپیوتەر، کاری کردەنی، کارێ بکرێ ئەنجام ببێت
-application-developer	application-developer	بەرهەمهێنانی بەرنامەی بەکاربەری
-application-development-language	application-development-language	زمانی بەرهەمهێنانی بەرنامەی بەکاربەری
-application-development-system	application-development-system	سیستەمی بەرهەمهێنانی بەرنامەی بەکاربەری
-application-file	application-file	پەڕگەی بەکاربەری
-application-form	application-form	فۆرمی داوانامە، فۆرمی داخوازنامە
-application-generator	application-generator	دینەمۆی بەرنامە
-application-icon	application-icon	وێنۆچکەی بەکاربەری
-application-package	application-package	گورزەی بەکاربەری، گورزەی نەرمەواڵەی بەکاربەری
-application-program-	application-program-	بنواڕه applications program
-application-oriented-language	application-oriented-language	زمانی بەکاربەریخواز
-applications-program	applications-program	بەرنامەی بەکاربەری
-applications-software	applications-software	نەرمەواڵەی بەکاربەری
-applications-terminal	applications-terminal	کۆتاگەی بەکاربەری
+application1	application-(1)	بەرنامەی بەکاربەری، نەرمەواڵەی بەکاربەری، بەرنامە، نەرمەواڵە
+application2	application-(2)	١ـ داوانامە، داخوازنامە ٢ـ پرۆگرام (ی پێژمێر) ٣ـ بەکاربەری، بەکارهێنان، کارپێکردن، خستنەکار ٤ـ کاری بەکاربەریی کۆمپیوتەر، کاری کردەنی، کارێ بکرێ ئەنجام ببێت
+applicationdeveloper	application-developer	بەرهەمهێنانی بەرنامەی بەکاربەری
+applicationdevelopmentlanguage	application-development-language	زمانی بەرهەمهێنانی بەرنامەی بەکاربەری
+applicationdevelopmentsystem	application-development-system	سیستەمی بەرهەمهێنانی بەرنامەی بەکاربەری
+applicationfile	application-file	پەڕگەی بەکاربەری
+applicationform	application-form	فۆرمی داوانامە، فۆرمی داخوازنامە
+applicationgenerator	application-generator	دینەمۆی بەرنامە
+applicationicon	application-icon	وێنۆچکەی بەکاربەری
+applicationpackage	application-package	گورزەی بەکاربەری، گورزەی نەرمەواڵەی بەکاربەری
+applicationprogram	application-program-	بنواڕه applications program
+applicationorientedlanguage	application-oriented-language	زمانی بەکاربەریخواز
+applicationsprogram	applications-program	بەرنامەی بەکاربەری
+applicationssoftware	applications-software	نەرمەواڵەی بەکاربەری
+applicationsterminal	applications-terminal	کۆتاگەی بەکاربەری
 applied	applied	بەکاربەری، کردەنی، کردارەکی
-applied-graphics	applied-graphics	گرافیکی بەکاربەری، نیگارەسازیی بەکاربەری
+appliedgraphics	applied-graphics	گرافیکی بەکاربەری، نیگارەسازیی بەکاربەری
 apply	apply	بەکاربردن
 approach	approach	نزیکبوونەوە، لێنزیکبوونەوە، چوون بەرەو
 approval	approval	١ـ پەسەندکردن، مۆرکردن، ڕەزامەندی ٢ـ  بەدڵبوون، پەسەندکردن ٣ـ ئافەرین
@@ -145,10 +145,10 @@ approve	approve	١ـ پەسەندکردن، مۆرکردن ٢ـ بەلاوەبا
 approximate	approximate	١ـ نزیک، لەیەکەوە نزیک ٢ـ وەک یەک، چونیەک ٣ـ نزیکەیی ٤ـ لێکچوون، لێککردن
 approximation	approximation	١ـ لێکچوون، لێنزیکبوونەوە ٢ـ نزیکەیی
 arbitrary	arbitrary	١ـ دڵویست، دڵخواز، بەمەیلی خۆ، لەڕووی ویستنەوە ٢ـ بێسەرووبەر، نابەجێ، لەخۆوە
-arbitrary-constant	arbitrary-constant	نەگۆڕی دڵویست، نەگۆڕی دڵخواز
+arbitraryconstant	arbitrary-constant	نەگۆڕی دڵویست، نەگۆڕی دڵخواز
 architecture	architecture	تەلارسازی
 archive	archive	ئەرشیڤ
-archived--A	archived-(=-A)	ئەرشیڤی
+archivedA	archived-(=-A)	ئەرشیڤی
 area	area	١ـ ناوچە، هەرێم، شوێن ٢ـ ڕووبەر، ڕوو، پانتایی ٣ـ بەستێن، بوار
 argue	argue	١ـ بەڵگەهێنانەوە ٢ـ مشتومڕکردن، چەندوچۆنکردن
 argument	argument	١ـ بەڵگە ٢ـ مشتومڕ، دەمەقاڵێ
@@ -157,45 +157,45 @@ array	array	ڕیز، ڕیزەك
 arrow	arrow	تیر
 ascending	ascending	هەڵچوون، بەرزبوون، بەرزەڕۆیی
 ASCII	ASCII	ئاسکی، ڕەمزی ئاسکی
-ASCII-character	ASCII-character	نووسەی ئاسکی
-ASCII-character-set	ASCII-character-set	کۆمەڵە نووسەی ئاسکی
-ASCII-code	ASCII-code	کۆدی ئاسکی
-ASCII-file	ASCII-file	پەڕگەی ئاسکی
-ASCII-FTP-mode	ASCII-FTP-mode	دۆخە FTP ی ئاسکی
-ASCII-keyboard	ASCII-keyboard	تەختەکلیلی ئاسکی
-ASCII-string	ASCII-string	ڕیزبەندی ئاسکی، ڕیزبەندی نووسەییی ئاسکی
-ASCII-text	ASCII-text	دەقی ئاسکی
+ASCIIcharacter	ASCII-character	نووسەی ئاسکی
+ASCIIcharacterset	ASCII-character-set	کۆمەڵە نووسەی ئاسکی
+ASCIIcode	ASCII-code	کۆدی ئاسکی
+ASCIIfile	ASCII-file	پەڕگەی ئاسکی
+ASCIIFTPmode	ASCII-FTP-mode	دۆخە FTP ی ئاسکی
+ASCIIkeyboard	ASCII-keyboard	تەختەکلیلی ئاسکی
+ASCIIstring	ASCII-string	ڕیزبەندی ئاسکی، ڕیزبەندی نووسەییی ئاسکی
+ASCIItext	ASCII-text	دەقی ئاسکی
 ASP	ASP	لاپەڕە ڕاژەكارە کاراکان
 assertion	assertion	١ـ سووربوون، داوا، خوازە، پێداگری ٢ـ دڵنیابوون
 associate	associate	هاوپەیوەند
-at-	at-(@)	ئالوول، ئاـ لوول
+at@	at-(@)	ئالوول، ئاـ لوول
 attachment	attachment	پاشكۆ
 attempt	attempt	هەوڵدان
 attribute	attribute	١ـ تایبەتمەندی، ئاكار، تایبەخۆ، پێناسە
 audio	audio	١ـ بیستەنی، بیستنی، ئاودیۆ ٢ـ دەنگ
-Audio-frequency--AF	Audio-frequency-(=-AF)	لە‌رەلەری بیستەنی
+AudiofrequencyAF	Audio-frequency-(=-AF)	لە‌رەلەری بیستەنی
 audit	audit	پێداچوونەوە، لێپرسینەوە، پشكنین
 authentication	authentication	ڕەسەنێتی
-authorization-	authorization-	ڕێپێدان، دەسەڵاتپێدان
-authorized-user	authorized-user	بەكارهێنەری ڕێپێدراو، بەکارهێنەری دەسەڵاتپێدراو
-auto-abstract	auto-abstract	پوختەی کۆمپیوتەری
-auto-scan	auto-scan	پشکنینی خۆکار
-auto-	auto-	١ـ "خۆ"، "خۆکار" ٢ـ "کۆمپیوتەری"، "ماشینی" (پێشگر)
-auto-answer	auto-answer	خۆوەڵام
-auto-boot	auto-boot	خۆبووت، خۆوەکارخەر
-auto-dialer--auto-dial--autodial	auto-dialer-(=-auto-dial-=-autodial)	خۆژمارەگر
-auto-repeat	auto-repeat	خۆبارە، خۆپاتە
-auto-stop	auto-stop	خۆوەست، خۆوەستان
+authorization	authorization-	ڕێپێدان، دەسەڵاتپێدان
+authorizeduser	authorized-user	بەكارهێنەری ڕێپێدراو، بەکارهێنەری دەسەڵاتپێدراو
+autoabstract	auto-abstract	پوختەی کۆمپیوتەری
+autoscan	auto-scan	پشکنینی خۆکار
+auto	auto-	١ـ "خۆ"، "خۆکار" ٢ـ "کۆمپیوتەری"، "ماشینی" (پێشگر)
+autoanswer	auto-answer	خۆوەڵام
+autoboot	auto-boot	خۆبووت، خۆوەکارخەر
+autodialerautodialautodial	auto-dialer-(=-auto-dial-=-autodial)	خۆژمارەگر
+autorepeat	auto-repeat	خۆبارە، خۆپاتە
+autostop	auto-stop	خۆوەست، خۆوەستان
 autocode	autocode	١ـ خۆڕەمز ٢ـ بەرنامەی خۆکار ٣ـ بەرنامەی چێکردنی کۆمپیوتەری
 autocorrect	autocorrect	ڕاستکردنەوەی خۆکار
-autodial-1--auto-dial	autodial-(1)-(=-auto-dial)	١ـ ژمارەگری خۆکار ٢ـ ژمارەگرتنی خۆکار
-autodial-2--auto-dial	autodial-(2)-(=-auto-dial)	خۆژمارەگر (لە مۆدێم و تەلەفۆندا)
-autodial-modem	autodial-modem	مۆدێمی خۆژمارەگر
+autodial1autodial	autodial-(1)-(=-auto-dial)	١ـ ژمارەگری خۆکار ٢ـ ژمارەگرتنی خۆکار
+autodial2autodial	autodial-(2)-(=-auto-dial)	خۆژمارەگر (لە مۆدێم و تەلەفۆندا)
+autodialmodem	autodial-modem	مۆدێمی خۆژمارەگر
 AUTOEXECBAT	AUTOEXEC.BAT	ئاوتۆـ‌ ئێگزێک ـ‌بەت
 autofocus	autofocus	ئاوتۆفوکوس، خۆمیقاتساز
-autograph-1	autograph-(1)	واژۆ
-autograph-2--manuscript	autograph-(2)-(=-manuscript)	دەستنووس
-Autograph-3--dynamic-mathematics-software	Autograph-(3)-(=-dynamic-mathematics-software)	ئاوتۆگراف
+autograph1	autograph-(1)	واژۆ
+autograph2manuscript	autograph-(2)-(=-manuscript)	دەستنووس
+Autograph3dynamicmathematicssoftware	Autograph-(3)-(=-dynamic-mathematics-software)	ئاوتۆگراف
 autoidentifier	autoidentifier	خۆناسکار
 automate	automate	١ـ خۆبەکاربەرین، بە خۆکارکردن ٢ـ کۆمپیوتەریکردن، ماشینیکردن
 automatic	automatic	خۆكار، ئۆتۆماتیك
@@ -204,67 +204,67 @@ autoplay	autoplay	خۆلێدان
 autoresponder	autoresponder	خۆوەڵامدەر
 autorestart	autorestart	خۆدەستپێکردنەوە
 autorun	autorun	خۆگەڕی
-autosave-	autosave-	خۆپاشەكەوت
+autosave	autosave-	خۆپاشەكەوت
 AutoShapes	AutoShapes	شێوەخۆكارییەكان
-autotrack-	autotrack-	سۆراخكردنی خۆكار
+autotrack	autotrack-	سۆراخكردنی خۆكار
 avatar	avatar	"ئاڤاتار"
 axis	axis	تەوەرە، تەوەر
 abandon	abandon	وازلێهێنان. وەلانان
-abandon-text	abandon-text	وازلێهێنانی دەق
+abandontext	abandon-text	وازلێهێنانی دەق
 abandonware	abandonware	فڕێواڵە، بەرنامەواڵەی وازلێهێنراو
 abbreviate	abbreviate	کورتەکردنەوە، کورتکردنەوە
 abbreviated	abbreviated	کورتە
-abbreviated-addressing-	abbreviated-addressing-	ناونیشانپێدانی کورتە
-abbreviation-	abbreviation-	١ـ کورتکردنەوە ٢ـ کورتە، کورتکراوه
+abbreviatedaddressing	abbreviated-addressing-	ناونیشانپێدانی کورتە
+abbreviation	abbreviation-	١ـ کورتکردنەوە ٢ـ کورتە، کورتکراوه
 abbreviations	abbreviations	١ـ فەرماننامەی کورتەکان ٢ـ کورتەکان
-abbreviations-file	abbreviation[s]-file	پەڕگەی کورتەکان
+abbreviationsfile	abbreviation[s]-file	پەڕگەی کورتەکان
 ABC	ABC	١ـ ئەلفبێ٢ـ بنەماکان ٣ـ پەڕتووکی سەرەتایی ٤ـ ئەلفبێی کار، سەرەتاکانی کار ٥ـ ئەی‌بی‌سی (کۆمپیوتەری ئاتانازۆف‌ـ بێڕی، لە مێژووی کۆمپیوتەردا)
-abend--abnormal-end--abnormal-termination	abend-(=-abnormal-end-=-abnormal-termination)	١ـ "ئابێند"، دواییهاتنی نائاسایی، کۆتاییپێهاتنی نائاسایی  ٢ـ کۆتاییپێهێنانی نائاسایی
-abend-recovery-program	abend-recovery-program	بەرنامەی چێکەرەوەی "ئابێند"
+abendabnormalendabnormaltermination	abend-(=-abnormal-end-=-abnormal-termination)	١ـ "ئابێند"، دواییهاتنی نائاسایی، کۆتاییپێهاتنی نائاسایی  ٢ـ کۆتاییپێهێنانی نائاسایی
+abendrecoveryprogram	abend-recovery-program	بەرنامەی چێکەرەوەی "ئابێند"
 ability	ability	توانا، لێهاتوویی
-B-1	B-(1)	نیشانەی کورتەی "بایت"
-B-2	B-(2)	"بی"
+B1	B-(1)	نیشانەی کورتەی "بایت"
+B2	B-(2)	"بی"
 B	B:	ب‌جووتخاڵ، بێ‌-جووتخاڵ
-back-1	back-(1)	١ـ پشت، پاش، دوا ٢ـ ڕابردوو (ئاوەڵناو) ٣ـ پاڵپشتیکردن
-back-2	back-(2)	گەڕانەوە، بۆ دواوە، بۆ پاشەوە
+back1	back-(1)	١ـ پشت، پاش، دوا ٢ـ ڕابردوو (ئاوەڵناو) ٣ـ پاڵپشتیکردن
+back2	back-(2)	گەڕانەوە، بۆ دواوە، بۆ پاشەوە
 backbone	backbone	گازەرا، بڕبڕە
-backbone-network	backbone-network	ڕایەڵەی بڕبڕە
+backbonenetwork	backbone-network	ڕایەڵەی بڕبڕە
 backdoor	backdoor	پشتەدەرگا
-backdrop--background-plane	backdrop-(=-background-plane)	پەردەی پاشبنەما
-backfile--backup-file	backfile-(=-backup-file)	پەڕگەی پاڵپشتی
+backdropbackgroundplane	backdrop-(=-background-plane)	پەردەی پاشبنەما
+backfilebackupfile	backfile-(=-backup-file)	پەڕگەی پاڵپشتی
 background	background	پاشبنەما
 backing	backing	١ـ پاڵپشتی ٢ـ پشتیوانی
-backslash-	backslash-(\)	لارەهێڵی پێچەوانە
-backspace-key	backspace-(key)	كلیلی دوابەر، كلیلی بەرەودوا
+backslash	backslash-(\)	لارەهێڵی پێچەوانە
+backspacekey	backspace-(key)	كلیلی دوابەر، كلیلی بەرەودوا
 backup	backup	پاڵپشت ـ پاراستن
-bad-sector-	bad-sector-	کەرتی خراپ، سەکتەری خراپ
-badge-reader	badge-reader	نیشانەخوێن، نیشانەخوێنەر
+badsector	bad-sector-	کەرتی خراپ، سەکتەری خراپ
+badgereader	badge-reader	نیشانەخوێن، نیشانەخوێنەر
 balance	balance	١ـ هاوسەنگی، هاوتایی ٢ـ تەرازوو ٣ـ هاوسەنگکردن، هاوتاکردن، هاوتەرازکردن
 balanced	balanced	هاوسەنگ، هاوتا، هاوتەراز
-balanced-bridge	balanced-bridge	پردی هاوسەنگ
-balanced-error	balanced-error	هەڵەی هاوسەنگ
+balancedbridge	balanced-bridge	پردی هاوسەنگ
+balancederror	balanced-error	هەڵەی هاوسەنگ
 ball	ball	گۆ
-ball-printer	ball-printer	چاپکەری گۆدار
+ballprinter	ball-printer	چاپکەری گۆدار
 ban	ban	ڕێگرتن
 band	band	باند، نەوار، شریت
 bandwidth	bandwidth	باندبەرینی
-banner-1	banner-(1)	بەیداخ، بەنێر
-banner-2	banner-(2)	سەردێڕی سەرەکی
-banner-3	banner-(3)	سەردێڕسازی
-Banner-4	Banner-(4)	بەنێر
+banner1	banner-(1)	بەیداخ، بەنێر
+banner2	banner-(2)	سەردێڕی سەرەکی
+banner3	banner-(3)	سەردێڕسازی
+Banner4	Banner-(4)	بەنێر
 bar	bar	تووڵ، شیش، میلە
 barcode	barcode	تووڵكۆد
 base	base	بنچینە
-basic-1	basic-(1)	بنچینەیی، بنچینە
-BASIC-2--Basic--Beginners-Symbolic-All-purpose-Instruction-Code	BASIC-(2)-(=-Basic-=-Beginners-Symbolic-All-purpose-Instruction-Code)	بەیسیک
-basic-code-1	basic-code-(1)	بەرنامەی بنچینەیی
-BASIC-code-2	BASIC-code-(2)	بەرنامەی بەیسیک
-BASIC-compiler	BASIC-compiler	وەرگێڕی بەیسیک
-basic-dictionary	basic-dictionary	وشەنامەی بنەما، وشەنامەی بنچینەیی
-basic-shapes	basic-shapes	شێوەبنەمایییەكان
+basic1	basic-(1)	بنچینەیی، بنچینە
+BASIC2BasicBeginnersSymbolicAllpurposeInstructionCode	BASIC-(2)-(=-Basic-=-Beginners-Symbolic-All-purpose-Instruction-Code)	بەیسیک
+basiccode1	basic-code-(1)	بەرنامەی بنچینەیی
+BASICcode2	BASIC-code-(2)	بەرنامەی بەیسیک
+BASICcompiler	BASIC-compiler	وەرگێڕی بەیسیک
+basicdictionary	basic-dictionary	وشەنامەی بنەما، وشەنامەی بنچینەیی
+basicshapes	basic-shapes	شێوەبنەمایییەكان
 batch	batch	١ـ دەسته، پۆل، چەپک‌ ٢ـ دەستەیی، پۆلی، چەپکی ٣ـ دەستەکردن، دەستەییکردن، بەپۆلکردن، بەچەپککردن
-batch-file-	batch-file-	پەڕگەی دەستەیی
-benchmark-	benchmark-	هەڵسەنگێنەر
+batchfile	batch-file-	پەڕگەی دەستەیی
+benchmark	benchmark-	هەڵسەنگێنەر
 beta	beta	بێتا
 binary	binary	دوویی، دوانی
 BIOS	BIOS	"بایۆز"، "بایوس"، "بی‌ئای‌‌ئۆ‌‌ئێس"
@@ -274,14 +274,14 @@ block	block	١ـ بەربەست ٢ـ بلۆک
 blog	blog	بلۆگ
 blogger	blogger	بلۆگنووس
 bluetooth	bluetooth	بلووتووس، ددانشین
-bookmark-1	bookmark-(1)	پەڕتووکنیشانەکەر، جێنیشانەکەر، جێدۆز
-bookmark-2	bookmark-(2)	پەڕتووکنیشانەکەر، نیشانەکەری نێوان کتێب، نیشانەکەری شوێن یان وێبگە، شوێندۆزی وێبگه، وێبگەنیشانەکەر‌
-boolean-1--logical--Boolean	boolean-(1)-(=-logical-=-Boolean)	بوولی
-Boolean-2--Boolean	Boolean-(2)-(=-Boolean)	كەمایەتیی بوولی، گۆڕاوی بوولی
-boolean-algebra	boolean-algebra	جەبری بوولی
+bookmark1	bookmark-(1)	پەڕتووکنیشانەکەر، جێنیشانەکەر، جێدۆز
+bookmark2	bookmark-(2)	پەڕتووکنیشانەکەر، نیشانەکەری نێوان کتێب، نیشانەکەری شوێن یان وێبگە، شوێندۆزی وێبگه، وێبگەنیشانەکەر‌
+boolean1logicalBoolean	boolean-(1)-(=-logical-=-Boolean)	بوولی
+Boolean2Boolean	Boolean-(2)-(=-Boolean)	كەمایەتیی بوولی، گۆڕاوی بوولی
+booleanalgebra	boolean-algebra	جەبری بوولی
 boot	boot	"بووت"، خستنەڕێ
-bounce-1	bounce-(1)	دەركردن
-bounce-2	bounce-(2)	گەڕانەوە
+bounce1	bounce-(1)	دەركردن
+bounce2	bounce-(2)	گەڕانەوە
 box	box	باوڵ، سندووق، جێدان
 BRB	BRB	"هەر ئێستە دێمەوه"‌
 broadband	broadband	بەرینباند
@@ -295,36 +295,36 @@ burner	burner	سووتێنەر
 burst	burst	١ـ تەقینەوە ٢ـ تەقاندنەوە
 bus	bus	تێپەڕگە
 busy	busy	سەرقاڵ
-busy-hour	busy-hour	کاژێری سەرقاڵی
+busyhour	busy-hour	کاژێری سەرقاڵی
 button	button	دوگمە
 bypass	bypass	لاتێپەڕی، بەلاداتێپەڕین
-byte-	byte-	بایت، هەشتە، هەشت بیت
-bad-sector-	bad-sector-	کەرتی خراپ، سەکتەری خراپ
-badge-reader	badge-reader	نیشانەخوێن، نیشانەخوێنەر
+byte	byte-	بایت، هەشتە، هەشت بیت
+badsector	bad-sector-	کەرتی خراپ، سەکتەری خراپ
+badgereader	badge-reader	نیشانەخوێن، نیشانەخوێنەر
 balance	balance	١ـ هاوسەنگی، هاوتایی ٢ـ تەرازوو ٣ـ هاوسەنگکردن، هاوتاکردن، هاوتەرازکردن
 balanced	balanced	هاوسەنگ، هاوتا، هاوتەراز
-balanced-bridge	balanced-bridge	پردی هاوسەنگ
-balanced-error	balanced-error	هەڵەی هاوسەنگ
+balancedbridge	balanced-bridge	پردی هاوسەنگ
+balancederror	balanced-error	هەڵەی هاوسەنگ
 ball	ball	گۆ
-ball-printer	ball-printer	چاپکەری گۆدار
+ballprinter	ball-printer	چاپکەری گۆدار
 ban	ban	ڕێگرتن
 band	band	باند، نەوار، شریت
 bandwidth	bandwidth	باندبەرینی
-banner-1	banner-(1)	بەیداخ، بەنێر
-banner-2	banner-(2)	سەردێڕی سەرەکی
-banner-3	banner-(3)	سەردێڕسازی
-Banner-4	Banner-(4)	بەنێر
-C-1	C-(1)	"سی"
-C-2	C-(2)	"سی"
+banner1	banner-(1)	بەیداخ، بەنێر
+banner2	banner-(2)	سەردێڕی سەرەکی
+banner3	banner-(3)	سەردێڕسازی
+Banner4	Banner-(4)	بەنێر
+C1	C-(1)	"سی"
+C2	C-(2)	"سی"
 C	C#	"سی‌شارپ"
 C	C+	"سی‌‌پڵەس"
 C	C++	"سی‌‌پڵەس‌پڵەس"
 C	C:	س‌جووتخاڵ، سی‌-جووتخاڵ
-cab-1	cab-(1)	ژووریله
-cab-2	cab-(2)	درێژکراوەیەکە بۆ پەڕگەیەکی پەستێنراو لە سیستەمەکانی ویندۆزدا
+cab1	cab-(1)	ژووریله
+cab2	cab-(2)	درێژکراوەیەکە بۆ پەڕگەیەکی پەستێنراو لە سیستەمەکانی ویندۆزدا
 cable	cable	كێبڵ
 cache	cache	حەشارگه
-cad-	cad-	داڕشتن به یارمەتیی كۆمپیۆتەر
+cad	cad-	داڕشتن به یارمەتیی كۆمپیۆتەر
 caddy	caddy	"كەدی" قەباغی سی‌دی
 calculate	calculate	١ـ ژماردن، هەژمارکردن ٢ـ لێکدانەوە ٣ـ نەخشەدانان، ڕێکخستن
 calculation	calculation	ژمێركاری، ژمارەكاری، ژماردن، هەژماركردن
@@ -335,15 +335,15 @@ capability	capability	توانا، توانست، توانایی
 capacity	capacity	١ـ جێگرتن، فراوانی ٢ـ توانایی، توانا
 capture	capture	گرتن
 card	card	كارت
-case-	case-	سنووق (ی كاڵاڕەقەكانی كۆمپیوتەر).
+case	case-	سنووق (ی كاڵاڕەقەكانی كۆمپیوتەر).
 caseSW	case(SW)	بار، دۆخ
 category	category	هاوپۆلەكان
-CD-ROM-	CD-ROM-	"سی‌دی‌ـ رام"، دیسکی تیشکی
-CD-RW-	CD-RW-	(CD-RW)، دیسکی پەستێنراوی لەسەرنووسەنی
+CDROM	CD-ROM-	"سی‌دی‌ـ رام"، دیسکی تیشکی
+CDRW	CD-RW-	(CD-RW)، دیسکی پەستێنراوی لەسەرنووسەنی
 central	central	ناوەندی
 certificate	certificate	بڕوانامه
 challengeresponse	challenge/response	بەرەنگاری/ وەڵام
-CHAP-	CHAP-	سی‌ئێچ‌ئە‌ی‌پی
+CHAP	CHAP-	سی‌ئێچ‌ئە‌ی‌پی
 character	character	نووسه
 charge	charge	بارگە
 charged	charged	بارگەکراو، بارگاوی
@@ -351,40 +351,40 @@ charger	charger	بارگاویکەر، بارگەدەر
 chart	chart	هێڵكاری
 chat	chat	دەمەتەقێ، چات
 check	check	پیاچوونەوە، تێڕوانین
-check-box	check-box	چوارگۆشەی پیاچوونەوە، خانەی پیاچوونەوە
+checkbox	check-box	چوارگۆشەی پیاچوونەوە، خانەی پیاچوونەوە
 chip	chip	چیپ، تەڵەزم، تەڵاش
-chip-set	chip-set	کۆمەڵە تەڵەزم
+chipset	chip-set	کۆمەڵە تەڵەزم
 cipher	cipher	سفر، سفراندن
 circuit	circuit	خولگە، کەمەرە، چێوە
 class	class	پۆل
 click	click	كرته، كلیك
 client	client	ڕاژەخواز
 clip	clip	گرته، كلیپ، چەپك
-clock-rate	clock-rate	تێكڕای لەرە، ‌چركەلەرە، ڕێژەی لەره
+clockrate	clock-rate	تێكڕای لەرە، ‌چركەلەرە، ڕێژەی لەره
 clone	clone	لەبەرگرتنەوه، وێکچوو، لێکچوو، وەكخۆی، كلۆن، کتومت
-close-1	close-(1)	داخستن
-close-2	close-(2)	نزیک
-close-and-open-a-file	close-and-open-a-file	کردنەوە و داخستنی پەڕگە
-close-button	close-button	دوگمەی داخستن
-closed-	closed-	داخراو
-cloud-computing	cloud-computing	هەورە پێژمێری، پێژمێریی هەوری
+close1	close-(1)	داخستن
+close2	close-(2)	نزیک
+closeandopenafile	close-and-open-a-file	کردنەوە و داخستنی پەڕگە
+closebutton	close-button	دوگمەی داخستن
+closed	closed-	داخراو
+cloudcomputing	cloud-computing	هەورە پێژمێری، پێژمێریی هەوری
 cluster	cluster	هێشوو، پۆل، گرووپ
 CMOS	CMOS	(CMOS)، "سی‌مۆس"
-code-1	code-(1)	كۆد، ڕەمز، نهێنی
-code-2--program	code-(2)-(=-program)	١ـ بەرنامە ٢ـ بەرنامەنووسی
-code-3	code-(3)	نهێنبەندیکردن
+code1	code-(1)	كۆد، ڕەمز، نهێنی
+code2program	code-(2)-(=-program)	١ـ بەرنامە ٢ـ بەرنامەنووسی
+code3	code-(3)	نهێنبەندیکردن
 codec	codec	(codec)، "کۆدێک"
 collapse	collapse	١ـ ڕووخان، ڕمان، هەرەسهێنان ٢ـ نووشتانەوە ٣ـ کەوتن
 column	column	ستوون
-COM-1	COM-(1)	(COM)، "كام"
-COM-2	COM-(2)	(COM)، "كام"
-COM-3	COM-(3)	(COM)، "كام"
-COM-4	COM-(4)	(COM)، "كام"
+COM1	COM-(1)	(COM)، "كام"
+COM2	COM-(2)	(COM)، "كام"
+COM3	COM-(3)	(COM)، "كام"
+COM4	COM-(4)	(COM)، "كام"
 comma	comma	بۆر، كۆما
 command	command	فەرمان
-comment-	comment-	١ـ ڕوونكردنەوه. ‌  ٢ـ بۆچوون، لێدوان، تێبینی، سەرنج.
+comment	comment-	١ـ ڕوونكردنەوه. ‌  ٢ـ بۆچوون، لێدوان، تێبینی، سەرنج.
 common	common	هاوبەش، باو
-Common-Gateway-Interface--CGI-	Common-Gateway-Interface-(=-CGI)-	ناوبەستی دەرەڕێی هاوبەش
+CommonGatewayInterfaceCGI	Common-Gateway-Interface-(=-CGI)-	ناوبەستی دەرەڕێی هاوبەش
 communication	communication	١ـ ڕاگەیاندن، پێگەیاندن ٢ـ پێوەندی ٣ـ هۆی گەیاندن یا پێوەندیگرتن
 compact	compact	پەستێنراو
 company	company	بەشگە، هاوبەشگە
@@ -394,64 +394,64 @@ compiler	compiler	وەرگێڕ
 compress	compress	پەستان
 computable	computable	ژماردنی، دەتوانێ بژمێردرێت، ژماردەنی
 computation	computation	١ـ ژماردن، لێکدانەوە ٢ـ ئەنجامی ژماردنێک
-compute-1	compute-(1)	ژماردن، لێکدانەوە
-compute-2	compute-(2)	پێژمێری، پێژمێرکردن
+compute1	compute-(1)	ژماردن، لێکدانەوە
+compute2	compute-(2)	پێژمێری، پێژمێرکردن
 computer	computer	كۆمپیوتەر، بژمێر، پێژمێر، ژمێرەری ئەلیکترۆنی
-computer-abuse	computer-abuse	خراپ بەکارهێنانی کۆمپیوتەر
-computer-animation	computer-animation	بەجووڵەگەریی کۆمپیوتەری
-Computer-Graphics-Interface--CGI-	Computer-Graphics-Interface-(=-CGI)-	ناوبەستی گرافیکی پێژمێر (کۆمپیوتەر)
-computer-aided-	computer-aided-	بەیاریدەی کۆمپیوتەر، بەیارمەتیی کۆمپیوتەر
+computerabuse	computer-abuse	خراپ بەکارهێنانی کۆمپیوتەر
+computeranimation	computer-animation	بەجووڵەگەریی کۆمپیوتەری
+ComputerGraphicsInterfaceCGI	Computer-Graphics-Interface-(=-CGI)-	ناوبەستی گرافیکی پێژمێر (کۆمپیوتەر)
+computeraided	computer-aided-	بەیاریدەی کۆمپیوتەر، بەیارمەتیی کۆمپیوتەر
 CON	CON	(CON)، "کون"
 concat	concat	كۆكردنەوه، خستنەسەریەك
-conditional-formatting	conditional-formatting	شێوازکاریی بەمەرج، فۆرماتکردنی بەمەرج
+conditionalformatting	conditional-formatting	شێوازکاریی بەمەرج، فۆرماتکردنی بەمەرج
 configuration	configuration	شێوەپێدان‌
 connection	connection	بەستنەوه، پەیوەندی
-console-1	console-(1)	شێلمان، هەڵگر، تاق، سەردیوار
+console1	console-(1)	شێلمان، هەڵگر، تاق، سەردیوار
 constant	constant	نەگۆڕ
 constructor	constructor	بنیاتنەر
 content	content	ناوەڕۆك
-content-layout	content-layout	گەڵاڵەبەندیی ناوەڕۆك
+contentlayout	content-layout	گەڵاڵەبەندیی ناوەڕۆك
 context	context	١ـ دەق ٢ـ پێکهات، تەنراو، شانە
-context-menu	context-menu	لیستەی پێکهات
+contextmenu	context-menu	لیستەی پێکهات
 continue	continue	درێژەپێدان
-control-bus	control-bus	تێپەڕگەی ڕێكخستن، تێپەڕگەی کۆنترۆڵ
-control-panel	control-panel	پەڕ‌ەی چاودێری
+controlbus	control-bus	تێپەڕگەی ڕێكخستن، تێپەڕگەی کۆنترۆڵ
+controlpanel	control-panel	پەڕ‌ەی چاودێری
 controls	controls	کۆنترۆڵەکان
 convert	convert	گۆڕین، گۆڕان
-cookie--Cookie	cookie-(=-Cookie)	شەكرۆكە
+cookieCookie	cookie-(=-Cookie)	شەكرۆكە
 copy	copy	ڕوونووس،  لەبەرگرتنەوە
 copyright	copyright	مافی لەبەرگرتنەوە
 cost	cost	تێچوون، بەها
 count	count	١ـ ژماردن ٢ـ کۆکردنەوە
 counter	counter	ژمێرەر
-CPRM-	CPRM-	سی‌پی‌ئار‌ئێم، پاراستنی ناوەڕۆکی ڕاگەیێنە لابردەنییەکان
-CPU-	CPU-	١سی‌پی‌یوو‌ ( یەكەی ڕێکخەری ناوەندی، ڕێکخەری ناوەندی)
+CPRM	CPRM-	سی‌پی‌ئار‌ئێم، پاراستنی ناوەڕۆکی ڕاگەیێنە لابردەنییەکان
+CPU	CPU-	١سی‌پی‌یوو‌ ( یەكەی ڕێکخەری ناوەندی، ڕێکخەری ناوەندی)
 crack	crack	شكان، كراك
-CRAM-	CRAM-	(CRAM)، سی‌ئار‌ئە‌ی‌ئێم
+CRAM	CRAM-	(CRAM)، سی‌ئار‌ئە‌ی‌ئێم
 crash	crash	تێكشكان
 crawler	crawler	وێبخشۆك
 create	create	ئافراندن، دروستكردن
 credit	credit	بایەخ، بڕوا
-credit-card	credit-card	بڕواکارت، کارتی بڕوا، کارتی بایەخ، کارتی قەرز
+creditcard	credit-card	بڕواکارت، کارتی بڕوا، کارتی بایەخ، کارتی قەرز
 cron	cron	كارگێڕ
 crossover	crossover	١ـ پەڕینەوە، بڕین  ٢ـ بڕگا، شوێنی یەکتربڕین
 cryptography	cryptography	نهێنیكردن
-CSMA-CD-	CSMA-CD-	سزماسیدی، دەستپێگەیشتنی چەندجارەی وەرگری هەڵگر/ ئاشکراسازیی پێکدادان
+CSMACD	CSMA-CD-	سزماسیدی، دەستپێگەیشتنی چەندجارەی وەرگری هەڵگر/ ئاشکراسازیی پێکدادان
 CSS	CSS	(CSS)، "سی‌ئێس‌ئێس"
-CSV-1	CSV-(1)	(CSV)، سی‌ئێس‌ڤی، نرخی بە بۆر جیابوو
-CSV-2	CSV-(2)	(جۆرە درێژکراوەیەکی پەڕگە)
-ctrl-key	ctrl-key	دوگمەی كۆنتڕۆڵ
+CSV1	CSV-(1)	(CSV)، سی‌ئێس‌ڤی، نرخی بە بۆر جیابوو
+CSV2	CSV-(2)	(جۆرە درێژکراوەیەکی پەڕگە)
+ctrlkey	ctrl-key	دوگمەی كۆنتڕۆڵ
 currency	currency	دراو، پاره
-current-1	current-(1)	تەزوو، لووزەو (تەزووی کارەبایی)
-current-2	current-(2)	تایبەتی بە ئێستا، دواژمارە
-current-address	current-address	دوایین ناونیشان
-current-date	current-date	ڕێکەوتی ئێستاکە
+current1	current-(1)	تەزوو، لووزەو (تەزووی کارەبایی)
+current2	current-(2)	تایبەتی بە ئێستا، دواژمارە
+currentaddress	current-address	دوایین ناونیشان
+currentdate	current-date	ڕێکەوتی ئێستاکە
 cursor	cursor	جێنیشاندەر
 custom	custom	ڕاسپێراو
 customize	customize	كڕیارخوازكردن، چاكردن و گۆڕینی شتێك بەپێی خواستی كڕیار
 cut	cut	بڕین
 CVS	CVS	سی‌ڤی‌ئێس، سیستەمی وەشانە هاوکاتەکان
-CWIS-	CWIS-	سیستەمی بەرفراوانی كۆگاكردنی زانیارییەكانە لە زانكۆ و پەیمانگاكاندا
+CWIS	CWIS-	سیستەمی بەرفراوانی كۆگاكردنی زانیارییەكانە لە زانكۆ و پەیمانگاكاندا
 cybrarian	cybrarian	كارمەندی كتێبخانەی دیجیتاڵ
 cancel	cancel	هەڵوەشاندنەوه
 canonical	canonical	باو، بەپێی یاسا
@@ -459,27 +459,27 @@ capability	capability	توانا، توانست، توانایی
 capacity	capacity	١ـ جێگرتن، فراوانی ٢ـ توانایی، توانا
 capture	capture	گرتن
 card	card	كارت
-case-	case-	سنووق (ی كاڵاڕەقەكانی كۆمپیوتەر).
+case	case-	سنووق (ی كاڵاڕەقەكانی كۆمپیوتەر).
 caseSW	case(SW)	بار، دۆخ
 category	category	هاوپۆلەكان
-CD-ROM-	CD-ROM-	"سی‌دی‌ـ رام"، دیسکی تیشکی
-CD-RW-	CD-RW-	(CD-RW)، دیسکی پەستێنراوی لەسەرنووسەنی
+CDROM	CD-ROM-	"سی‌دی‌ـ رام"، دیسکی تیشکی
+CDRW	CD-RW-	(CD-RW)، دیسکی پەستێنراوی لەسەرنووسەنی
 central	central	ناوەندی
 certificate	certificate	بڕوانامه
-D-1	D-(1)	"دی"
-D-2	D-(2)	"دی"
+D1	D-(1)	"دی"
+D2	D-(2)	"دی"
 D	D:	"دی‌جووتخاڵ"
-daemon--demon	daemon-(=-demon)	(بنواڕه demon)
+daemondemon	daemon-(=-demon)	(بنواڕه demon)
 dash	dash	کشتەک، تەقەڵ
-DAT-1-Data	DAT-(1)-[Data]	(DAT)، دات
+DAT1Data	DAT-(1)-[Data]	(DAT)، دات
 data	data	دراوه، داتا
-data-bus	data-bus	تێپەڕگەی دراوه
-data-warehouse	data-warehouse	كۆگای دراوه
+databus	data-bus	تێپەڕگەی دراوه
+datawarehouse	data-warehouse	كۆگای دراوه
 database	database	بنكەدراوە ـ بنكەی دراوه
 datagram	datagram	داتاگرام
 date	date	ڕێكەوت
-debug-1	debug-(1)	ڕاستكردنەوە، هەڵەدۆزین، هەڵەسڕینەوە
-debug-2	debug-(2)	سیخوڕسڕی، سیخوڕسڕینەوە
+debug1	debug-(1)	ڕاستكردنەوە، هەڵەدۆزین، هەڵەسڕینەوە
+debug2	debug-(2)	سیخوڕسڕی، سیخوڕسڕینەوە
 debugger	debugger	هەڵەدۆز، ڕاستكەرەوه، هەڵەسڕ
 decode	decode	كۆدهەڵوەشاندنەوه
 decoder	decoder	كۆدهەڵوەشێنەر
@@ -491,14 +491,14 @@ dedicated	dedicated	تایبەتمەند
 default	default	بنەڕەت
 defragment	defragment	دێفراگمێنت، یەکخستنی پارچەبەندبووەکان، ڕێكخستن و خستنەپاڵیەكی هەڵگیراوەكانی ناو پەپكە
 delete	delete	سڕینەوه
-demilitarized-zone--DMZ	demilitarized-zone-(=-DMZ)	DMZ، ناوچەی سوپالێدەرکراو، ناوچەی بێسوپا، ناوچەی سوپالێکێشراو
+demilitarizedzoneDMZ	demilitarized-zone-(=-DMZ)	DMZ، ناوچەی سوپالێدەرکراو، ناوچەی بێسوپا، ناوچەی سوپالێکێشراو
 demo	demo	پیشاندان
-demon-1--daemon	demon-(1)-(=-daemon)	(demon)، دێمۆن، دیمن، تارمایی، شەوه
-demon-2--daemon	demon-(2)-(=-daemon)	(demon)، دێمۆن، قوفڵشکێن
+demon1daemon	demon-(1)-(=-daemon)	(demon)، دێمۆن، دیمن، تارمایی، شەوه
+demon2daemon	demon-(2)-(=-daemon)	(demon)، دێمۆن، قوفڵشکێن
 dencity	dencity	چڕی
-denial-	denial-	نكۆڵی
+denial	denial-	نكۆڵی
 depth	depth	قووڵایی
-depth-first-search--DFS	depth-first-search-(=-DFS)	گەڕانی لەپێشدالەقووڵایی
+depthfirstsearchDFS	depth-first-search-(=-DFS)	گەڕانی لەپێشدالەقووڵایی
 derived	derived	داتاشراو
 descend	descend	نزمبوونەوە، هاتنەخوارەوە
 descendant	descendant	نەوە، وەچە، بەرە، توخم
@@ -508,21 +508,21 @@ description	description	نیشانەهەڵدان، وەسفکردن، وەسف
 design	design	داڕشتن
 desire	desire	داخوازی، خواست
 desktop	desktop	ڕوومێز
-desktop-computer	desktop-computer	كۆمپیۆتەری ڕوومێز
+desktopcomputer	desktop-computer	كۆمپیۆتەری ڕوومێز
 destructor	destructor	لەناوبەر
 detail	detail	وردی، وردەکاری
 device	device	ئامێر
-device-driver	device-driver	ئامێروەگەڕخەر
+devicedriver	device-driver	ئامێروەگەڕخەر
 DHCP	DHCP	پرۆتۆکۆلی ڕێکخستنی خانەخوێی بزۆک
 DHTML	DHTML	زمانی هێمادانانی سەروودەقی بزۆک
 diagram	diagram	پێنوێن، خشتە، نوانە
 dial	dial	١ـ ژمارەگر ٢ـ ژمارەگرتن
-dial-up	dial-up	١ـ ژمارەگری ٢ـ ژمارەگریکردن
+dialup	dial-up	١ـ ژمارەگری ٢ـ ژمارەگریکردن
 digit	digit	ڕەنووس
 digital	digital	دیجیتاڵ، ڕەنووسی
-digital-audio-disk--DAD	digital-audio-disk-(=-DAD)	دیسکی دەنگیی ڕەنووسی، سی‌دی‌ی دەنگی
-digital-audio-tape--DAT	digital-audio-tape-(=-DAT)	شریتی دەنگیی ڕەنووسی، "دات"
-digital-technique-	digital-technique-	تەكنیكی ژمارەیی، تەکنیکی ڕەنووسی
+digitalaudiodiskDAD	digital-audio-disk-(=-DAD)	دیسکی دەنگیی ڕەنووسی، سی‌دی‌ی دەنگی
+digitalaudiotapeDAT	digital-audio-tape-(=-DAT)	شریتی دەنگیی ڕەنووسی، "دات"
+digitaltechnique	digital-technique-	تەكنیكی ژمارەیی، تەکنیکی ڕەنووسی
 dimension	dimension	١ـ دووری، لا (پانی و درێژی و ئەستووری) ٢ـ لاکان ٣ـ ڕادە ٤ـ مەودا، گرنگی
 direct	direct	ڕاستەوخۆ
 direction	direction	١ـ بەڕێوەبردن، سەرپەرشتی ٢ـ ناونیشان ٣ـ فەرمان ٤ـ ڕێباز، ڕێڕەو ٥ـ لا، ڕوو، ئاست، ئاراستە
@@ -530,37 +530,37 @@ directory	directory	پێڕست
 DirectX	DirectX	(DirectX)، دیرێکت‌ئێکس
 disable	disable	١ـ لەكارخستن ٢ـ نەتوانکردن
 disk	disk	پەپكە، دیسك
-disk-drive--drive--disk-unit--DD	disk-drive-(=-drive-=-disk-unit-=-DD)	دیسکلێخوڕ، دیسکوەگەڕخەر، پەپکەلێخوڕ، پەپکەوەگەڕخەر
+diskdrivedrivediskunitDD	disk-drive-(=-drive-=-disk-unit-=-DD)	دیسکلێخوڕ، دیسکوەگەڕخەر، پەپکەلێخوڕ، پەپکەوەگەڕخەر
 display	display	پیشاندان
 distribution	distribution	دابەشكردن
-DLL-Dynamic-Link-Library	DLL-(Dynamic-Link-Library)	پەرتووكخانەی بەستەری بزۆك
-DNS--Domain-Name-System	DNS-(=-Domain-Name-System)	سیستەمی ناوی پاوان
+DLLDynamicLinkLibrary	DLL-(Dynamic-Link-Library)	پەرتووكخانەی بەستەری بزۆك
+DNSDomainNameSystem	DNS-(=-Domain-Name-System)	سیستەمی ناوی پاوان
 document	document	بەڵگەنامه
 domain	domain	دۆمەین، پاوان
-domain-name	domain-name	ناوی دۆمەین، ناوی پاوان
+domainname	domain-name	ناوی دۆمەین، ناوی پاوان
 done	done	کراو، جێبەجێکراو
 dongle	dongle	کڵۆمی سەختەواڵە
-DOS-1-	DOS-(1)-	(DOS)، دۆس، سیستەمی کارپێکردنی دیسکی
-DOS-2--MS-DOS	DOS-(2)-(=-MS-DOS)	(DOS)، دۆس، ئێم‌ئێس‌دۆس (کورتەی ناوی بازرگانیی " MS-DOS ")
-DOS-3	DOS-(3)	(DOS)، دۆس
-dot-	dot-(.)	خاڵ
+DOS1	DOS-(1)-	(DOS)، دۆس، سیستەمی کارپێکردنی دیسکی
+DOS2MSDOS	DOS-(2)-(=-MS-DOS)	(DOS)، دۆس، ئێم‌ئێس‌دۆس (کورتەی ناوی بازرگانیی " MS-DOS ")
+DOS3	DOS-(3)	(DOS)، دۆس
+dot	dot-(.)	خاڵ
 double	double	دووئەوەنده
 download	download	داگرتن
 draft	draft	پێشنووس، ڕەشنووس
-drag-and-drop-	drag-and-drop-	ڕاكێشان و فڕێدان
+draganddrop	drag-and-drop-	ڕاكێشان و فڕێدان
 drawing	drawing	وێنەكێشان
-drive-1-	drive-(1)-	١ـ دیسکوەگەڕخەر، دیسکلێخوڕ، دیسکئاژۆ ٢ـ نەوار "شریت" لێخوڕ ٣ـ دەزگاوەگەڕخەر، دەزگالێخوڕ، لێخوڕ ٤ـ وەگەڕخستن، لێخوڕین، ئاژۆتن، وەگەڕخستنی دەزگا
-drive-2	drive-(2)	١ـ بزواندن ٢ـ وەگەڕخستن
+drive1	drive-(1)-	١ـ دیسکوەگەڕخەر، دیسکلێخوڕ، دیسکئاژۆ ٢ـ نەوار "شریت" لێخوڕ ٣ـ دەزگاوەگەڕخەر، دەزگالێخوڕ، لێخوڕ ٤ـ وەگەڕخستن، لێخوڕین، ئاژۆتن، وەگەڕخستنی دەزگا
+drive2	drive-(2)	١ـ بزواندن ٢ـ وەگەڕخستن
 driver	driver	وەگەڕخەر
-driving-licence	driving-licence	كارتی لێخوڕین، لێخوڕنامە، ئاژۆتننامه، مۆڵەتی لێخوڕین
+drivinglicence	driving-licence	كارتی لێخوڕین، لێخوڕنامە، ئاژۆتننامه، مۆڵەتی لێخوڕین
 dual	dual	دووان، دووانه
-DVD--digital-video-disc--digital-versatile-disc	DVD-(=-digital-video-disc-=-digital-versatile-disc)	دی‌ڤی‌دی
-DVD-burner	DVD-burner	دی‌ڤی‌دی سووتێنەر
-DVD-Reader	DVD-Reader	دی‌ڤی‌دی خوێنەر
+DVDdigitalvideodiscdigitalversatiledisc	DVD-(=-digital-video-disc-=-digital-versatile-disc)	دی‌ڤی‌دی
+DVDburner	DVD-burner	دی‌ڤی‌دی سووتێنەر
+DVDReader	DVD-Reader	دی‌ڤی‌دی خوێنەر
 dynamic	dynamic	بزۆك، بەجووڵە، جووڵەدار،
-dynamic-address-translation--DAT	dynamic-address-translation-(=-DAT)	وەرگێڕانی ناونیشانی بزۆک
-debug-1	debug-(1)	ڕاستكردنەوە، هەڵەدۆزین، هەڵەسڕینەوە
-debug-2	debug-(2)	سیخوڕسڕی، سیخوڕسڕینەوە
+dynamicaddresstranslationDAT	dynamic-address-translation-(=-DAT)	وەرگێڕانی ناونیشانی بزۆک
+debug1	debug-(1)	ڕاستكردنەوە، هەڵەدۆزین، هەڵەسڕینەوە
+debug2	debug-(2)	سیخوڕسڕی، سیخوڕسڕینەوە
 debugger	debugger	هەڵەدۆز، ڕاستكەرەوه، هەڵەسڕ
 decode	decode	كۆدهەڵوەشاندنەوه
 decoder	decoder	كۆدهەڵوەشێنەر
@@ -572,63 +572,63 @@ dedicated	dedicated	تایبەتمەند
 default	default	بنەڕەت
 defragment	defragment	دێفراگمێنت، یەکخستنی پارچەبەندبووەکان، ڕێكخستن و خستنەپاڵیەكی هەڵگیراوەكانی ناو پەپكە
 delete	delete	سڕینەوه
-demilitarized-zone--DMZ	demilitarized-zone-(=-DMZ)	DMZ، ناوچەی سوپالێدەرکراو، ناوچەی بێسوپا، ناوچەی سوپالێکێشراو
+demilitarizedzoneDMZ	demilitarized-zone-(=-DMZ)	DMZ، ناوچەی سوپالێدەرکراو، ناوچەی بێسوپا، ناوچەی سوپالێکێشراو
 demo	demo	پیشاندان
 E	E	"ئی‌"
-E-	E-	"ئی"
-e-commerce	e-commerce	بازرگانیی ئەلەكترۆنی
-e-mail	e-mail	پۆستی ئەلەكترۆنی، ئیپۆست، ئیمەیل، ئیمێڵ
+E	E-	"ئی"
+ecommerce	e-commerce	بازرگانیی ئەلەكترۆنی
+email	e-mail	پۆستی ئەلەكترۆنی، ئیپۆست، ئیمەیل، ئیمێڵ
 eBook	eBook	پەڕتووكی ئەلەكترۆنی، كتێبی كۆمپیوتەری، ئی‌بووك
 ECDL	ECDL	كارتی لێخوڕینی كۆمپیوتەر لە ئەورووپا ـ لێخوڕنامەی ئەورووپیی كۆمپیوتەر
-echo-1	echo-(1)	ئێكۆ، زایەڵه
-echo-2	echo-(2)	پەیام
-echo-3	echo-(3)	١ـ زایەڵە، گەڕانەوە (زاراوەی گشتی بەتایبەت سەبارەت بە گەڕانەوەی دەنگ) ٢ـ زایەڵەکردن، گەڕانەوە (گەڕانەوەی هێما لە ڕێڕەوی ناردراودا)
-ECHO-4	ECHO-(4)	ئێكۆ
-ECP-	ECP-	(ECP)، ئی‌سی‌پی‌، دەرگا بە لێهاتووییەکانی پەرەسەندوو
-edit-1	edit-(1)	دەستكاری، دەستكاریكردن
-edit-2	edit-(2)	١ـ هەڵەبڕی، هەڵەبڕیکردن (لە گۆڤار و ڕۆژنامە)
-edit-3	edit-(3)	بژار، بژارکردن، هەڵوەژارتن (ڕێکوپێککردنی فیلم)
-editor-1	editor-(1)	دەستكاریكەر
-editor-2	editor-(2)	١ـ هەڵەبڕ (هەڵەچن و هەڵەگیری گۆڤار و ڕۆژنامە) ٢ـ سەرنووسەر (ی گۆڤار و ڕۆژنامە) ٣ـ نووسەر (ی گۆڤار و ڕۆژنامە) ٤ـ  نووسەر (پرۆگرامێکە کە بۆ نووسین بەکار دەچێت) ٥ـ پێداچوو، ڕاستکەرەوە
-editor-3	editor-(3)	١ـ بژارکەر، هەڵوەژار (کەسێ کە کاری ڕێکوپێککردن و ئامادەکردنی فیلمێک دەکات) ٢ـ بژارکەر، هەڵوەژار (جۆرە پرۆگرامێکە‌ کە بۆ ڕێکوپێککردن و بڕین و چاککردن و ئامادەکردنی فیلم بەکار دەچێت)
+echo1	echo-(1)	ئێكۆ، زایەڵه
+echo2	echo-(2)	پەیام
+echo3	echo-(3)	١ـ زایەڵە، گەڕانەوە (زاراوەی گشتی بەتایبەت سەبارەت بە گەڕانەوەی دەنگ) ٢ـ زایەڵەکردن، گەڕانەوە (گەڕانەوەی هێما لە ڕێڕەوی ناردراودا)
+ECHO4	ECHO-(4)	ئێكۆ
+ECP	ECP-	(ECP)، ئی‌سی‌پی‌، دەرگا بە لێهاتووییەکانی پەرەسەندوو
+edit1	edit-(1)	دەستكاری، دەستكاریكردن
+edit2	edit-(2)	١ـ هەڵەبڕی، هەڵەبڕیکردن (لە گۆڤار و ڕۆژنامە)
+edit3	edit-(3)	بژار، بژارکردن، هەڵوەژارتن (ڕێکوپێککردنی فیلم)
+editor1	editor-(1)	دەستكاریكەر
+editor2	editor-(2)	١ـ هەڵەبڕ (هەڵەچن و هەڵەگیری گۆڤار و ڕۆژنامە) ٢ـ سەرنووسەر (ی گۆڤار و ڕۆژنامە) ٣ـ نووسەر (ی گۆڤار و ڕۆژنامە) ٤ـ  نووسەر (پرۆگرامێکە کە بۆ نووسین بەکار دەچێت) ٥ـ پێداچوو، ڕاستکەرەوە
+editor3	editor-(3)	١ـ بژارکەر، هەڵوەژار (کەسێ کە کاری ڕێکوپێککردن و ئامادەکردنی فیلمێک دەکات) ٢ـ بژارکەر، هەڵوەژار (جۆرە پرۆگرامێکە‌ کە بۆ ڕێکوپێککردن و بڕین و چاککردن و ئامادەکردنی فیلم بەکار دەچێت)
 edu	edu	١ ـ پەروەردە، فێركردن ٢ـ درێژکراوەی ئەو ناونیشانە وێبییانەی کە بە فێرکردنەوە خەریکن، وەک چۆن (com.) و (org.) هەیە
 effect	effect	کاریگەری
 element	element	توخم، ئەندام، بەش
-email-group	email-group	گرووپەپۆستی ئەلەكترۆنی
+emailgroup	email-group	گرووپەپۆستی ئەلەكترۆنی
 emulator	emulator	لاساییكەرەوە
 enable	enable	تواناپێدان ـ توانپێدان
 encode	encode	١ـ نهێنبەندی ٢ـ نهێنبەندیکردن
 encoder	encoder	بەكۆدكەر
 encryption	encryption	نهێنیكردن
 encyclopedia	encyclopedia	زانیارینامە
-end-	end-	كۆتایی
+end	end-	كۆتایی
 energy	energy	وزه
 engine	engine	بزوێن
-enter-1	enter-(1)	١ـ تێکەری ٢ـ کردنەناو ٣ـ چوونەناو ٤ـ تێکردن، خستنەناو ٥ـ نووسین و تێخستن، خستنەناوی کۆمپیوتەر ٦ـ تۆمارکردن (لە کۆمپیوتەردا)
-Enter-2	Enter-(2)	دێڕگێڕ
-enterprise-	enterprise-	پرۆژەی ئابووری
+enter1	enter-(1)	١ـ تێکەری ٢ـ کردنەناو ٣ـ چوونەناو ٤ـ تێکردن، خستنەناو ٥ـ نووسین و تێخستن، خستنەناوی کۆمپیوتەر ٦ـ تۆمارکردن (لە کۆمپیوتەردا)
+Enter2	Enter-(2)	دێڕگێڕ
+enterprise	enterprise-	پرۆژەی ئابووری
 entity	entity	پێكهاتە، بوون
 environment	environment	ژینگه، دەورووبەر
 EPP	EPP	(EPP)، ئی‌پی‌پی، دەرگای هاوتەریبی نووژەنبوو
 erase	erase	سڕینەوە
 error	error	هەڵه
 escape	escape	دەرباز
-Escape-sequence	Escape-sequence	ڕیزەدەربازبوون
+Escapesequence	Escape-sequence	ڕیزەدەربازبوون
 Ethernet	Ethernet	(Ethernet)، ئێسەرنێت
 EtherTalk	EtherTalk	(Ether Talk)، تێتێر تاک
 event	event	ڕووداو
-event-counter	event-counter	ڕووداوژمێر
-event-file	event-file	پەڕگەی ڕووداو
-exa--E-	exa-(=-E-)	"ئێگزا-"
-exabit--Eb	exabit-(=-Eb)	"ئێگزابیت"
-exabyte--EB	exabyte-(=-EB)	"ئێگزابایت"
+eventcounter	event-counter	ڕووداوژمێر
+eventfile	event-file	پەڕگەی ڕووداو
+exaE	exa-(=-E-)	"ئێگزا-"
+exabitEb	exabit-(=-Eb)	"ئێگزابیت"
+exabyteEB	exabyte-(=-EB)	"ئێگزابایت"
 exceed	exceed	زیاتربوون یان ڕۆیشتن لە (سنوور، پەیڕەو)، تێپەڕبوون لە
 execute	execute	بەجێهێنان، جێبەجێکردن، کردن
-exit-1	exit-(1)	١ـ دەرگە، دەرگا، جێگەی چوونەدەرەوە ٢ـ دەرچوون، چوونەدەرەوە، ڕۆیشتن
-EXIT-2	EXIT-(2)	ئێگیزت
-exit-documentation	exit-documentation	بەڵگەسازی لە کاتی چوونەدەرەوە
-expand-1	expand-(1)	١ـ کردنەوە، بڵاوکردنەوە، ڕاکێشان ٢ـ کشاندن، ڕاکێشان، گەورەکردن درێژکردنەوە ٣ـ فراوانکردن، پانکردن، پەرەپێسەندن
-EXPAND-2	EXPAND-(2)	"ئێکسپێند"
+exit1	exit-(1)	١ـ دەرگە، دەرگا، جێگەی چوونەدەرەوە ٢ـ دەرچوون، چوونەدەرەوە، ڕۆیشتن
+EXIT2	EXIT-(2)	ئێگیزت
+exitdocumentation	exit-documentation	بەڵگەسازی لە کاتی چوونەدەرەوە
+expand1	expand-(1)	١ـ کردنەوە، بڵاوکردنەوە، ڕاکێشان ٢ـ کشاندن، ڕاکێشان، گەورەکردن درێژکردنەوە ٣ـ فراوانکردن، پانکردن، پەرەپێسەندن
+EXPAND2	EXPAND-(2)	"ئێکسپێند"
 expert	expert	پسپۆڕ
 exploit	exploit	قۆزتنەوه
 explorer	explorer	دۆزەر، گەڕاڵ
@@ -636,88 +636,88 @@ export	export	هەنارده، هەناردن
 extensible	extensible	شیاوی پەرەسەندن، پەرەسەندنێتی
 extension	extension	١ـ درێژکردنەوە، درێژبوونەوە ٢ـ مەودا ٣ـ  پاشبەند، لق، پەل، پاشکۆ ٤ـ پەرە، پەرەسەندن ٥ـ درێژكراوه
 external	external	دەرەكی
-external-bus	external-bus	تێپەڕگەی دەرەکی
+externalbus	external-bus	تێپەڕگەی دەرەکی
 extract	extract	دەرهێنان
-editor-2	editor-(2)	١ـ هەڵەبڕ (هەڵەچن و هەڵەگیری گۆڤار و ڕۆژنامە) ٢ـ سەرنووسەر (ی گۆڤار و ڕۆژنامە) ٣ـ نووسەر (ی گۆڤار و ڕۆژنامە) ٤ـ  نووسەر (پرۆگرامێکە کە بۆ نووسین بەکار دەچێت) ٥ـ پێداچوو، ڕاستکەرەوە
-editor-3	editor-(3)	١ـ بژارکەر، هەڵوەژار (کەسێ کە کاری ڕێکوپێککردن و ئامادەکردنی فیلمێک دەکات) ٢ـ بژارکەر، هەڵوەژار (جۆرە پرۆگرامێکە‌ کە بۆ ڕێکوپێککردن و بڕین و چاککردن و ئامادەکردنی فیلم بەکار دەچێت)
+editor2	editor-(2)	١ـ هەڵەبڕ (هەڵەچن و هەڵەگیری گۆڤار و ڕۆژنامە) ٢ـ سەرنووسەر (ی گۆڤار و ڕۆژنامە) ٣ـ نووسەر (ی گۆڤار و ڕۆژنامە) ٤ـ  نووسەر (پرۆگرامێکە کە بۆ نووسین بەکار دەچێت) ٥ـ پێداچوو، ڕاستکەرەوە
+editor3	editor-(3)	١ـ بژارکەر، هەڵوەژار (کەسێ کە کاری ڕێکوپێککردن و ئامادەکردنی فیلمێک دەکات) ٢ـ بژارکەر، هەڵوەژار (جۆرە پرۆگرامێکە‌ کە بۆ ڕێکوپێککردن و بڕین و چاککردن و ئامادەکردنی فیلم بەکار دەچێت)
 edu	edu	١ ـ پەروەردە، فێركردن ٢ـ درێژکراوەی ئەو ناونیشانە وێبییانەی کە بە فێرکردنەوە خەریکن، وەک چۆن (com.) و (org.) هەیە
 effect	effect	کاریگەری
 element	element	توخم، ئەندام، بەش
-email-group	email-group	گرووپەپۆستی ئەلەكترۆنی
+emailgroup	email-group	گرووپەپۆستی ئەلەكترۆنی
 emulator	emulator	لاساییكەرەوە
 enable	enable	تواناپێدان ـ توانپێدان
 encode	encode	١ـ نهێنبەندی ٢ـ نهێنبەندیکردن
 encoder	encoder	بەكۆدكەر
 encryption	encryption	نهێنیكردن
 encyclopedia	encyclopedia	زانیارینامە
-end-	end-	كۆتایی
+end	end-	كۆتایی
 energy	energy	وزه
 engine	engine	بزوێن
-F1-–-F12	F1-–-F12	دوگمەی نەخشە
+F1–F12	F1-–-F12	دوگمەی نەخشە
 fabricate	fabricate	دروستکردن، پێکنان (بەهۆی کارگە)
-facsimile--FAX	facsimile-(=-FAX)	فاكس
+facsimileFAX	facsimile-(=-FAX)	فاكس
 false	false	١ـ ناتەواو، درۆ، هەڵە ٢ـ درۆزنە، ساخته، قەڵب‌
-false-alarm	false-alarm	وریاکردنەوەی ساختە
-false-code	false-code	کۆدی ناتەواو، کۆدی هەڵە
-false-error	false-error	هەڵەی ساختە
+falsealarm	false-alarm	وریاکردنەوەی ساختە
+falsecode	false-code	کۆدی ناتەواو، کۆدی هەڵە
+falseerror	false-error	هەڵەی ساختە
 FAQ	FAQ	پهد ـ پرسیاری هەمیشه دووباره ـ پرسیار و وەڵام
 FAT	FAT	FAT، فەت
 FAT32	FAT32	(FAT32)، فەت٣٢
 favorite	favorite	دڵخواز، پەسند، هەڵبژارده
-FAX--facsimile--fax	FAX-(=-facsimile-=-fax)	فاکس، فەکس
-fax--FAX	fax-=-FAX	بنواڕە FAX
+FAXfacsimilefax	FAX-(=-facsimile-=-fax)	فاکس، فەکس
+faxFAX	fax-=-FAX	بنواڕە FAX
 FDDI	FDDI	(FDDI)، ئێف‌دی‌دی‌ئای
 feed	feed	١ـ خورد، خۆراک ٢ـ خۆراکپێدان، خۆراندن ٣ـ پێشبردن
-feed-track	feed-track	هێڵگەی پێشبەری (لە شریتی کاغەزیدا)
+feedtrack	feed-track	هێڵگەی پێشبەری (لە شریتی کاغەزیدا)
 feedback	feedback	١ـ پێڕاگەیاندنەوە ٢ـ پاشخوارد، پاشخورد، وەڵامدانەوە بە وتە یا کردار، هەستپیشاندان بەرانبەر کردار یا ڕەفتارێک
-feedback-amplifier	feedback-amplifier	وزەپێدەری پاشخوردی
-feedback-circuit	feedback-circuit	خولگەی پاشخوردی
-feedback-control	feedback-control	کۆنترۆڵی پاشخوردی
+feedbackamplifier	feedback-amplifier	وزەپێدەری پاشخوردی
+feedbackcircuit	feedback-circuit	خولگەی پاشخوردی
+feedbackcontrol	feedback-control	کۆنترۆڵی پاشخوردی
 feeder	feeder	١ـ پێشبەر ٢ـ خۆراکدەر
-feeder-cable	feeder-cable	کێبڵی خۆراک
+feedercable	feeder-cable	کێبڵی خۆراک
 feedforward	feedforward	پێشخورد، پێشخوارد
-feedforward-hole	feedforward-hole	کونی پێشبەری (لە کاغەزدا)
-feedforward-register	feedforward-register	تۆماری پێشخوردی
+feedforwardhole	feedforward-hole	کونی پێشبەری (لە کاغەزدا)
+feedforwardregister	feedforward-register	تۆماری پێشخوردی
 feedline	feedline	هێڵەخۆراك
 female	female	مێینە
-ferric-RAM--FRAM	ferric-RAM-(=-FRAM)	"فێڕیک‌ ڕام"
+ferricRAMFRAM	ferric-RAM-(=-FRAM)	"فێڕیک‌ ڕام"
 field	field	بوار، خانه
 file	file	پەڕگه، فایل
-file-allocation-table--Fat	file-allocation-table-(=-Fat)	خشتەی تەرخانی پەڕگە
-file-system	file-system	سیستەمی پەڕگە
-filter-	filter-	پاڵێو
+fileallocationtableFat	file-allocation-table-(=-Fat)	خشتەی تەرخانی پەڕگە
+filesystem	file-system	سیستەمی پەڕگە
+filter	filter-	پاڵێو
 find	find	دۆزینەوە
 finger	finger	"فینگر"
 finish	finish	١ـ تەواو، کۆتایی ٢ـ تەواوکردن، کۆتاییپێهێنان
 firewall	firewall	ئاگرەدیوار
-FireWire-	FireWire-	"فایروایر"
+FireWire	FireWire-	"فایروایر"
 firmware	firmware	پتەوواڵە، "فیرم‌وەیر"
 fixed	fixed	جێگیر، جێگیرکراو، جێگیربوو، چەسپاو، دیاریکراو، سەقامگیر، نەجووڵاو، نەگۆڕ، قیت، وەستاو، پتەو
 flag	flag	١ـ ئاڵا، نیشانه ٢ـ نیشانەنوێن
 flash	flash	فلاش
 float	float	كەرت
-Floating-point-number	Floating-point-number	ژمارەی كەرتی، ژمارەی بۆرـ‌ سەرئاو، ژمارەی بۆرسەرئاو
-floppy-	floppy-	دیسكی نەرم
+Floatingpointnumber	Floating-point-number	ژمارەی كەرتی، ژمارەی بۆرـ‌ سەرئاو، ژمارەی بۆرسەرئاو
+floppy	floppy-	دیسكی نەرم
 folder	folder	بوخچه
 font	font	جۆرەپیت
 footer	footer	پێپەڕە
 footnote	footnote	پەراوێز‌، پانووس
 force	force	هێز، زۆرلێكردن
 foreground	foreground	پێشبنەما
-foreign-	foreign-	بیانی
+foreign	foreign-	بیانی
 format	format	فۆرمات
 forth	forth	(forth)، فۆرت
 forum	forum	مەكۆ
-forward-1	forward-(1)	بینێرە بۆ
-forward-2	forward-(2)	بەرڕۆیی، پێشڕۆیی
-forward-3	forward-(3)	١ـ بەرڕۆ، پێشڕۆ، ڕووبەپێش ٢ـ ڕاستەوخۆ
-forward-difference	forward-difference	جیاوازیی پێشڕۆ، جیاوازیی بەرڕۆ
-forward-error-recovery	forward-error-recovery	چێکردنەوەی هەڵە لە پێشدا، چێکردنەوەی پێشگیرانەی هەڵە
+forward1	forward-(1)	بینێرە بۆ
+forward2	forward-(2)	بەرڕۆیی، پێشڕۆیی
+forward3	forward-(3)	١ـ بەرڕۆ، پێشڕۆ، ڕووبەپێش ٢ـ ڕاستەوخۆ
+forwarddifference	forward-difference	جیاوازیی پێشڕۆ، جیاوازیی بەرڕۆ
+forwarderrorrecovery	forward-error-recovery	چێکردنەوەی هەڵە لە پێشدا، چێکردنەوەی پێشگیرانەی هەڵە
 FQDN	FQDN	FQDN، (ناوی تەواوی دۆمەین لە ئینتەرنێتدا. بۆ وێنە www.zkurd.org)
-fragment-	fragment-	١ـ پارچە، لەت، کەرت، کوت، "فراگمنت" ٢ـ  پارچەبەندیکردن، لەتبەندیکردن
+fragment	fragment-	١ـ پارچە، لەت، کەرت، کوت، "فراگمنت" ٢ـ  پارچەبەندیکردن، لەتبەندیکردن
 frame	frame	چوارچێوە
 free	free	١ـ ئازاد، سەربەست ٢ـ خۆڕایی ٣ـ ڤالا، بەتاڵ
-free-software	free-software	نەرمەواڵەی خۆڕایی، نەرمەواڵەی ئازاد
+freesoftware	free-software	نەرمەواڵەی خۆڕایی، نەرمەواڵەی ئازاد
 freemail	freemail	پۆستی ئازاد
 freeware	freeware	خۆڕاییواڵە، پرۆگرامی خۆڕایی، نەرمەواڵەی خۆڕایی
 frequency	frequency	دووبارە، شەپۆل ـ لەرە، لەرەلەر
@@ -726,45 +726,45 @@ FSB	FSB	FSB
 FSF	FSF	FSF
 FTP	FTP	"ئێف‌تی‌پی"، کۆنووسی گواستنەوەی پەڕگە
 function	function	١ـ نەخشە، ئەرک، کردار ٢ـ پابەند
-function-call	function-call	بانگهێشتكردنی نەخشە
-function-key	function-key	كلیل لەسەر تەختەكلیل كە كورتكراوەی كرداری دیاریكراون
+functioncall	function-call	بانگهێشتكردنی نەخشە
+functionkey	function-key	كلیل لەسەر تەختەكلیل كە كورتكراوەی كرداری دیاریكراون
 functional	functional	١ ـ نەخشەیی، ئەرکی، کرداری ٢ـ پابەندی
 fuzzy	fuzzy	لێڵ، ناڕوون، نائاشکرا
-fuzzy-logic	fuzzy-logic	ژیربێژیی لێڵ، دەستەواژەی فوزی
-FYI--For-Your-Information	FYI-(=-For-Your-Information)	"بۆ زانیاریت"، كورتكراوەیە بۆ پێدانی ئاگادارییەك لە هەبوونی زانیاری
+fuzzylogic	fuzzy-logic	ژیربێژیی لێڵ، دەستەواژەی فوزی
+FYIForYourInformation	FYI-(=-For-Your-Information)	"بۆ زانیاریت"، كورتكراوەیە بۆ پێدانی ئاگادارییەك لە هەبوونی زانیاری
 FDDI	FDDI	(FDDI)، ئێف‌دی‌دی‌ئای
 feed	feed	١ـ خورد، خۆراک ٢ـ خۆراکپێدان، خۆراندن ٣ـ پێشبردن
-feed-track	feed-track	هێڵگەی پێشبەری (لە شریتی کاغەزیدا)
+feedtrack	feed-track	هێڵگەی پێشبەری (لە شریتی کاغەزیدا)
 feedback	feedback	١ـ پێڕاگەیاندنەوە ٢ـ پاشخوارد، پاشخورد، وەڵامدانەوە بە وتە یا کردار، هەستپیشاندان بەرانبەر کردار یا ڕەفتارێک
-feedback-amplifier	feedback-amplifier	وزەپێدەری پاشخوردی
-feedback-circuit	feedback-circuit	خولگەی پاشخوردی
-feedback-control	feedback-control	کۆنترۆڵی پاشخوردی
+feedbackamplifier	feedback-amplifier	وزەپێدەری پاشخوردی
+feedbackcircuit	feedback-circuit	خولگەی پاشخوردی
+feedbackcontrol	feedback-control	کۆنترۆڵی پاشخوردی
 feeder	feeder	١ـ پێشبەر ٢ـ خۆراکدەر
-feeder-cable	feeder-cable	کێبڵی خۆراک
+feedercable	feeder-cable	کێبڵی خۆراک
 feedforward	feedforward	پێشخورد، پێشخوارد
-feedforward-hole	feedforward-hole	کونی پێشبەری (لە کاغەزدا)
-feedforward-register	feedforward-register	تۆماری پێشخوردی
+feedforwardhole	feedforward-hole	کونی پێشبەری (لە کاغەزدا)
+feedforwardregister	feedforward-register	تۆماری پێشخوردی
 feedline	feedline	هێڵەخۆراك
 female	female	مێینە
-ferric-RAM--FRAM	ferric-RAM-(=-FRAM)	"فێڕیک‌ ڕام"
+ferricRAMFRAM	ferric-RAM-(=-FRAM)	"فێڕیک‌ ڕام"
 game	game	یاری، وازی، گەمە
 gate	gate	دەروازه
 gateway	gateway	دەرەڕێ
-GBsec-	GB/sec-	١ـ گیگابایت لە چرکەدا ٢ـ گیگابیت لە چرکەدا ٣ـ گب/ چ
-Gbps--GBsec	Gbps-(=-GB/sec)	گ.ب.ل.چ
+GBsec	GB/sec-	١ـ گیگابایت لە چرکەدا ٢ـ گیگابیت لە چرکەدا ٣ـ گب/ چ
+GbpsGBsec	Gbps-(=-GB/sec)	گ.ب.ل.چ
 general	general	گشتی
 generate	generate	بەدیهێنان
-GIF-1	GIF-(1)	"گیف"، فۆرماتی ناوبەستی گرافیک
-GIF-2	GIF-(2)	(جۆرە درێژکراوەیەکی پەڕگە)
-gig--giga-	gig-=-giga-	بنواڕە -giga
-giga-	giga-	"گیگا-"، "جیگا-"
+GIF1	GIF-(1)	"گیف"، فۆرماتی ناوبەستی گرافیک
+GIF2	GIF-(2)	(جۆرە درێژکراوەیەکی پەڕگە)
+giggiga	gig-=-giga-	بنواڕە -giga
+giga	giga-	"گیگا-"، "جیگا-"
 global	global	جیهانی
 GNU	GNU	GNU، "گنو"
 Gopher	Gopher	Gopher، "گوفێر"
 graph	graph	١ـ گراف، نیگارە ٢ـ نەخشەک، هێڵکاریی ڕوونکردنەوە
 graphic	graphic	گرافیك، نیگارەیی
-graphic-card	graphic-card	كارتی گرافیك، کارتی نیگارە
-graphical-user-interface	graphical-user-interface	ناوبەستی نیگارەییی بەکارهێنەر، نێوانەڕووی گرافیکیی بەکاربەر، "جی‌یوو‌ئای"
+graphiccard	graphic-card	كارتی گرافیك، کارتی نیگارە
+graphicaluserinterface	graphical-user-interface	ناوبەستی نیگارەییی بەکارهێنەر، نێوانەڕووی گرافیکیی بەکاربەر، "جی‌یوو‌ئای"
 group	group	گرووپ، دەستە، پۆل
 guarantee	guarantee	دەستەبەری
 guest	guest	میوان
@@ -773,8 +773,8 @@ GUI	GUI	ڕووكاری وێنەسازراو بۆ وتووێژ لەگەڵ بەك�
 GUID	GUID	تاكە كۆدێكی جیاكەرەوەی گشتییە، كۆدێكی بێ هاوتایە بۆ جیاكردنەوە
 gutter	gutter	پەراوێزی ستوون
 graphic	graphic	گرافیك، نیگارەیی
-graphic-card	graphic-card	كارتی گرافیك، کارتی نیگارە
-graphical-user-interface	graphical-user-interface	ناوبەستی نیگارەییی بەکارهێنەر، نێوانەڕووی گرافیکیی بەکاربەر، "جی‌یوو‌ئای"
+graphiccard	graphic-card	كارتی گرافیك، کارتی نیگارە
+graphicaluserinterface	graphical-user-interface	ناوبەستی نیگارەییی بەکارهێنەر، نێوانەڕووی گرافیکیی بەکاربەر، "جی‌یوو‌ئای"
 group	group	گرووپ، دەستە، پۆل
 guarantee	guarantee	دەستەبەری
 guest	guest	میوان
@@ -785,55 +785,55 @@ gutter	gutter	پەراوێزی ستوون
 hack	hack	١ـ "هەک" ٢ـ خۆترنجاندن ٣ـ دزینی زانیاری ٤ـ چوونەژوورەوەی ڕێنەدراو بە سیستەم، خۆترنجاندن بە سیستەم، دزەکردن بە سیستەم ٥ـ دزە ٦ـ ئازارد‌انی کۆمپیوتەری
 hacker	hacker	١ـ "هەکر"، خۆترنجێنەر، دزەکەر ٢ـ دزی زانیاری، زانیاریدز ٣ـ ئازاردەری کۆمپیوتەری ٤ـ کۆمپیوتەردۆست، کۆمپیوتەرچی، پێژمێرچی، دراوەچی
 hacking	hacking	١ـ دزینی زانیاری، زانیاریدزی ٢ـ ئازاردانی کۆمپیوتەری ٣ـ پێژمێردۆستی ٤ـ خۆترنجان
-handheld-computer	handheld-computer	كۆمپیوتەری دەستی
+handheldcomputer	handheld-computer	كۆمپیوتەری دەستی
 hangup	hangup	١ـ داخستن (هێڵی تەلەفۆن) ٢ـ کپبوو، گیرکردوو، وەستاو
-hard-disk	hard-disk	دیسكی ڕەق، پەپكەڕەقە
-hard-disk-drive-	hard-disk-drive-	وەگەڕخەری دیسکی ڕەق، "ئێچ‌دی‌دی"
+harddisk	hard-disk	دیسكی ڕەق، پەپكەڕەقە
+harddiskdrive	hard-disk-drive-	وەگەڕخەری دیسکی ڕەق، "ئێچ‌دی‌دی"
 hardcode	hardcode	قورسە ڕژێم
 Hardware	Hardware	ڕەقەواڵه، ڕەقەئامێر، سەختەواڵە ، كاڵاڕەق
-hardware-bridge	hardware-bridge	پردی ڕەقەواڵە
+hardwarebridge	hardware-bridge	پردی ڕەقەواڵە
 hash	hash	وردكردن
-hash-	hash-(#)	پەیژە
-header-1	header-(1)	١ـ دەستپێک ٢ـ ناونیشان
-header-2	header-(2)	سەرپەڕە
+hash	hash-(#)	پەیژە
+header1	header-(1)	١ـ دەستپێک ٢ـ ناونیشان
+header2	header-(2)	سەرپەڕە
 heap	heap	شوێنی هەڵگرتن، بیرگەی بزۆك
 height	height	بەرزی
-help-1	help-(1)	یارمەتی، ڕێنوێنی
-help-2	help-(2)	هێڵپ
-help-command	help-command	فەرمانی ڕێنوێنی، فەرمانی یارمەتی
-help-file	help-file	پەڕگەی ڕێنوێنی، پەڕگەی یارمەتی، پەڕگەی یارمەتیدەر، پەڕگەی ڕێنوێن
+help1	help-(1)	یارمەتی، ڕێنوێنی
+help2	help-(2)	هێڵپ
+helpcommand	help-command	فەرمانی ڕێنوێنی، فەرمانی یارمەتی
+helpfile	help-file	پەڕگەی ڕێنوێنی، پەڕگەی یارمەتی، پەڕگەی یارمەتیدەر، پەڕگەی ڕێنوێن
 hertz	hertz	هێرتز، یەکەی پێوانی لەرە
 hesitation	hesitation	درەنگ
 hexadecimal	hexadecimal	ژمارەی شازدەیی
-hexadecimal-system	hexadecimal-system	ڕژێمی شانزده ژمارەیی
+hexadecimalsystem	hexadecimal-system	ڕژێمی شانزده ژمارەیی
 hibernate	hibernate	دۆخەپشوو
 hidden	hidden	شاراوە، پەنهان
-hidden-defect	hidden-defect	خەوشی شاراوە
+hiddendefect	hidden-defect	خەوشی شاراوە
 hide	hide	شاردنەوە
 history	history	مێژوو
 hits	hits	بەركەوتن
 hole	hole	كون
 home	home	ماڵەوە
-home-page--homepage	home-page-(=-homepage)	ماڵپەڕ
+homepagehomepage	home-page-(=-homepage)	ماڵپەڕ
 horizontal	horizontal	ئاسۆیی
 host	host	خانەخوێ
-host-adapter	host-adapter	گونجێنەری خانەخوێ
-host-computer	host-computer	کۆمپیوتەری خانەخوێ
-host-drive	host-drive	وەگەڕخەری خانەخوێ، دیسکوەگەڕخەری خانەخوێ
-host-language	host-language	زمانی خانەخوێ
-host-system	host-system	سیستەمی خانەخوێ
+hostadapter	host-adapter	گونجێنەری خانەخوێ
+hostcomputer	host-computer	کۆمپیوتەری خانەخوێ
+hostdrive	host-drive	وەگەڕخەری خانەخوێ، دیسکوەگەڕخەری خانەخوێ
+hostlanguage	host-language	زمانی خانەخوێ
+hostsystem	host-system	سیستەمی خانەخوێ
 hot	hot	داخ
-hot-fix--hotfix	hot-fix-=-hotfix	hot fix)، چارەساز، چارەكەر
-hot-key	hot-key	(hot key)، کلیلی داخ، دوگمەی خێرا، خێرادوگمە
-hot-plug	hot-plug	hot plug
-hot-spot	hot-spot	(hotspot)، خاڵی داخ
-hot-swap	hot-swap	hot swap، جێگرەوەی داخ
+hotfixhotfix	hot-fix-=-hotfix	hot fix)، چارەساز، چارەكەر
+hotkey	hot-key	(hot key)، کلیلی داخ، دوگمەی خێرا، خێرادوگمە
+hotplug	hot-plug	hot plug
+hotspot	hot-spot	(hotspot)، خاڵی داخ
+hotswap	hot-swap	hot swap، جێگرەوەی داخ
 hotSync	hotSync	hotSync
 HTML	HTML	(HTML)، ئێچ‌تی‌ئێم‌ئێڵ، زمانی نیشانەدانانی سەروودەق
 HTTP	HTTP	ئێچ‌تی‌تی‌پی، پرۆتۆکۆلی گواستنەوەی سەروودەق
 hub	hub	تۆپە
 hyperlink	hyperlink	سەرووبەستەر
-hyperlink-address	hyperlink-address	ناونیشانی سەرووبەستەر
+hyperlinkaddress	hyperlink-address	ناونیشانی سەرووبەستەر
 hypermedia	hypermedia	سەروو‌ڕاگەیێنەکان
 hyperpage	hyperpage	سەرووپەڕە
 hyperpaging	hyperpaging	سەرووپەڕەپەڕەدانەوه
@@ -843,17 +843,17 @@ hypertext	hypertext	سەروودەق
 hyphen	hyphen	بەستهێڵ، كورتەتەقەڵ
 heap	heap	شوێنی هەڵگرتن، بیرگەی بزۆك
 height	height	بەرزی
-help-1	help-(1)	یارمەتی، ڕێنوێنی
-help-2	help-(2)	هێڵپ
-help-command	help-command	فەرمانی ڕێنوێنی، فەرمانی یارمەتی
-help-file	help-file	پەڕگەی ڕێنوێنی، پەڕگەی یارمەتی، پەڕگەی یارمەتیدەر، پەڕگەی ڕێنوێن
+help1	help-(1)	یارمەتی، ڕێنوێنی
+help2	help-(2)	هێڵپ
+helpcommand	help-command	فەرمانی ڕێنوێنی، فەرمانی یارمەتی
+helpfile	help-file	پەڕگەی ڕێنوێنی، پەڕگەی یارمەتی، پەڕگەی یارمەتیدەر، پەڕگەی ڕێنوێن
 hertz	hertz	هێرتز، یەکەی پێوانی لەرە
 hesitation	hesitation	درەنگ
 hexadecimal	hexadecimal	ژمارەی شازدەیی
-hexadecimal-system	hexadecimal-system	ڕژێمی شانزده ژمارەیی
+hexadecimalsystem	hexadecimal-system	ڕژێمی شانزده ژمارەیی
 hibernate	hibernate	دۆخەپشوو
 hidden	hidden	شاراوە، پەنهان
-hidden-defect	hidden-defect	خەوشی شاراوە
+hiddendefect	hidden-defect	خەوشی شاراوە
 hide	hide	شاردنەوە
 history	history	مێژوو
 IBM	IBM	(IBM)، ئای‌بی‌ئێم
@@ -862,8 +862,8 @@ ICMP	ICMP	(ICMP)، پرۆتۆکۆلی پەیامی کۆنترۆڵی ئینتەر
 ICO	ICO	(جۆرێک درێژکراوەی پەڕگە)
 icon	icon	وێنۆچكە
 ICQ	ICQ	(ICQ)، ئای‌سیک‌یو، ئای‌سی‌کیو
-IDE-1	IDE-(1)	(IDE)، ئای‌دی‌ئی
-IDE-2	IDE-(2)	ژینگەیەكی تەواو بۆ پەرەپێدانی بەرنامەكان
+IDE1	IDE-(1)	(IDE)، ئای‌دی‌ئی
+IDE2	IDE-(2)	ژینگەیەكی تەواو بۆ پەرەپێدانی بەرنامەكان
 identification	identification	پێناس، ناسنامە
 identifier	identifier	ناسێنەر، پێناسدیاریكەر
 IGMP	IGMP	(IGMP)، ئای‌جی‌ئێم‌پی، پرۆتۆکۆلی گرووپی بەڕێوەبەرایەتیی ئینتەرنێت
@@ -877,53 +877,53 @@ implies	implies	ئەگرێتەخۆ
 import	import	١ـ هێنان، هاوردن، ٢- هاوردە
 improve	improve	چاککردن، باشکردن، چاکترکردن، پەرەپێسەندن، پێشخستن
 improved	improved	چاکبوو، باشبوو
-improved-version	improved-version	وەشانی چاکبوو، وەشانی باشبوو
+improvedversion	improved-version	وەشانی چاکبوو، وەشانی باشبوو
 improvment	improvment	باشی، چاکی
-increment-	increment-	پەرە، زۆربوون
+increment	increment-	پەرە، زۆربوون
 index	index	١ـ پێڕست ٢ـ نوانە، پێنوێن، نیشاندەر، پیشاندەر
-index-bilding-	index-bilding-	چێکردنی نوانە، نوانەچێکەری، نوانەسازی
+indexbilding	index-bilding-	چێکردنی نوانە، نوانەچێکەری، نوانەسازی
 indexed	indexed	نوانەدار
-indexed-access	indexed-access	دەستپێگەیشتنی نوانەدار
-indexed-address	indexed-address	ناونیشانی نوانەدار
-indexed-file	indexed-file	پەڕگەی نوانەدار
-indexed-instruction	indexed-instruction	ڕێکارنامەی نوانەدار، فەرماننامەی نوانەدار
+indexedaccess	indexed-access	دەستپێگەیشتنی نوانەدار
+indexedaddress	indexed-address	ناونیشانی نوانەدار
+indexedfile	indexed-file	پەڕگەی نوانەدار
+indexedinstruction	indexed-instruction	ڕێکارنامەی نوانەدار، فەرماننامەی نوانەدار
 information	information	زانیاری
-information-provider--content-provider--IP	information-provider-(=-content-provider-=-IP)	پێکهێنەری زانیاری، بەدەستهێنەری زانیاری
-Information-Technology-	Information-Technology-	تەكنۆلۆژیای زانیاری، پیشەزانیی زانیاری
+informationprovidercontentproviderIP	information-provider-(=-content-provider-=-IP)	پێکهێنەری زانیاری، بەدەستهێنەری زانیاری
+InformationTechnology	Information-Technology-	تەكنۆلۆژیای زانیاری، پیشەزانیی زانیاری
 infrared	infrared	ژێرسوور
 initialize	initialize	نرخی سەرەتایی‌ پێدان، پێدانی نرخی سەرەتایی
 input	input	١ـ تێكردن ٢ـ تێخستە، تێچوو، تێخراو ٣ـ ناوچوونگە
-input-device	input-(device)	تێخستە، تێچوو، تێخراو، ئامێری تێچوو "تێخراو"، بەناوبەر، ئامێری بەناوبەر
-input-area	input-area	ناوچەی تێخستە (تێچوو)
-input-block	input-block	بەربەستی تێخستە (تێچوو)
-input-buffer	input-buffer	نێوانگری تێخستە (تێچوو)
-input-bus	input-bus	تێپەڕگەی تێخستە (تێچوو)
+inputdevice	input-(device)	تێخستە، تێچوو، تێخراو، ئامێری تێچوو "تێخراو"، بەناوبەر، ئامێری بەناوبەر
+inputarea	input-area	ناوچەی تێخستە (تێچوو)
+inputblock	input-block	بەربەستی تێخستە (تێچوو)
+inputbuffer	input-buffer	نێوانگری تێخستە (تێچوو)
+inputbus	input-bus	تێپەڕگەی تێخستە (تێچوو)
 insert	insert	تێخستن
 install	install	دامەزراندن، دامەزران
-InstallShield-	InstallShield-	قەڵغانی دامەزراندن
-instance-	instance-	نموونە
+InstallShield	InstallShield-	قەڵغانی دامەزراندن
+instance	instance-	نموونە
 instant	instant	دەستبەجێ
-instant-message-	instant-message-	پەیامی دەستبەجێ
+instantmessage	instant-message-	پەیامی دەستبەجێ
 instruction	instruction	ڕێکارنامە، فەرماننامە
 insurance	insurance	پارێزه
 int	int	بنواڕە integer type
 integer	integer	ژمارەی تەواو
-integer-type	integer-type	جۆری تەواو
-integration-	integration-	تەواوكردن
+integertype	integer-type	جۆری تەواو
+integration	integration-	تەواوكردن
 interactive	interactive	كارلێكردن - دوولایەنه
 interface	interface	١ـ ڕووکار ٢ـ نێوانەڕوو ٣ـ ناوبەست (واتە وەک ناوبەستێ کە دەتوانێ دوو شت پێکەوە ببەستێتەوە)
 internal	internal	ناوەكی
-internal-bus	internal-bus	تێپەڕگەی ناوەکی
+internalbus	internal-bus	تێپەڕگەی ناوەکی
 internet	internet	ئینتەرنێت، ئینترنێت، ئینترنت
 intranet	intranet	ئینترانێت
 invite	invite	بانگێشتن، بانگهێشتكردن
-IP-1	IP-(1)	(IP)، ئای‌پی، پرۆتۆکۆلی ئینتەرنێت، کۆنووسی ئینتەرنێت
-IP-2	IP-(2)	بنواڕە information provider
-IP-address-	IP-address-	ناونیشانی ئای‌پی، ناونیشانی کۆنووسی ئینتەرنێت
-ISBN-	ISBN-	ژمارەی سپاردن، پێوەرەژمارەی نێونەتەوەییی کتێب
+IP1	IP-(1)	(IP)، ئای‌پی، پرۆتۆکۆلی ئینتەرنێت، کۆنووسی ئینتەرنێت
+IP2	IP-(2)	بنواڕە information provider
+IPaddress	IP-address-	ناونیشانی ئای‌پی، ناونیشانی کۆنووسی ئینتەرنێت
+ISBN	ISBN-	ژمارەی سپاردن، پێوەرەژمارەی نێونەتەوەییی کتێب
 ISDN	ISDN	(ISDN)، ئای‌ئێس‌دی‌ئێن، ڕایەڵەی ئای‌ئێس‌دی‌ئێن، ڕایەڵەی ڕەنووسیی ڕاژە هاوکۆکان
 issue	issue	١- ئەنجام، بەرهەم ٢- دەرکردن (ڕۆژنامە، گۆڤار) ٣- بڵاوکراوە (ڕۆژنامە، گۆڤار) ٤- ژمارە (ی ڕۆژنامە و گۆڤار)
-IT-	IT-	تەكنۆلۆژیای زانیاری
+IT	IT-	تەكنۆلۆژیای زانیاری
 italic	italic	لار
 item	item	دانە، بڕگە
 iTunes	iTunes	ڕاژەگەری (خزمەتگوزاری)ی مۆسیقایە لەڕێگەی نەرمەواڵەیەکەوە كۆمپانیای ئەپڵ پێشكەشی دەكات
@@ -934,55 +934,55 @@ implies	implies	ئەگرێتەخۆ
 import	import	١ـ هێنان، هاوردن، ٢- هاوردە
 improve	improve	چاککردن، باشکردن، چاکترکردن، پەرەپێسەندن، پێشخستن
 improved	improved	چاکبوو، باشبوو
-improved-version	improved-version	وەشانی چاکبوو، وەشانی باشبوو
+improvedversion	improved-version	وەشانی چاکبوو، وەشانی باشبوو
 improvment	improvment	باشی، چاکی
-increment-	increment-	پەرە، زۆربوون
+increment	increment-	پەرە، زۆربوون
 index	index	١ـ پێڕست ٢ـ نوانە، پێنوێن، نیشاندەر، پیشاندەر
-index-bilding-	index-bilding-	چێکردنی نوانە، نوانەچێکەری، نوانەسازی
+indexbilding	index-bilding-	چێکردنی نوانە، نوانەچێکەری، نوانەسازی
 indexed	indexed	نوانەدار
-indexed-access	indexed-access	دەستپێگەیشتنی نوانەدار
-indexed-address	indexed-address	ناونیشانی نوانەدار
+indexedaccess	indexed-access	دەستپێگەیشتنی نوانەدار
+indexedaddress	indexed-address	ناونیشانی نوانەدار
 J2EE	J2EE	J2EE
-Jackson-structured-programming-	Jackson-structured-programming-	پرۆگرامکردنی پێکهاتەی جەکسۆن
+Jacksonstructuredprogramming	Jackson-structured-programming-	پرۆگرامکردنی پێکهاتەی جەکسۆن
 jaggies	jaggies	زیگزاگ، لابەلا
-jar-1	jar-(1)	(زەبروەشاندنی توند لە ئامێر و دەزگا)
-jar-2	jar-(2)	ئەرشیڤی جاڤا
+jar1	jar-(1)	(زەبروەشاندنی توند لە ئامێر و دەزگا)
+jar2	jar-(2)	ئەرشیڤی جاڤا
 Java	Java	جاڤا
-JavaScript-	JavaScript-	جاڤاسکریپت
+JavaScript	JavaScript-	جاڤاسکریپت
 JDBC	JDBC	(JDBC)، جەی‌دی‌بی‌سی، پێکەوەبەستنی بنکەدراوەی جاڤا
 JDK	JDK	(JDK)، جەی‌دی‌کەی
-JHTML-	JHTML-	(JHTML)، جەی‌ئێچ‌تی‌ئێم‌ئێڵ، جاڤا لەناو زمانی هێمادانانی سەروودەق
+JHTML	JHTML-	(JHTML)، جەی‌ئێچ‌تی‌ئێم‌ئێڵ، جاڤا لەناو زمانی هێمادانانی سەروودەق
 jini	jini	(jini)، "جینی"
 job	job	كار
 Joliet	Joliet	(Joliet)، جولیت
-journal-1	journal-(1)	١ـ گۆڤار ٢ـ ڕۆژنامە
-journal-2	journal-(2)	١ـ بیرنامە، یادنامەی ڕۆژانە، یادداشت ٢ـ پەڕاوی بیرنامە
-journal-3	journal-(3)	ژوورنال
-journal-4	journal-(4)	ژوورنال
-journal-5	journal-(5)	ڕاگرە یا جێی ڕاگیربوونی تەوەر (مەکینەگەری)
+journal1	journal-(1)	١ـ گۆڤار ٢ـ ڕۆژنامە
+journal2	journal-(2)	١ـ بیرنامە، یادنامەی ڕۆژانە، یادداشت ٢ـ پەڕاوی بیرنامە
+journal3	journal-(3)	ژوورنال
+journal4	journal-(4)	ژوورنال
+journal5	journal-(5)	ڕاگرە یا جێی ڕاگیربوونی تەوەر (مەکینەگەری)
 JPEG	JPEG	(JPEG)، جەی‌پێج
 JRE	JRE	(JRE)، ژینگەی ماوەی گەڕانی جاڤا
-JSP-2	JSP-(2)	(JSP)، جەی‌ئێس‌پی، پەڕەی ڕاژەکاری جاڤا
+JSP2	JSP-(2)	(JSP)، جەی‌ئێس‌پی، پەڕەی ڕاژەکاری جاڤا
 jumper	jumper	بازدەر
-junk-1	junk-(1)	خڕەوپڕە، شڕەوپڕەی کۆمپیوتەری
-junk-2	junk-(2)	بێگیان، مانگی دەستکردی مردوو
-junk-3	junk-(3)	١ـ بێکەڵک ٢ـ بێگیان ٣ـ بێکەڵککردن ٤ـ بێگیانکردن
-junk-a-file	junk-a-file	سڕینەوەی پەڕگە
-junk-mail	junk-mail	پۆستی بێكەڵك
+junk1	junk-(1)	خڕەوپڕە، شڕەوپڕەی کۆمپیوتەری
+junk2	junk-(2)	بێگیان، مانگی دەستکردی مردوو
+junk3	junk-(3)	١ـ بێکەڵک ٢ـ بێگیان ٣ـ بێکەڵککردن ٤ـ بێگیانکردن
+junkafile	junk-a-file	سڕینەوەی پەڕگە
+junkmail	junk-mail	پۆستی بێكەڵك
 justify	justify	هاوڕێکی، هاوستوونی
 JVM	JVM	(JVM)، جەی‌ڤی‌ئێم
-journal-3	journal-(3)	ژوورنال
-journal-4	journal-(4)	ژوورنال
-journal-5	journal-(5)	ڕاگرە یا جێی ڕاگیربوونی تەوەر (مەکینەگەری)
+journal3	journal-(3)	ژوورنال
+journal4	journal-(4)	ژوورنال
+journal5	journal-(5)	ڕاگرە یا جێی ڕاگیربوونی تەوەر (مەکینەگەری)
 JPEG	JPEG	(JPEG)، جەی‌پێج
 JRE	JRE	(JRE)، ژینگەی ماوەی گەڕانی جاڤا
-JSP-2	JSP-(2)	(JSP)، جەی‌ئێس‌پی، پەڕەی ڕاژەکاری جاڤا
+JSP2	JSP-(2)	(JSP)، جەی‌ئێس‌پی، پەڕەی ڕاژەکاری جاڤا
 jumper	jumper	بازدەر
-junk-1	junk-(1)	خڕەوپڕە، شڕەوپڕەی کۆمپیوتەری
-junk-2	junk-(2)	بێگیان، مانگی دەستکردی مردوو
-junk-3	junk-(3)	١ـ بێکەڵک ٢ـ بێگیان ٣ـ بێکەڵککردن ٤ـ بێگیانکردن
-junk-a-file	junk-a-file	سڕینەوەی پەڕگە
-junk-mail	junk-mail	پۆستی بێكەڵك
+junk1	junk-(1)	خڕەوپڕە، شڕەوپڕەی کۆمپیوتەری
+junk2	junk-(2)	بێگیان، مانگی دەستکردی مردوو
+junk3	junk-(3)	١ـ بێکەڵک ٢ـ بێگیان ٣ـ بێکەڵککردن ٤ـ بێگیانکردن
+junkafile	junk-a-file	سڕینەوەی پەڕگە
+junkmail	junk-mail	پۆستی بێكەڵك
 justify	justify	هاوڕێکی، هاوستوونی
 K	K	كیلۆ
 KDE	KDE	کەی‌دی‌ئی
@@ -991,17 +991,17 @@ key	key	١ـ كلیل ٢ـ دوگمە
 keyboard	keyboard	تەختەكلیل
 keyword	keyword	کلیلەوشە
 kill	kill	لابردن، سڕینەوە
-kill-file	kill-file	لابردنی پەڕگە، سڕینەوەی پەڕگە
+killfile	kill-file	لابردنی پەڕگە، سڕینەوەی پەڕگە
 kilo	kilo	كیلۆ
-kilobit-per-second-	kilobit-per-second-	کیلۆبیت لە چرکەدا
-kilohertz-	kilohertz-	کیلۆهرتز
+kilobitpersecond	kilobit-per-second-	کیلۆبیت لە چرکەدا
+kilohertz	kilohertz-	کیلۆهرتز
 kit	kit	١ـ كەرەسە ٢ـ کەرەسەدان، سنووقی جێی کەرەسە و ئامێر ٣ـ سیستەمێکی پێژمێری کە لەلایەن بەکارهێنەرێکەوە چێ کراوە
 lable	lable	نیشانە
 LAN	LAN	(LAN)، "لا‌ن"، ڕایەڵەی ناوخۆیی، ڕایەڵەی داپۆشەرخۆجێیی
-LAN-card	LAN-card	کارتی "لان"
-landscape-mode	landscape-mode	شێوازی ئاسۆیی بۆ چاپکردن
+LANcard	LAN-card	کارتی "لان"
+landscapemode	landscape-mode	شێوازی ئاسۆیی بۆ چاپکردن
 laptop	laptop	لاپتۆپ، سەرئەژنۆیی
-laptop-computer	laptop-computer	کۆمپیوتەری سەرئەژنۆیی
+laptopcomputer	laptop-computer	کۆمپیوتەری سەرئەژنۆیی
 launch	launch	داگیرساندن
 layer	layer	چین
 layout	layout	١ـ گەڵاڵەبەندی ٢ـ کڵێشە، نەخشان، ڕووی دەرەوەی تەنێک
@@ -1012,24 +1012,24 @@ level	level	ئاست
 library	library	ژێدەرگه
 license	license	ڕێپێدان، ڕێپێنامە، مۆڵەت
 link	link	بەستەر
-link-control-procedure-	link-control-procedure-	شێوازی کۆنترۆڵبەستەر، شێوازی کۆنترۆڵی هێڵی بەستەر
+linkcontrolprocedure	link-control-procedure-	شێوازی کۆنترۆڵبەستەر، شێوازی کۆنترۆڵی هێڵی بەستەر
 linker	linker	لێكبەستەر
 liquid	liquid	تراو، ڕاو، ئاوەکی، شلە
-liquid-crystal-display-	liquid-crystal-display-	پیشانگەری بلوورینی تراو
+liquidcrystaldisplay	liquid-crystal-display-	پیشانگەری بلوورینی تراو
 load	load	باركردن
 local	local	ناوچە، خۆماڵی، خۆجێیی
-log-1	log-(1)	(بنواڕە log-in و log-out)
-log-2	log-(2)	ڕووداوتۆمارگەری
-log-3	log-(3)	ڕووداوتۆمارکردن
-log-in-1	log-in-(1)	چوونەژوورەوە، چوونەژوورەوە بە سیستەم
-log-in-2	log-in-(2)	پێوەندسازی، گرێدانگەری
-log-in-3	log-in-(3)	١ـ چوونەناوی سیستەم ٢ـ پێکهێنانی پێوەندی ٣ـ پێکهێنانی ڕاستەوخۆی پێوەندی
-log-in-4	log-in-(4)	بنواڕە sign in
-log-out-1	log-out-(1)	دەرچوون، پچڕانی پێوەندی، دەرچوون لە سیستەم
-log-out-2	log-out-(2)	پچڕانسازی، پچڕانگەری
+log1	log-(1)	(بنواڕە log-in و log-out)
+log2	log-(2)	ڕووداوتۆمارگەری
+log3	log-(3)	ڕووداوتۆمارکردن
+login1	log-in-(1)	چوونەژوورەوە، چوونەژوورەوە بە سیستەم
+login2	log-in-(2)	پێوەندسازی، گرێدانگەری
+login3	log-in-(3)	١ـ چوونەناوی سیستەم ٢ـ پێکهێنانی پێوەندی ٣ـ پێکهێنانی ڕاستەوخۆی پێوەندی
+login4	log-in-(4)	بنواڕە sign in
+logout1	log-out-(1)	دەرچوون، پچڕانی پێوەندی، دەرچوون لە سیستەم
+logout2	log-out-(2)	پچڕانسازی، پچڕانگەری
 logging	logging	ڕووداوتۆماری، ناونووسی
-logging-of	logging-of	کوژاندنەوەی سیستەم
-logging-on	logging-on	بەکارخستنەوەی سیستەم
+loggingof	logging-of	کوژاندنەوەی سیستەم
+loggingon	logging-on	بەکارخستنەوەی سیستەم
 logic	logic	ژیربێژی
 login	login	چوونەژوورەوە
 logout	logout	١ـ دەرچوون ٢ـ دەرنووسی
@@ -1039,19 +1039,19 @@ loudspeaker	loudspeaker	بڵندگۆ، بەرزەبێژ
 LPT	LPT	(LPT)، ئێڵ‌پی‌تی
 license	license	ڕێپێدان، ڕێپێنامە، مۆڵەت
 link	link	بەستەر
-link-control-procedure-	link-control-procedure-	شێوازی کۆنترۆڵبەستەر، شێوازی کۆنترۆڵی هێڵی بەستەر
+linkcontrolprocedure	link-control-procedure-	شێوازی کۆنترۆڵبەستەر، شێوازی کۆنترۆڵی هێڵی بەستەر
 linker	linker	لێكبەستەر
 liquid	liquid	تراو، ڕاو، ئاوەکی، شلە
-liquid-crystal-display-	liquid-crystal-display-	پیشانگەری بلوورینی تراو
+liquidcrystaldisplay	liquid-crystal-display-	پیشانگەری بلوورینی تراو
 load	load	باركردن
 local	local	ناوچە، خۆماڵی، خۆجێیی
-log-1	log-(1)	(بنواڕە log-in و log-out)
-log-2	log-(2)	ڕووداوتۆمارگەری
-log-3	log-(3)	ڕووداوتۆمارکردن
-log-in-1	log-in-(1)	چوونەژوورەوە، چوونەژوورەوە بە سیستەم
-log-in-2	log-in-(2)	پێوەندسازی، گرێدانگەری
-log-in-3	log-in-(3)	١ـ چوونەناوی سیستەم ٢ـ پێکهێنانی پێوەندی ٣ـ پێکهێنانی ڕاستەوخۆی پێوەندی
-log-in-4	log-in-(4)	بنواڕە sign in
+log1	log-(1)	(بنواڕە log-in و log-out)
+log2	log-(2)	ڕووداوتۆمارگەری
+log3	log-(3)	ڕووداوتۆمارکردن
+login1	log-in-(1)	چوونەژوورەوە، چوونەژوورەوە بە سیستەم
+login2	log-in-(2)	پێوەندسازی، گرێدانگەری
+login3	log-in-(3)	١ـ چوونەناوی سیستەم ٢ـ پێکهێنانی پێوەندی ٣ـ پێکهێنانی ڕاستەوخۆی پێوەندی
+login4	log-in-(4)	بنواڕە sign in
 macro	macro	پۆلەفرمان
 magnet	magnet	موگناتیس
 magnetic	magnetic	موگناتیسی
@@ -1063,12 +1063,12 @@ manual	manual	١ـ ڕێبەر، دەستکار ٢ـ پەیڕەونامە، ڕێ�
 margin	margin	قەراخ، کەنار، تەنیشت
 marker	marker	هێمادانەر، نیشانەلێدەر، نیشانەکەر، ئاماژەکەر
 marketing	marketing	كڕین و فرۆشتن، بازاڕچێتی
-markup--mark-up	markup-(=-mark-up)	هێمادانان، نیشانەدانان
+markupmarkup	markup-(=-mark-up)	هێمادانان، نیشانەدانان
 master	master	سەردار
 media	media	ڕاگەیێنەکان، ڕاگەیاندنەکان، هۆكاری ڕاگەیاندن، میدیا
-media-access-control--MAC	media-access-control-(=-MAC)	کۆنترۆڵی دەستپێگەیشتن بە ڕاگەیێنەکان
-media-center	media-center	ناوەندی ڕاگەیەنەکان
-media-drive	media-drive	وەگەڕخەری ڕاگەیەنەکان
+mediaaccesscontrolMAC	media-access-control-(=-MAC)	کۆنترۆڵی دەستپێگەیشتن بە ڕاگەیێنەکان
+mediacenter	media-center	ناوەندی ڕاگەیەنەکان
+mediadrive	media-drive	وەگەڕخەری ڕاگەیەنەکان
 medium	medium	١ـ ناوەند، ناوەندی ٢ـ ڕاگەیێن، میدیا
 memory	memory	بیرگە
 menu	menu	لیسته، پێڕست
@@ -1078,32 +1078,32 @@ method	method	شێواز، ڕێگا
 minicomputer	minicomputer	گچكەبژمێر، کۆمپیوتەری گچکەلە
 mirror	mirror	ئاوێنە
 mobile	mobile	جووڵاو، بزۆک، گەڕۆک
-mobile-phone-	mobile-phone-	تەلەفۆنی گەڕۆک، تەلەفۆنی دەستی، تەلەفۆنی بزۆک
+mobilephone	mobile-phone-	تەلەفۆنی گەڕۆک، تەلەفۆنی دەستی، تەلەفۆنی بزۆک
 mode	mode	دۆخ، بار، شێواز
 model	model	مۆدێل، نموونە
 modem	modem	مۆدێم
 module	module	یەكەی سەربەخۆ، مۆدول
-monitor-1	monitor-(1)	مۆنیتۆر، پیشانگەر، پەردەپیشان
-monitor-2	monitor-(2)	چاودێر، مۆنیتۆر
-monitor-3	monitor-(3)	١ـ چاودێر، بەرنامەی چاودێر (لە سیستەمی کارپێکردندا، بەرنامەی کۆنترۆڵی فەرمانەکان) ٢ـ چاودێریکردن
-monitor-4	monitor-(4)	١ـ چاودێر، دەزگای چاودێری (لە پێوانی خۆکاردا، ئامێرێ کە بە شێوەیەکی بەردەوام، ڕادەی یەک یان چەند بڕێک دەپێوێ) ٢ـ چاودێریکردن، ئاگالێبوون
-monitoring-	monitoring-	چاودێری
-motherboard-	motherboard-	تەختەی سەرەكی، تەختەدایک، دایکەتەختە
+monitor1	monitor-(1)	مۆنیتۆر، پیشانگەر، پەردەپیشان
+monitor2	monitor-(2)	چاودێر، مۆنیتۆر
+monitor3	monitor-(3)	١ـ چاودێر، بەرنامەی چاودێر (لە سیستەمی کارپێکردندا، بەرنامەی کۆنترۆڵی فەرمانەکان) ٢ـ چاودێریکردن
+monitor4	monitor-(4)	١ـ چاودێر، دەزگای چاودێری (لە پێوانی خۆکاردا، ئامێرێ کە بە شێوەیەکی بەردەوام، ڕادەی یەک یان چەند بڕێک دەپێوێ) ٢ـ چاودێریکردن، ئاگالێبوون
+monitoring	monitoring-	چاودێری
+motherboard	motherboard-	تەختەی سەرەكی، تەختەدایک، دایکەتەختە
 mount	mount	جێگیركردن، بەستن، گرێدان
 mouse	mouse	مشك
-mouse-pad	mouse-pad	ژێرەمشك
+mousepad	mouse-pad	ژێرەمشك
 move	move	جووڵان
-move-down	move-down	بۆخوارگوێزانەوە، بزواندن بۆ خوارەوە
-move-up	move-up	بۆسەرگوێزانەوە، بزواندن بۆ سەرەوە
-MS-Office	MS-Office	مایکرۆسۆفت ئۆفیس
+movedown	move-down	بۆخوارگوێزانەوە، بزواندن بۆ خوارەوە
+moveup	move-up	بۆسەرگوێزانەوە، بزواندن بۆ سەرەوە
+MSOffice	MS-Office	مایکرۆسۆفت ئۆفیس
 multi	multi	فرە، چەندین، چەند
 multicast	multicast	فرەپەخش، فرەوەشان
 multilanguage	multilanguage	فرەزمان
 multimedia	multimedia	فرەڕاگەیێنەکان، فرەڕاگەیەنەکان، ڕەنگاڵە
 mute	mute	کپاندن، کپکردن، دەنگبڕین
 MySQL	MySQL	مای‌ئێس‌كیو‌ئێڵ، مای‌سیكوێل، جۆرێكە لە بنکەدراوە
-media-center	media-center	ناوەندی ڕاگەیەنەکان
-media-drive	media-drive	وەگەڕخەری ڕاگەیەنەکان
+mediacenter	media-center	ناوەندی ڕاگەیەنەکان
+mediadrive	media-drive	وەگەڕخەری ڕاگەیەنەکان
 medium	medium	١ـ ناوەند، ناوەندی ٢ـ ڕاگەیێن، میدیا
 memory	memory	بیرگە
 menu	menu	لیسته، پێڕست
@@ -1113,12 +1113,12 @@ method	method	شێواز، ڕێگا
 minicomputer	minicomputer	گچكەبژمێر، کۆمپیوتەری گچکەلە
 mirror	mirror	ئاوێنە
 mobile	mobile	جووڵاو، بزۆک، گەڕۆک
-mobile-phone-	mobile-phone-	تەلەفۆنی گەڕۆک، تەلەفۆنی دەستی، تەلەفۆنی بزۆک
+mobilephone	mobile-phone-	تەلەفۆنی گەڕۆک، تەلەفۆنی دەستی، تەلەفۆنی بزۆک
 mode	mode	دۆخ، بار، شێواز
 model	model	مۆدێل، نموونە
 modem	modem	مۆدێم
-N-	N+-	"ئێن+"
-Name-Server	Name-Server	ڕاژەكاری ناو
+N	N+-	"ئێن+"
+NameServer	Name-Server	ڕاژەكاری ناو
 namespace	namespace	بۆشاییناو
 nand	nand	"ناند"، "نە و"، "نه + و"
 nano	nano	"نانۆ"
@@ -1127,124 +1127,124 @@ narrowband	narrowband	كورتەباند، تەسكەباند
 NASA	NASA	ناسا، فەرمانگەی نەتەوایەتیی هەواگەردی و بۆشایی (لە ئەمریکادا)
 NAT	NAT	ئێن‌ئەی‌تی
 native	native	ڕەسەن، خۆماڵی، خۆیی، خۆوڵاتی، ناوخۆیی، بنەچەیی
-native-language	native-language	زمانی بنەچەیی
+nativelanguage	native-language	زمانی بنەچەیی
 natural	natural	سرووشتی
 navigate	navigate	ڕێنیشاندان، ڕێدۆزی
 navigation	navigation	ڕێنیشاندەری، ڕێدۆزی
 navigator	navigator	ڕێنیشاندەر، ڕیدۆز
 NDIS	NDIS	ئێن‌دی‌ئای‌ئێس
 NDS	NDS	ئێن‌دی‌ئێس
-negative--	negative-(-)	نەرێنی
+negative	negative-(-)	نەرێنی
 nest	nest	هێلانە
 net	net	تۆڕ
-net-surfer	net-surfer	وێبگەردی تۆڕ
+netsurfer	net-surfer	وێبگەردی تۆڕ
 NetBEUI	NetBEUI	(NetBEUI)
 NetBIOS	NetBIOS	(NetBIOS)، "نێت‌بایووس"، سیستەمی کارپێکردنی تێچووـ دەرچووی بنەڕەتیی ڕایەڵە
-netware-1	netware-(1)	ڕایەڵەواڵە
-NetWare-2	NetWare-(2)	(NetWare)، "نێتوێر"
+netware1	netware-(1)	ڕایەڵەواڵە
+NetWare2	NetWare-(2)	(NetWare)، "نێتوێر"
 Network	Network	ڕایەڵه، تۆڕ
-network-card	network-card	كارتی ڕایەڵە
-Network-File-System-	Network-File-System-	(NFS)، "ئێن‌ئێف‌ئێس" سیستەمی پەڕگەی ڕایەڵە
-Network-Information-Center-	Network-Information-Center-	(NIC)، "نیک"، ناوەندی زانیاریی ڕایەڵە
-Network-Information-Service-	Network-Information-Service-	ڕاژەی زانیاریی ‌ڕایەڵه، "نیس"
-Network-News-Transfer-Protocol-	Network-News-Transfer-Protocol-	(NNTP)، ئێن‌ئێن‌تی‌پی، کۆنووسی گواستنەوەی هەواڵ لە ڕایەڵە
-network-user-indentifer-	network-user-indentifer-	پێناسەری بەکارهێنەری ڕایەڵە، نهێنیی ناسینەوەی بەکارهێنەری ڕایەڵە
+networkcard	network-card	كارتی ڕایەڵە
+NetworkFileSystem	Network-File-System-	(NFS)، "ئێن‌ئێف‌ئێس" سیستەمی پەڕگەی ڕایەڵە
+NetworkInformationCenter	Network-Information-Center-	(NIC)، "نیک"، ناوەندی زانیاریی ڕایەڵە
+NetworkInformationService	Network-Information-Service-	ڕاژەی زانیاریی ‌ڕایەڵه، "نیس"
+NetworkNewsTransferProtocol	Network-News-Transfer-Protocol-	(NNTP)، ئێن‌ئێن‌تی‌پی، کۆنووسی گواستنەوەی هەواڵ لە ڕایەڵە
+networkuserindentifer	network-user-indentifer-	پێناسەری بەکارهێنەری ڕایەڵە، نهێنیی ناسینەوەی بەکارهێنەری ڕایەڵە
 newbie	newbie	دەستپێكەر
 Newsgroup	Newsgroup	گرووپەهەواڵ
 next	next	داهاتوو، دوایی، ئەوی تر
 nibble	nibble	٤ بیت، نیو بایت
 NIC	NIC	كارتی ڕایەڵە یان Network Information Center
 nil	nil	سفر، چۆڵ، واڵا
-nill--null	nill-(=-null)	چۆڵ، خاڵی، بۆش، واڵا، بەتاڵ
+nillnull	nill-(=-null)	چۆڵ، خاڵی، بۆش، واڵا، بەتاڵ
 node	node	گرێ
 NOR	NOR	(NOR)، توخمی ئێن‌ئۆئار
 normalization	normalization	ئاساییكردنەوە
 note	note	١ـ تێبینی، سەرنج ٢ـ یاداشت ٣ـ پەراوێز
-notebook-computer	notebook-computer	پێژمێری پەڕتووكی
+notebookcomputer	notebook-computer	پێژمێری پەڕتووكی
 Novell	Novell	(Novell)، نۆڤێل
 NSA	NSA	(NSA)، ڕێکخراوەی نهێنیناسیی فەرمیی ئەمریکا
 NTFS	NTFS	(NTFS)، ئێن‌تی‌ئێف‌ئێس
-null-1	null-(1)	١ـ بێبار، نێرەمووک ٢ـ چۆڵ ٣ـ سفر ٤ـ بێبایەخ، بێنرخ
-null-2--empty	null-(2)-(=-empty)	چۆڵ، پووچ، خاڵی، واڵا، ڤالا
-null-character-	null-character-	نووسەی پووچ
-num-lock-key	num-lock-key	قوفڵەكلیلی ژمارەكان، كلیلی قوفڵی ژمارەكان
+null1	null-(1)	١ـ بێبار، نێرەمووک ٢ـ چۆڵ ٣ـ سفر ٤ـ بێبایەخ، بێنرخ
+null2empty	null-(2)-(=-empty)	چۆڵ، پووچ، خاڵی، واڵا، ڤالا
+nullcharacter	null-character-	نووسەی پووچ
+numlockkey	num-lock-key	قوفڵەكلیلی ژمارەكان، كلیلی قوفڵی ژمارەكان
 number	number	ژمارە
-numeric-	numeric-	ژمارەیی
+numeric	numeric-	ژمارەیی
 NDIS	NDIS	ئێن‌دی‌ئای‌ئێس
 NDS	NDS	ئێن‌دی‌ئێس
-negative--	negative-(-)	نەرێنی
+negative	negative-(-)	نەرێنی
 nest	nest	هێلانە
 net	net	تۆڕ
-net-surfer	net-surfer	وێبگەردی تۆڕ
+netsurfer	net-surfer	وێبگەردی تۆڕ
 NetBEUI	NetBEUI	(NetBEUI)
 NetBIOS	NetBIOS	(NetBIOS)، "نێت‌بایووس"، سیستەمی کارپێکردنی تێچووـ دەرچووی بنەڕەتیی ڕایەڵە
-netware-1	netware-(1)	ڕایەڵەواڵە
-NetWare-2	NetWare-(2)	(NetWare)، "نێتوێر"
+netware1	netware-(1)	ڕایەڵەواڵە
+NetWare2	NetWare-(2)	(NetWare)، "نێتوێر"
 Network	Network	ڕایەڵه، تۆڕ
-network-card	network-card	كارتی ڕایەڵە
-Network-File-System-	Network-File-System-	(NFS)، "ئێن‌ئێف‌ئێس" سیستەمی پەڕگەی ڕایەڵە
-Network-Information-Center-	Network-Information-Center-	(NIC)، "نیک"، ناوەندی زانیاریی ڕایەڵە
-Network-Information-Service-	Network-Information-Service-	ڕاژەی زانیاریی ‌ڕایەڵه، "نیس"
+networkcard	network-card	كارتی ڕایەڵە
+NetworkFileSystem	Network-File-System-	(NFS)، "ئێن‌ئێف‌ئێس" سیستەمی پەڕگەی ڕایەڵە
+NetworkInformationCenter	Network-Information-Center-	(NIC)، "نیک"، ناوەندی زانیاریی ڕایەڵە
+NetworkInformationService	Network-Information-Service-	ڕاژەی زانیاریی ‌ڕایەڵه، "نیس"
 object	object	تەن
-object-linking-and-embedding-	object-linking-and-embedding-	بەستەرلێدان و خستنەناوکاری تەنەکان، "ئوو‌ئێڵ‌ئی OLE"، تەنە پێكەوە پێچراوەكان
-object-oriented-	object-oriented-	تەنخواز
-object-oriented-analyse	object-oriented-analyse	شیتەڵكاریی تەنخواز
-object-oriented-design	object-oriented-design	داڕشتنی تەنخواز
-object-oriented-programming	object-oriented-programming	بەرنامەسازیی تەنخواز
+objectlinkingandembedding	object-linking-and-embedding-	بەستەرلێدان و خستنەناوکاری تەنەکان، "ئوو‌ئێڵ‌ئی OLE"، تەنە پێكەوە پێچراوەكان
+objectoriented	object-oriented-	تەنخواز
+objectorientedanalyse	object-oriented-analyse	شیتەڵكاریی تەنخواز
+objectorienteddesign	object-oriented-design	داڕشتنی تەنخواز
+objectorientedprogramming	object-oriented-programming	بەرنامەسازیی تەنخواز
 octal	octal	سیستەمی ژمارەییی هەشتی
-office-1	office-(1)	نووسینگە
-Office-2--Microsoft-Office	Office-(2)-(=-Microsoft-Office)	(Office)، ئافیس، ئۆفیس، مایکرۆسۆفت ئۆفیس
+office1	office-(1)	نووسینگە
+Office2MicrosoftOffice	Office-(2)-(=-Microsoft-Office)	(Office)، ئافیس، ئۆفیس، مایکرۆسۆفت ئۆفیس
 offline	offline	دەرهێڵ
 online	online	سەرهێڵ
 open	open	كراوە
-Open-Software-Foundation	Open-Software-Foundation	دەستەی نەرمەواڵە كراوە
-Open-system	Open-system	سیستەمی كراوه، سیستەم‌کراوە
+OpenSoftwareFoundation	Open-Software-Foundation	دەستەی نەرمەواڵە كراوە
+Opensystem	Open-system	سیستەمی كراوه، سیستەم‌کراوە
 opensource	opensource	سەرچاوەكراوە، ژێدەركراوه ‌
 operand	operand	کردەژمارە، کردەوەند
 operate	operate	١ـ کردەگەریکردن، کردەکردن ٢ـ وەگەڕخستن، خستنەگەڕ، ئیشپێکردن ٣ـ نەشتەرگەریکردن
 operating	operating	١ـ کارپێکردن، کارا ٢ـ کردەگەری
-Operating-System	Operating-System	سیستەمی کارپێکردن، سیستەمی کارا، سیستەم‌کارا
+OperatingSystem	Operating-System	سیستەمی کارپێکردن، سیستەمی کارا، سیستەم‌کارا
 operation	operation	کردار، کار، کرده، کردەگەری‌
-operator-1	operator-(1)	ئوپەراتۆر، کردەگەر، کرێکار، کرێکاری کۆمپیوتەر، جێبەجێکەری کاروباری کۆمپیوتەر
-operator-2	operator-(2)	كردەهێما
+operator1	operator-(1)	ئوپەراتۆر، کردەگەر، کرێکار، کرێکاری کۆمپیوتەر، جێبەجێکەری کاروباری کۆمپیوتەر
+operator2	operator-(2)	كردەهێما
 optic	optic	١ـ ڕووناکی (هی ڕووناکی) ٢ـ چاوی، بینایی
 optical	optical	١ـ بینایی ٢ـ ڕووناکی، ڕووناکیناسی، ئۆپتیکی
 option	option	هەڵبژاردن
 OR	OR	"ئۆر"، "یا"
 Oracle	Oracle	(Oracle)، "ئووراکل"
 organize	organize	ڕێکخستن
-original-equipment-manufacturer	original-equipment-manufacturer	دروستکەری کەرەستەی ڕەسەن، ئوو‌ئی‌ئێم
+originalequipmentmanufacturer	original-equipment-manufacturer	دروستکەری کەرەستەی ڕەسەن، ئوو‌ئی‌ئێم
 outbox	outbox	ناردنگه، ناردنگەی نامە
-output-1	output-(1)	دەرخستە، دەرچوو، دەرخراو
-output-2-device	output-(2)-(device)	دەرخستە، دەرچوو، ئامێری دەرچوو، بەدەربەر، ئامێری بەدەربەر
-output-3	output-(3)	١ـ دەرۆچکە ٢ـ دەرچوونگە ٣ـ بەرهەم ٤ـ دەرەنجام
+output1	output-(1)	دەرخستە، دەرچوو، دەرخراو
+output2device	output-(2)-(device)	دەرخستە، دەرچوو، ئامێری دەرچوو، بەدەربەر، ئامێری بەدەربەر
+output3	output-(3)	١ـ دەرۆچکە ٢ـ دەرچوونگە ٣ـ بەرهەم ٤ـ دەرەنجام
 overview	overview	پوختە، کورتە، هەڵسەنگاندنێکی گشتی
-overview-diagram	overview-diagram	پێنوێنی پوختە، پێنوێنی گشتی
+overviewdiagram	overview-diagram	پێنوێنی پوختە، پێنوێنی گشتی
 owner	owner	خاوەن
 open	open	كراوە
-Open-Software-Foundation	Open-Software-Foundation	دەستەی نەرمەواڵە كراوە
-Open-system	Open-system	سیستەمی كراوه، سیستەم‌کراوە
+OpenSoftwareFoundation	Open-Software-Foundation	دەستەی نەرمەواڵە كراوە
+Opensystem	Open-system	سیستەمی كراوه، سیستەم‌کراوە
 opensource	opensource	سەرچاوەكراوە، ژێدەركراوه ‌
 operand	operand	کردەژمارە، کردەوەند
 operate	operate	١ـ کردەگەریکردن، کردەکردن ٢ـ وەگەڕخستن، خستنەگەڕ، ئیشپێکردن ٣ـ نەشتەرگەریکردن
 operating	operating	١ـ کارپێکردن، کارا ٢ـ کردەگەری
-Operating-System	Operating-System	سیستەمی کارپێکردن، سیستەمی کارا، سیستەم‌کارا
+OperatingSystem	Operating-System	سیستەمی کارپێکردن، سیستەمی کارا، سیستەم‌کارا
 operation	operation	کردار، کار، کرده، کردەگەری‌
-operator-1	operator-(1)	ئوپەراتۆر، کردەگەر، کرێکار، کرێکاری کۆمپیوتەر، جێبەجێکەری کاروباری کۆمپیوتەر
-operator-2	operator-(2)	كردەهێما
+operator1	operator-(1)	ئوپەراتۆر، کردەگەر، کرێکار، کرێکاری کۆمپیوتەر، جێبەجێکەری کاروباری کۆمپیوتەر
+operator2	operator-(2)	كردەهێما
 optic	optic	١ـ ڕووناکی (هی ڕووناکی) ٢ـ چاوی، بینایی
 optical	optical	١ـ بینایی ٢ـ ڕووناکی، ڕووناکیناسی، ئۆپتیکی
 pack	pack	گورزە، بەستەک، پریاسکە
-packet-1	packet-(1)	پاکەت، بەستەکی بیتی، پریاسکەی بیتی، گورزەبیتی
-packet-2	packet-(2)	پریاسکۆکە، پریاسکەی بچکۆلە
+packet1	packet-(1)	پاکەت، بەستەکی بیتی، پریاسکەی بیتی، گورزەبیتی
+packet2	packet-(2)	پریاسکۆکە، پریاسکەی بچکۆلە
 page	page	‌ پەڕه
 paging	paging	پەڕەكردن، پەڕاوین.
 paint	paint	دیمەنکێشان، وێنەکێشان، نیگارکێشان ڕەنگکاریکردن
-paint-box	paint-box	ڕەنگدان
+paintbox	paint-box	ڕەنگدان
 pakage	pakage	گورزە
 paragraph	paragraph	بڕگە، پاراگراف، پەرەگراف
-parameter-1	parameter-(1)	ڕاگەیێن، دیاریكەر، پارامەتر
-parameter-2	parameter-(2)	١ـ ژمارەی نرخی گۆڕاو ٢ـ سنوور، ڕادە ٣ـ نیشانە، تایبەخۆ
+parameter1	parameter-(1)	ڕاگەیێن، دیاریكەر، پارامەتر
+parameter2	parameter-(2)	١ـ ژمارەی نرخی گۆڕاو ٢ـ سنوور، ڕادە ٣ـ نیشانە، تایبەخۆ
 part	part	بەش، پارچە ٢ـ بەشکردن، جیاکردنەوە ٣ـ بەشبوون، جیابوونەوە
 partition	partition	پارچە
 passive	passive	١ـ ناچالاك، ناڕاستەوخۆ ٢ـ بەرهەڵستینەکەر
@@ -1255,69 +1255,69 @@ path	path	١ـ ڕێچکە، باریکەڕێ، توولەڕێ، لاڕێ، گو�
 pathfinder	pathfinder	پێشڕەو، ڕێی تازەدۆزەرەوە
 patience	patience	١- ئارامگرتن، خۆگرتن، سرەوت، تاقەت، دان بەخۆداگرتن، دەرکردن ٢- یارییەکی کاغەزیی یەککەسییە
 pause	pause	گت، وەستان
-PC-1	PC-(1)	پی‌سی، کۆمپیوتەری کەسی، کۆمپیوتەری خۆیی، پێژمێری کەسی، پێژمێری خۆیی
-PC-2	PC-(2)	پی‌سی، کۆمپیوتەری کەسی
-PC-3	PC-(3)	پی‌سی، ئای‌بی‌ئێم‌پی‌سی
+PC1	PC-(1)	پی‌سی، کۆمپیوتەری کەسی، کۆمپیوتەری خۆیی، پێژمێری کەسی، پێژمێری خۆیی
+PC2	PC-(2)	پی‌سی، کۆمپیوتەری کەسی
+PC3	PC-(3)	پی‌سی، ئای‌بی‌ئێم‌پی‌سی
 PCI	PCI	(PCI)، پی‌سی‌ئای
-PCI-bus-speed	PCI-bus-speed	خێراییی تێپەڕگەی پی‌سی‌ئای
+PCIbusspeed	PCI-bus-speed	خێراییی تێپەڕگەی پی‌سی‌ئای
 percentage	percentage	ڕێژەی سەدی
 peripheral	peripheral	ئامێری دەرەكی، لائامێر، ئامێری تەنیشتی، تەنیشتەئامێر
 permit	permit	ڕێدان
 person	person	کەس
-Personal--Computer	Personal-&-Computer	کۆمپیوتە‌ر (پێژمێری) کەسی
-Personal-Computer-PC	Personal-Computer-(PC)	کۆمپیوتە‌ر (پێژمێر)ی کەسی
-phishing-	phishing-	تۆڕەماسی
+PersonalComputer	Personal-&-Computer	کۆمپیوتە‌ر (پێژمێری) کەسی
+PersonalComputerPC	Personal-Computer-(PC)	کۆمپیوتە‌ر (پێژمێر)ی کەسی
+phishing	phishing-	تۆڕەماسی
 ping	ping	(ping)، پینگ
 pixel	pixel	وێنەخاڵ
-plan-1	plan-(1)	١ـ نەخشه، گەڵاڵە ٢ـ ڕەنگڕشتن ٣ ـ نەخشەی کار، بەرنامەی کار، بەرنامە، پلان‌ ٤ـ نەخشەکێشان، ڕەنگڕشتن ٥ـ نەخشەدانان، پلاندانان، بەرنامەدانان
-PLAN-2	PLAN-(2)	"پلان" (ناوی زمانێکی بەرنامەسازی)
+plan1	plan-(1)	١ـ نەخشه، گەڵاڵە ٢ـ ڕەنگڕشتن ٣ ـ نەخشەی کار، بەرنامەی کار، بەرنامە، پلان‌ ٤ـ نەخشەکێشان، ڕەنگڕشتن ٥ـ نەخشەدانان، پلاندانان، بەرنامەدانان
+PLAN2	PLAN-(2)	"پلان" (ناوی زمانێکی بەرنامەسازی)
 platform	platform	سەکۆ
-platform-independence	platform-independence	سەربەخۆیی لە سەکۆ
+platformindependence	platform-independence	سەربەخۆیی لە سەکۆ
 play	play	لێدان
-plot-1	plot-(1)	١ـ وێنە، نەخشە، نیگار، بیچم ٢ـ وێنەکێشان، نەخشکێشان، نیگارکێشان
-plot-2	plot-(2)	تەرز، بیچم، داڕشتنی گشتی
+plot1	plot-(1)	١ـ وێنە، نەخشە، نیگار، بیچم ٢ـ وێنەکێشان، نەخشکێشان، نیگارکێشان
+plot2	plot-(2)	تەرز، بیچم، داڕشتنی گشتی
 Plotter	Plotter	کێشەر، نەخشکێشەر، وێنەکێشەر، نیگارکێشەر، بیچمکێشەر، پلۆتەر
-plug-and-play-1	plug-and-play-(1)	پێوەكردن و لێدان
-Plug-and-Play-2	Plug-and-Play-(2)	(Plug and Play)، پلاگ‌ئەند‌پلەی
-plug-in	plug-in	پێوەكردن، پێوەکراو
-PnP-1	PnP-(1)	بنواڕەplug-and-play
-PNP-2	PNP-(2)	"پی‌ئێن‌پی"
+plugandplay1	plug-and-play-(1)	پێوەكردن و لێدان
+PlugandPlay2	Plug-and-Play-(2)	(Plug and Play)، پلاگ‌ئەند‌پلەی
+plugin	plug-in	پێوەكردن، پێوەکراو
+PnP1	PnP-(1)	بنواڕەplug-and-play
+PNP2	PNP-(2)	"پی‌ئێن‌پی"
 point	point	بۆر، خاڵ
-Point-to-Point-Protocol-	Point-to-Point-Protocol-	پرۆتۆکۆلی‌ خاڵ-بە-خاڵ، پرۆتۆکۆلی خاڵ‌بە‌خاڵ
+PointtoPointProtocol	Point-to-Point-Protocol-	پرۆتۆکۆلی‌ خاڵ-بە-خاڵ، پرۆتۆکۆلی خاڵ‌بە‌خاڵ
 pointer	pointer	نیشاندەر
 policy	policy	ڕێباز
-pop-1	pop-(1)	(pop)، "پاپ، پۆپ"، دەرپەڕاندن، لابردن
-pop-2	pop-(2)	دەرپەڕاندن، جێبەجێکردنی کردەی "پۆپ"
-POP-3	POP-(3)	pop، لابردن
-pop-up	pop-up	پۆپئەپ، سەرهەڵدەر (لەپڕ سەرهەڵدەر)
-pop-up-menu	pop-up-menu	منووی سەرهەڵدەر
+pop1	pop-(1)	(pop)، "پاپ، پۆپ"، دەرپەڕاندن، لابردن
+pop2	pop-(2)	دەرپەڕاندن، جێبەجێکردنی کردەی "پۆپ"
+POP3	POP-(3)	pop، لابردن
+popup	pop-up	پۆپئەپ، سەرهەڵدەر (لەپڕ سەرهەڵدەر)
+popupmenu	pop-up-menu	منووی سەرهەڵدەر
 popular	popular	١ـ گشتی ٢ـ بەبرەو، بەباو، باو، ویستراو
-port-1	port-(1)	دەرگا
-port-2	port-(2)	دەرگا
-port-3	port-(3)	دەرگا
-port-4	port-(4)	ڕاگواستن
-port-5	port-(5)	دەرگا، دەرگە، دەرکە
-port-6	port-(6)	زارک، دەم
+port1	port-(1)	دەرگا
+port2	port-(2)	دەرگا
+port3	port-(3)	دەرگا
+port4	port-(4)	ڕاگواستن
+port5	port-(5)	دەرگا، دەرگە، دەرکە
+port6	port-(6)	زارک، دەم
 portability	portability	هەڵگرتەنێتی، توانای گواستنەوە یان هەڵگیران بۆهەبوون
 portable	portable	هەلگرتەنی، هەڵگرتنی، هەڵدەگیرێ، دەستی
-portable-computer	portable-computer	پێژمێری هەڵگرتەنی، کۆمپیوتەری هەڵگرتەنی
-positive-	positive-(+)	ئەرێنی
+portablecomputer	portable-computer	پێژمێری هەڵگرتەنی، کۆمپیوتەری هەڵگرتەنی
+positive	positive-(+)	ئەرێنی
 power	power	هێز، وزه
-power-supply	power-supply	سەرچاوەخۆراک، سەرچاوەخۆراکی ئەلەکترۆنیکی، سەرچاوەبژیو
+powersupply	power-supply	سەرچاوەخۆراک، سەرچاوەخۆراکی ئەلەکترۆنیکی، سەرچاوەبژیو
 preference	preference	هەڵبژاردە
 prefix	prefix	١- پێشگر ٢- پێشبەند، پێشکۆ
 presentation	presentation	پێشكەشكاری
 preview	preview	پێشبینین
 primary	primary	سەرەتایی
-prime-number	prime-number	ژمارەی خۆبەش
+primenumber	prime-number	ژمارەی خۆبەش
 print	print	چاپ، دەرنووس، دەرنووسكردن
-Print-Screen-key	Print-Screen-key	دوگمەی چاپكردنی پەردە
+PrintScreenkey	Print-Screen-key	دوگمەی چاپكردنی پەردە
 printer	printer	چاپكەر، چاپگەر، دەرنووسگەر
 priority	priority	پێشەنگی
 privacy	privacy	١ـ تایبەتێتی، سەربەخۆیی ٢ـ نهێنێتی
 private	private	خۆیی، کەسی، تاکەکەسی، تایبەتی، ناگشتی، تایبەت بە خۆ
 process	process	١ـ پرۆسه ٢ـ چارەسەر ٣ـ ڕێکخەر
-processing-	processing-	١ـ چارەسەری ٢ـ ڕێکخەری
+processing	processing-	١ـ چارەسەری ٢ـ ڕێکخەری
 processor	processor	١ـ چارەسەركەر ٢ـ ڕێکخەر
 product	product	بەرهەم
 professional	professional	١ـ "پیشەیی، پیشەگەرییانە". ٢ـ "پیشەگەر، پیشەوەر".٣ـ "کارناس، پسپۆڕ، لێزان".
@@ -1331,11 +1331,11 @@ property	property	تایبەتمەندی
 protect	protect	پاراستن
 protocol	protocol	کۆنووس، پرۆتۆكۆڵ
 provider	provider	دابینكار، دابینكەر
-proxy-server	proxy-(server)	(proxy)، پراکسی، پرۆکسی، پێشكار
+proxyserver	proxy-(server)	(proxy)، پراکسی، پرۆکسی، پێشكار
 publish	publish	بڵاوكردنەوە
 pull	pull	ڕاکێشان
-pull-down	pull-down	داڕماندن، داخزاندن ـ داخزاو
-pull-down-menu	pull-down-menu	لیستەی داخزاو
+pulldown	pull-down	داڕماندن، داخزاندن ـ داخزاو
+pulldownmenu	pull-down-menu	لیستەی داخزاو
 punchcard	punch_card	كارتی كونكراو
 punctuation	punctuation	١ـ خاڵبەندیکردن، خاڵ‌وبۆر بۆدانان ٢ـ خاڵبەندی، خاڵ‌و‌بۆر
 push	push	١ـ پەستاوتن، دەستپیانان ٢ـ (دەست)داگرتن، (دەست)خستنەسەر
@@ -1346,53 +1346,53 @@ path	path	١ـ ڕێچکە، باریکەڕێ، توولەڕێ، لاڕێ، گو�
 pathfinder	pathfinder	پێشڕەو، ڕێی تازەدۆزەرەوە
 patience	patience	١- ئارامگرتن، خۆگرتن، سرەوت، تاقەت، دان بەخۆداگرتن، دەرکردن ٢- یارییەکی کاغەزیی یەککەسییە
 pause	pause	گت، وەستان
-PC-1	PC-(1)	پی‌سی، کۆمپیوتەری کەسی، کۆمپیوتەری خۆیی، پێژمێری کەسی، پێژمێری خۆیی
-PC-2	PC-(2)	پی‌سی، کۆمپیوتەری کەسی
-PC-3	PC-(3)	پی‌سی، ئای‌بی‌ئێم‌پی‌سی
+PC1	PC-(1)	پی‌سی، کۆمپیوتەری کەسی، کۆمپیوتەری خۆیی، پێژمێری کەسی، پێژمێری خۆیی
+PC2	PC-(2)	پی‌سی، کۆمپیوتەری کەسی
+PC3	PC-(3)	پی‌سی، ئای‌بی‌ئێم‌پی‌سی
 PCI	PCI	(PCI)، پی‌سی‌ئای
-PCI-bus-speed	PCI-bus-speed	خێراییی تێپەڕگەی پی‌سی‌ئای
+PCIbusspeed	PCI-bus-speed	خێراییی تێپەڕگەی پی‌سی‌ئای
 percentage	percentage	ڕێژەی سەدی
 peripheral	peripheral	ئامێری دەرەكی، لائامێر، ئامێری تەنیشتی، تەنیشتەئامێر
 permit	permit	ڕێدان
 person	person	کەس
-QT-1	QT-(1)	(QT)، "كیوتی"
-QT-4	QT-(4)	"کیوت"
+QT1	QT-(1)	(QT)، "كیوتی"
+QT4	QT-(4)	"کیوت"
 quad	quad	چوارجا
 quality	quality	١ـ جۆرایەتی ٢ـ تایبەخۆ ٣ـ نایاب، زۆر باش، باش ٤ـ چۆنێتی
-Quality-of-Service	Quality-of-Service	جۆرایەتیی ڕاژە
-Quarter-Inch-Cartridge-	Quarter-Inch-Cartridge-	پاشەكەوتكەری دراوەی موگناتیسی
-Qubit-	Qubit-	هاوشێوەی پێوانەی دووانییە
-query-	query-	پرس، داوا، داواكاری
-Questions-and-Answers-	Questions-and-Answers-	لیستەی پرسیار و وەڵامەکان، (
+QualityofService	Quality-of-Service	جۆرایەتیی ڕاژە
+QuarterInchCartridge	Quarter-Inch-Cartridge-	پاشەكەوتكەری دراوەی موگناتیسی
+Qubit	Qubit-	هاوشێوەی پێوانەی دووانییە
+query	query-	پرس، داوا، داواكاری
+QuestionsandAnswers	Questions-and-Answers-	لیستەی پرسیار و وەڵامەکان، (
 queue	queue	ڕیز
 quick	quick	خێرا
-Quick-Time-	Quick-Time-	"كویك تایم"
+QuickTime	Quick-Time-	"كویك تایم"
 quit	quit	وازهێنان، چوونەدەرەوە
-quit-talking-	quit-talking-	چوونەدەرەوە لە چات یان وتووێژی دەق
+quittalking	quit-talking-	چوونەدەرەوە لە چات یان وتووێژی دەق
 quiz	quiz	١ـ تاقیلە، تاقیکاریلە، تاقیکاری (تاقیکارییەکی ناسەرەکی) ٢ـ پێشبڕکێ (ناو. بۆ وێنە ڕادیۆ و تەلەفزیۆن)
 quota	quota	بەش
 quote	quote	دەق
 qwerty	qwerty	(qwerty) "كوێرتی"
 qwertz	qwertz	(qwertz)، "كوێرتز"
 quick	quick	خێرا
-Quick-Time-	Quick-Time-	"كویك تایم"
+QuickTime	Quick-Time-	"كویك تایم"
 quit	quit	وازهێنان، چوونەدەرەوە
-quit-talking-	quit-talking-	چوونەدەرەوە لە چات یان وتووێژی دەق
+quittalking	quit-talking-	چوونەدەرەوە لە چات یان وتووێژی دەق
 quiz	quiz	١ـ تاقیلە، تاقیکاریلە، تاقیکاری (تاقیکارییەکی ناسەرەکی) ٢ـ پێشبڕکێ (ناو. بۆ وێنە ڕادیۆ و تەلەفزیۆن)
 quota	quota	بەش
 quote	quote	دەق
 qwerty	qwerty	(qwerty) "كوێرتی"
 qwertz	qwertz	(qwertz)، "كوێرتز"
 radio	radio	١ـ ڕادیۆ، ئامێری ڕادیۆ ٢ـ ڕادیۆیی، تیشک ٣ـ بێتەلناردن، ناردنی ڕادیۆیی
-radio-button	radio-button	کلیلی ڕادیۆیی
+radiobutton	radio-button	کلیلی ڕادیۆیی
 RAID	RAID	(RAID)، ڕەید، ڕیزەکی زێدەداری دیسکە هەرزانباییەکان
-RAM-	RAM-	"ڕەم"، "ڕام"، بیرگەی دەستپێگەیشتن-‌بەهەڵکەوت، بیرگەی دەستپێگەیشتنی ڕاستەوخۆ
+RAM	RAM-	"ڕەم"، "ڕام"، بیرگەی دەستپێگەیشتن-‌بەهەڵکەوت، بیرگەی دەستپێگەیشتنی ڕاستەوخۆ
 RAR	RAR	ڕاڕ
-RAR-file	RAR-file	پەڕگەی ڕاڕ
-RAS-1	RAS-(1)	(RAS)، "ڕاس"، "ڕەس"، ڕاژەکانی دوورەدەستپێگەیشتن، ڕاژەکانی دەستپێگەیشتن لەڕێی دوورەوە
+RARfile	RAR-file	پەڕگەی ڕاڕ
+RAS1	RAS-(1)	(RAS)، "ڕاس"، "ڕەس"، ڕاژەکانی دوورەدەستپێگەیشتن، ڕاژەکانی دەستپێگەیشتن لەڕێی دوورەوە
 ratio	ratio	ڕێژە
 raw	raw	خاو
-real-time	real-time	كاتی ڕاستی
+realtime	real-time	كاتی ڕاستی
 reboot	reboot	"بووت"كردنەوە، سەرلەنوێ خستنەڕێ
 recent	recent	تازە (ڕوودان)، نوێ
 recently	recently	تازە، لەم دوایییەدا
@@ -1409,17 +1409,17 @@ reject	reject	بەرپەرچدانەوە، پەسەندنەكردن
 relation	relation	پەیوەندی
 release	release	١ـ بەرەڵاکردن، بەردان، ئازادکردن ٢ـ بڵاوکردنەوە (فیلم، پەڕتووک، دەنگوباس ... هتد) ٣ـ شتی بڵاوکراوە (فیلم، پەڕتووک، دەنگوباس ... هتد) ٤ـ دەرچوونی وەشانێکی نوێ لە نەرمەواڵەیەک
 reload	reload	باركردنەوە
-remote-	remote-	دوور، ڕێی دوور
-remote-control	remote-control	کۆنترۆڵ لە دوورەوە، دوورکۆنترۆڵ، دوورەکۆنترۆڵ
+remote	remote-	دوور، ڕێی دوور
+remotecontrol	remote-control	کۆنترۆڵ لە دوورەوە، دوورکۆنترۆڵ، دوورەکۆنترۆڵ
 remove	remove	لابردن
-rename-1	rename-(1)	ناونانەوە، دیسان ناونانەوە
-RENAME-2	RENAME-(2)	"ڕینەیم"
+rename1	rename-(1)	ناونانەوە، دیسان ناونانەوە
+RENAME2	RENAME-(2)	"ڕینەیم"
 rendering	rendering	پوختەكردن
 renew	renew	نوێكردنەوە
 repeat	repeat	١ـ دووپات ٢ـ دووپاتکردنەوە ٣ـ دووپاتبوونەوە
 repeater	repeater	بەهێزكەر، دووبارەكەرەوە
-replace-1	replace-(1)	١ـ خستنەشوێنی خۆی ٢ـ جێگرتنەوە، شوێنگرتنەوە ٣ـ لەجێدانان ٤ـ جێگۆڕین، خستنەبریکردن، گۆڕینەوە
-REPLACE-2	REPLACE-(2)	"ڕیپلەیس"
+replace1	replace-(1)	١ـ خستنەشوێنی خۆی ٢ـ جێگرتنەوە، شوێنگرتنەوە ٣ـ لەجێدانان ٤ـ جێگۆڕین، خستنەبریکردن، گۆڕینەوە
+REPLACE2	REPLACE-(2)	"ڕیپلەیس"
 replication	replication	دووپات، ڕوونووس
 request	request	داوا
 require	require	پێویستبوون
@@ -1430,21 +1430,21 @@ response	response	وەڵام
 restart	restart	دەستپێكردنەوە
 restore	restore	گەڕاندنەوە
 resume	resume	بەردەوامبوونەوە، تێچوونەوە، خستنەوەكار، بەدەستهێنانەوە
-roll-in	roll-in	ناو-خلۆر
-roll-out	roll-out	دەر-خلۆر
+rollin	roll-in	ناو-خلۆر
+rollout	roll-out	دەر-خلۆر
 rollback	rollback	گەڕاندنەوە
 rollover	rollover	بەسەرداجووڵان
 ROM	ROM	(ROM)، "ڕام"، بیرگەی تەنیا-خوێندنی
 root	root	ڕەگ
 rotate	rotate	خولاندنەوە، كرداری سووڕدان
 rotation	rotation	سووڕ، خول
-rotation-per-minute-	rotation-per-minute-	سووڕ لە خولەکدا
+rotationperminute	rotation-per-minute-	سووڕ لە خولەکدا
 router	router	"ڕۆوتە"، "ڕۆوتەر"، ڕێدۆز
 row	row	١ـ ڕز، ڕیز ٢ـ دێڕ ٣ـ ڕزکردن، ڕیزکردن
-row-address-strobe	row-address-strobe	تیشکی ناونیشانی دێڕ
+rowaddressstrobe	row-address-strobe	تیشکی ناونیشانی دێڕ
 ruler	ruler	ڕاستە
 run	run	١ـ جێبەجێ ٢ـ جێبەجێکردن، بەڕێوەبەردن (لە کۆمپیوتەردا، پێدانی پەڕگە بە وەرگێڕ، یان جێبەجێی پەڕگەی exe و لەو چەشنە) ٣ـ گەڕان، كاركردن، ئیشكردن (بۆ وێنە لە مەکینەدا)
-runtime--run-time	runtime-(=-run-time)	ماوەی گەڕان، ماوەی جێبەجێکردن، كاتی جێبەجێكردن
+runtimeruntime	runtime-(=-run-time)	ماوەی گەڕان، ماوەی جێبەجێکردن، كاتی جێبەجێكردن
 recovery	recovery	گەڕاندنەوە
 redo	redo	كردنەوه
 redundant	redundant	زێدە، ناپێویست
@@ -1457,15 +1457,15 @@ reject	reject	بەرپەرچدانەوە، پەسەندنەكردن
 relation	relation	پەیوەندی
 release	release	١ـ بەرەڵاکردن، بەردان، ئازادکردن ٢ـ بڵاوکردنەوە (فیلم، پەڕتووک، دەنگوباس ... هتد) ٣ـ شتی بڵاوکراوە (فیلم، پەڕتووک، دەنگوباس ... هتد) ٤ـ دەرچوونی وەشانێکی نوێ لە نەرمەواڵەیەک
 reload	reload	باركردنەوە
-remote-	remote-	دوور، ڕێی دوور
-remote-control	remote-control	کۆنترۆڵ لە دوورەوە، دوورکۆنترۆڵ، دوورەکۆنترۆڵ
+remote	remote-	دوور، ڕێی دوور
+remotecontrol	remote-control	کۆنترۆڵ لە دوورەوە، دوورکۆنترۆڵ، دوورەکۆنترۆڵ
 remove	remove	لابردن
 save	save	پاشەكەوت
-save-as	save-as	پاشەكەوت وەك
+saveas	save-as	پاشەكەوت وەك
 scan	scan	پشکنین، پێداگەڕی
 scanner	scanner	پشکنەر، پێداگەڕ، وێنەخوێن، وێنەخوێنەر، "سکانێر"
 scanning	scanning	پشکنین، پێداگەڕان
-scanning-device	scanning-device	ئامێری پشکنین، ئامێری پێداگەڕان
+scanningdevice	scanning-device	ئامێری پشکنین، ئامێری پێداگەڕان
 scene	scene	دیمەن
 schema	schema	گەڵاڵە، نەخشە، وێنەی پیشاندەر
 scheme	scheme	گەڵاڵە، پلان، نەخشە، ڕێدانان ٢- نەخشەکێشان، ڕێدانان
@@ -1473,22 +1473,22 @@ scope	scope	بوار
 screen	screen	پەردە
 screensaver	screensaver	پەردەپارێز
 script	script	نووسراو، سکریپت، دەستنووس، نووسینە
-script-editor	script-editor	دەستکاریکەری نووسینە
-script-file	script-file	پەڕگەی نووسینە
+scripteditor	script-editor	دەستکاریکەری نووسینە
+scriptfile	script-file	پەڕگەی نووسینە
 scriptwriter	scriptwriter	نووسەر
 scroll	scroll	١ـ کێشان ٢ـ پێچۆکە ٣ـ پێچۆکەنواندن، پێچۆکەنوێنی ٤ـ پێچۆکەگەری
-scroll-arrow	scroll-arrow	تیرەپێچۆکە
-scroll-bar	scroll-bar	تووڵەكێشان، تووڵەپێچۆکە، تووڵەپێچۆکەدان
-scroll-buffer	scroll-buffer	نێوانگری پێچۆکە
-scroll-down	scroll-down	داکێشان، پێچۆکەداکێشان
-scroll-left	scroll-left	١ـ چەپڕۆییی پێچۆکە (جووڵانی ئاسۆییی پەردەپیشان بەشێوەی پێچۆکەیەک بۆ لای چەپ) ٢ـ بۆ لای چەپ ڕۆیشتنی پێچۆکە ٣ـ بۆ لای چەپ بردنی پێچۆکە)
-scroll-right	scroll-right	١ـ ڕاستڕۆییی پێچۆکە (جووڵانی ئاسۆییی پەردەپیشان بەشێوەی پێچۆکەیەک بۆ لای ڕاست) ٢ـ بۆ لای ڕاست ڕۆیشتنی پێچۆکە ٣ـ بۆ لای ڕاست بردنی پێچۆکە
-scroll-up	scroll-up	هەڵکێشان، پێچۆکەهەڵکێشان
+scrollarrow	scroll-arrow	تیرەپێچۆکە
+scrollbar	scroll-bar	تووڵەكێشان، تووڵەپێچۆکە، تووڵەپێچۆکەدان
+scrollbuffer	scroll-buffer	نێوانگری پێچۆکە
+scrolldown	scroll-down	داکێشان، پێچۆکەداکێشان
+scrollleft	scroll-left	١ـ چەپڕۆییی پێچۆکە (جووڵانی ئاسۆییی پەردەپیشان بەشێوەی پێچۆکەیەک بۆ لای چەپ) ٢ـ بۆ لای چەپ ڕۆیشتنی پێچۆکە ٣ـ بۆ لای چەپ بردنی پێچۆکە)
+scrollright	scroll-right	١ـ ڕاستڕۆییی پێچۆکە (جووڵانی ئاسۆییی پەردەپیشان بەشێوەی پێچۆکەیەک بۆ لای ڕاست) ٢ـ بۆ لای ڕاست ڕۆیشتنی پێچۆکە ٣ـ بۆ لای ڕاست بردنی پێچۆکە
+scrollup	scroll-up	هەڵکێشان، پێچۆکەهەڵکێشان
 scrollning	scrollning	پێچۆکەگەری، بەپێچۆکەپیشاندان
 scrub	scrub	خاوێنگەرییی بیرگە
 SCSI	SCSI	(SCSI)، "سکازی"
 search	search	گەڕان، پشکنین
-search-engine	search-engine	مەکینەی پشکنەر، ماتۆڕی پشکنەر، نەرمەواڵەی پشکنەر
+searchengine	search-engine	مەکینەی پشکنەر، ماتۆڕی پشکنەر، نەرمەواڵەی پشکنەر
 searcher	searcher	پشکنەر، گەڕانکار، بگەڕ
 section	section	بەش، کەرت
 security	security	پاراستن
@@ -1502,44 +1502,44 @@ serial	serial	زنجیرەبەست، زنجیرەیی
 series	series	زنجیرە
 server	server	ڕاژەكار
 service	service	ڕاژه
-session-1	session-(1)	خولێکی کاری، دانیشتن، کۆڕ
-session-2	session-(2)	کۆڕی وانە، وانەکۆڕ، پۆل
+session1	session-(1)	خولێکی کاری، دانیشتن، کۆڕ
+session2	session-(2)	کۆڕی وانە، وانەکۆڕ، پۆل
 setting	setting	ڕێکخستن
 settings	settings	ڕێکخستنەکان
 setup	setup	جێگیركردن
 shape	shape	شێوە، شێواز
-share-1	share-(1)	١ـ بەش، پشک، بەرکەوت ٢ـ بەشکردن، دابەشکردن ٣ـ هاوبەشیکردن، بەشکردن لەگەڵدا
-SHARE-2	SHARE-(2)	"شەیر"
+share1	share-(1)	١ـ بەش، پشک، بەرکەوت ٢ـ بەشکردن، دابەشکردن ٣ـ هاوبەشیکردن، بەشکردن لەگەڵدا
+SHARE2	SHARE-(2)	"شەیر"
 shareware	shareware	هاوبەشەواڵە، دابەشەواڵە
 sharewarefreeware	shareware/freeware	هاوبەشەواڵە/ خۆڕاییواڵە
 sheet	sheet	پەڕە
-shell-1	shell-(1)	چوونەدەرەوە بۆ سیستەم، "شێڵ"
-shell-2	shell-(2)	١ـ توێکڵ ٢ـ قاوغ
-shell-script	shell-script	نووسینە (سکریپت)ی "شێڵ"
-shift-1	shift-(1)	١ـ شوێنگۆڕین، گواستنەوە ٢ـ شوێنگواستنەوە، شوێنگۆڕان
-shift-2	shift-(2)	گۆڕەر
-SHIFT-3	SHIFT-(3)	"شیفت"
-shift-4	shift-(4)	نۆرەی کاری، نۆرەکار‌، شیفت
+shell1	shell-(1)	چوونەدەرەوە بۆ سیستەم، "شێڵ"
+shell2	shell-(2)	١ـ توێکڵ ٢ـ قاوغ
+shellscript	shell-script	نووسینە (سکریپت)ی "شێڵ"
+shift1	shift-(1)	١ـ شوێنگۆڕین، گواستنەوە ٢ـ شوێنگواستنەوە، شوێنگۆڕان
+shift2	shift-(2)	گۆڕەر
+SHIFT3	SHIFT-(3)	"شیفت"
+shift4	shift-(4)	نۆرەی کاری، نۆرەکار‌، شیفت
 short	short	كورت
 shortcut	shortcut	قەدبڕ
-sign-in	sign-in	واژۆكردن
+signin	sign-in	واژۆكردن
 signature	signature	واژۆ
 site	site	شوێن، جێ، پێگە، بنکە
 skin	skin	پێست
 slash	slash	لارەهیڵ
 slice	slice	پارچه،‌ قاژ، كەرت
 slide	slide	سلاید
-slide-layout	slide-layout	گەڵاڵەبەندیی سلاید
+slidelayout	slide-layout	گەڵاڵەبەندیی سلاید
 slot	slot	قڵیش
 socket	socket	پێكەوەبەست
 software	software	نەر‌مەواڵە، نەرمەئامێر‌، كاڵانەرم
-software-platform	software-platform	سەکۆی نەرمەواڵە، سەکۆی نەرمەکاڵا
-sound-card	sound-card	كارتی دەنگ
+softwareplatform	software-platform	سەکۆی نەرمەواڵە، سەکۆی نەرمەکاڵا
+soundcard	sound-card	كارتی دەنگ
 source	source	سەرچاوە
 space	space	بۆشایی
 spacebar	spacebar	نێوانتووڵ
 spam	spam	پۆستی نەخوازراو
-spoofed-web-site	spoof(ed)-web-site	وێبگەی ساخته
+spoofedwebsite	spoof(ed)-web-site	وێبگەی ساخته
 spool	spool	نۆرە
 spyware	spyware	سیخوڕیواڵە، پرۆگرامی سیخوڕی
 SQL	SQL	(SQL)، "سیكوێڵ"
@@ -1551,100 +1551,100 @@ startpage	startpage	دەستپێك ـ لاپەڕەی دەستپێك
 stationary	stationary	جێگیر
 statistics	statistics	سەرژمێری
 status	status	ئاست، دۆخ
-storage-1	storage-(1)	بیرگە
-storage-2	storage-(2)	بیرگەی یاریدە
-storage-3	storage-(3)	بیرگەی سەرەکی
-storage-4	storage-(4)	پاشەکەوت، پاشەکەوتگەری
+storage1	storage-(1)	بیرگە
+storage2	storage-(2)	بیرگەی یاریدە
+storage3	storage-(3)	بیرگەی سەرەکی
+storage4	storage-(4)	پاشەکەوت، پاشەکەوتگەری
 store	store	كۆگا، كۆگاكردن
 storekeeping	storekeeping	كۆگا
-story-board	story-board	پێگەی كاركردن
+storyboard	story-board	پێگەی كاركردن
 stream	stream	تەوژم
 string	string	ڕیزبەند، زنجیرەنووسە
 strobe	strobe	تیشک، تیسک، ترووسک، ڕووناکی، پرشنگ
 structure	structure	پێكهاتە
 style	style	شێواز
-sub-	sub-	"ژێر-"
-subnet--subnetwork	subnet-(=-subnetwork)	(subnet)، ژێرڕایەڵە
-subnet-mask	subnet-mask	(subnet mask)، پۆششی ژێرڕایەڵە
+sub	sub-	"ژێر-"
+subnetsubnetwork	subnet-(=-subnetwork)	(subnet)، ژێرڕایەڵە
+subnetmask	subnet-mask	(subnet mask)، پۆششی ژێرڕایەڵە
 subscribe	subscribe	بەشداربوون
 support	support	پاڵپشتکردن، پاڵپشتیکردن، پشتیوانی
 surfing	surfing	وێبگەردی، وێبگەڕی
 switch	switch	کلیل، سویچ
 symbol	symbol	نیشانە ، هێما
-SYN-1	SYN-(1)	سین، پارچەی هاوکاتگەر
-SYN-2	SYN-(2)	سین، نووسەی هاوکاتگەر
-SYN-3	SYN-(3)	سین، بەتاڵیی هاوکاتگەر
-SYN-character-	SYN-character-	بنواڕە synchronous idle character
+SYN1	SYN-(1)	سین، پارچەی هاوکاتگەر
+SYN2	SYN-(2)	سین، نووسەی هاوکاتگەر
+SYN3	SYN-(3)	سین، بەتاڵیی هاوکاتگەر
+SYNcharacter	SYN-character-	بنواڕە synchronous idle character
 sync	sync	هاوکاتگەری
-sync-bit	sync-bit	بیتی هاوکاتگەری
-synchro-1	synchro-(1)	هاوکاتگەر، هاودەمگەر، "سەنکرۆ"
-synchro-2	synchro-(2)	"هاوکات ـ"
-synchronise-	synchronise-	بنواڕە synchronize
+syncbit	sync-bit	بیتی هاوکاتگەری
+synchro1	synchro-(1)	هاوکاتگەر، هاودەمگەر، "سەنکرۆ"
+synchro2	synchro-(2)	"هاوکات ـ"
+synchronise	synchronise-	بنواڕە synchronize
 synchronism	synchronism	هاوکاتی، هاودەمی، هاوهەنگاوی
-synchronization-1	synchronization-(1)	هاوکاتی، هاودەمی
-synchronization-2	synchronization-(2)	هاوکاتگەری، هاوکاتسازی
-synchronization-bit	synchronization-bit	بیتی هاوکاتگەری
-synchronization-character-	synchronization-character-	نووسەی هاوکاتگەری
-synchronization-field	synchronization-field	بواری هاوکاتگەری
-synchronization-pattern	synchronization-pattern	شێوەئاسای هاوکاتگەری
-synchronization-pulse-	synchronization-pulse-	پرتەی هاوکاتگەری
+synchronization1	synchronization-(1)	هاوکاتی، هاودەمی
+synchronization2	synchronization-(2)	هاوکاتگەری، هاوکاتسازی
+synchronizationbit	synchronization-bit	بیتی هاوکاتگەری
+synchronizationcharacter	synchronization-character-	نووسەی هاوکاتگەری
+synchronizationfield	synchronization-field	بواری هاوکاتگەری
+synchronizationpattern	synchronization-pattern	شێوەئاسای هاوکاتگەری
+synchronizationpulse	synchronization-pulse-	پرتەی هاوکاتگەری
 synchronize	synchronize	هاوکاتکردن، هاودەمکردن، هاوهەنگاوکردن
 synchronized	synchronized	هاوکات، هاودەم
 synchronizer	synchronizer	هاوکاتگەر
 synchronizing	synchronizing	١ـ هاوکاتگەری (ناو) ٢ـ هاوکاتگەر، هاوکاتساز (ئاوەڵناو)
-synchronizing-character-	synchronizing-character-	بنواڕە SYN
-synchronizing-signal	synchronizing-signal	نیشانەی هاوکاتگەر
+synchronizingcharacter	synchronizing-character-	بنواڕە SYN
+synchronizingsignal	synchronizing-signal	نیشانەی هاوکاتگەر
 synchronous	synchronous	هاوکات، هاودەم
-synchronous-idle-character-	synchronous-idle-character-	نووسەی بەتاڵی هاوکاتگەری، نووسەی بێکاروئیشیی هاوکات
+synchronousidlecharacter	synchronous-idle-character-	نووسەی بەتاڵی هاوکاتگەری، نووسەی بێکاروئیشیی هاوکات
 syntax	syntax	ڕستەكار، داڕستن
 system	system	سیستەم
 scriptwriter	scriptwriter	نووسەر
 scroll	scroll	١ـ کێشان ٢ـ پێچۆکە ٣ـ پێچۆکەنواندن، پێچۆکەنوێنی ٤ـ پێچۆکەگەری
-scroll-arrow	scroll-arrow	تیرەپێچۆکە
-scroll-bar	scroll-bar	تووڵەكێشان، تووڵەپێچۆکە، تووڵەپێچۆکەدان
-scroll-buffer	scroll-buffer	نێوانگری پێچۆکە
-scroll-down	scroll-down	داکێشان، پێچۆکەداکێشان
-scroll-left	scroll-left	١ـ چەپڕۆییی پێچۆکە (جووڵانی ئاسۆییی پەردەپیشان بەشێوەی پێچۆکەیەک بۆ لای چەپ) ٢ـ بۆ لای چەپ ڕۆیشتنی پێچۆکە ٣ـ بۆ لای چەپ بردنی پێچۆکە)
-scroll-right	scroll-right	١ـ ڕاستڕۆییی پێچۆکە (جووڵانی ئاسۆییی پەردەپیشان بەشێوەی پێچۆکەیەک بۆ لای ڕاست) ٢ـ بۆ لای ڕاست ڕۆیشتنی پێچۆکە ٣ـ بۆ لای ڕاست بردنی پێچۆکە
-scroll-up	scroll-up	هەڵکێشان، پێچۆکەهەڵکێشان
+scrollarrow	scroll-arrow	تیرەپێچۆکە
+scrollbar	scroll-bar	تووڵەكێشان، تووڵەپێچۆکە، تووڵەپێچۆکەدان
+scrollbuffer	scroll-buffer	نێوانگری پێچۆکە
+scrolldown	scroll-down	داکێشان، پێچۆکەداکێشان
+scrollleft	scroll-left	١ـ چەپڕۆییی پێچۆکە (جووڵانی ئاسۆییی پەردەپیشان بەشێوەی پێچۆکەیەک بۆ لای چەپ) ٢ـ بۆ لای چەپ ڕۆیشتنی پێچۆکە ٣ـ بۆ لای چەپ بردنی پێچۆکە)
+scrollright	scroll-right	١ـ ڕاستڕۆییی پێچۆکە (جووڵانی ئاسۆییی پەردەپیشان بەشێوەی پێچۆکەیەک بۆ لای ڕاست) ٢ـ بۆ لای ڕاست ڕۆیشتنی پێچۆکە ٣ـ بۆ لای ڕاست بردنی پێچۆکە
+scrollup	scroll-up	هەڵکێشان، پێچۆکەهەڵکێشان
 scrollning	scrollning	پێچۆکەگەری، بەپێچۆکەپیشاندان
 scrub	scrub	خاوێنگەرییی بیرگە
 SCSI	SCSI	(SCSI)، "سکازی"
 search	search	گەڕان، پشکنین
-search-engine	search-engine	مەکینەی پشکنەر، ماتۆڕی پشکنەر، نەرمەواڵەی پشکنەر
+searchengine	search-engine	مەکینەی پشکنەر، ماتۆڕی پشکنەر، نەرمەواڵەی پشکنەر
 searcher	searcher	پشکنەر، گەڕانکار، بگەڕ
-tab-1	tab-(1)	سەرخشتە، "تاب"
-tab-2	tab-(2)	بازدان، بازپێدان، پەڕاندن، خشتاندن، جووڵەکردن لە خشتەدا
-tab-3	tab-(3)	١ـ کلیلی خشتەبەندی ٢ـ لێدانی کلیلی خشتەبەندی
-tab-4	tab-(4)	زمانە، گوێچکەکارت
-Tab-key	Tab-key	بازدەر، دوگمەی تاب
+tab1	tab-(1)	سەرخشتە، "تاب"
+tab2	tab-(2)	بازدان، بازپێدان، پەڕاندن، خشتاندن، جووڵەکردن لە خشتەدا
+tab3	tab-(3)	١ـ کلیلی خشتەبەندی ٢ـ لێدانی کلیلی خشتەبەندی
+tab4	tab-(4)	زمانە، گوێچکەکارت
+Tabkey	Tab-key	بازدەر، دوگمەی تاب
 tabbing	tabbing	١ـ خشتەبەندی ٢ـ لێدانی کلیلی خشتەبەندی، بازدان، بازپێدان
 table	table	خشتە
 tag	tag	تاگ
 tape	tape	شریت، نەوار - تۆماركردن لەسەر شریت (نەوار)
 target	target	مەبەست، ئامانج
 task	task	كار، ئەرك
-TCP-	TCP-	تی‌سی‌پی، پرۆتۆكۆلی کۆنترۆڵی ناردن، کۆنووسی کۆنترۆڵی ناردن
+TCP	TCP-	تی‌سی‌پی، پرۆتۆكۆلی کۆنترۆڵی ناردن، کۆنووسی کۆنترۆڵی ناردن
 TCPIP	TCP/IP	(TCP/IP)، تی‌سی‌پی‌/ ئای‌پی، پرۆتۆکۆڵی کۆنترۆڵی ناردن/ ‌‌پرۆتۆکۆڵی ئینتەرنێت
-TCPIP-Protocol-Family	TCP/IP-Protocol-Family	بنەماڵەی پرۆتۆکۆڵەکانی تی‌سی‌پی/‌ ئای‌پی
+TCPIPProtocolFamily	TCP/IP-Protocol-Family	بنەماڵەی پرۆتۆکۆڵەکانی تی‌سی‌پی/‌ ئای‌پی
 technology	technology	تەكنۆلۆژیا، تێکنۆڵۆجی، تەكنیكزانی، پیشەزانی
-tele-education	tele-education	دوورەفێركاری
-telework-	telework-	دووركاری
-telework-center	telework-center	بنكەی دووركاری، ناوەندی دوورکاری
-telex-	telex-	تێلێکس، تەلەفۆنی دەقی، دەقەتەلەفۆن
+teleeducation	tele-education	دوورەفێركاری
+telework	telework-	دووركاری
+teleworkcenter	telework-center	بنكەی دووركاری، ناوەندی دوورکاری
+telex	telex-	تێلێکس، تەلەفۆنی دەقی، دەقەتەلەفۆن
 Telnet	Telnet	(Telnet)، تێل‌نێت
 template	template	داڕێژە
 temporary	temporary	كاتی
 terminal	terminal	تێرمیناڵ، کۆتاگە
 terminate	terminate	كۆتاییپێهێنان
 text	text	دەق
-text-processing	text-processing	دەقڕێکخەری، دەقکاری
-text-processor	text-processor	دەقڕێکخەر، دەقکار
-Text-String	Text-String	دەقەڕیزبەند
+textprocessing	text-processing	دەقڕێکخەری، دەقکاری
+textprocessor	text-processor	دەقڕێکخەر، دەقکار
+TextString	Text-String	دەقەڕیزبەند
 texture	texture	چنین، ڕستن
 TFT	TFT	(TFT)، تی‌ئێف‌تی
 theme	theme	١ـ باس، سەرباس، بابەت ٢ـ وتار ٣ـ ئاواز
-Time-to-live-	Time-to-live-	کاتی ژیان، کات‌-بۆ-ژیان
+Timetolive	Time-to-live-	کاتی ژیان، کات‌-بۆ-ژیان
 timeline	timeline	كاتهێڵ
 tips	tips	ڕێنیشاندان، ڕوونكردنەوە
 title	title	سەردێڕ
@@ -1655,41 +1655,41 @@ top	top	لووتكە، سەرتۆپ
 topic	topic	بابەت
 topology	topology	تۆپۆلۆژی، شێوەناسی
 touch	touch	ساو، ساوان، دەستلێدان
-touch-mobile	touch-mobile	ساوموبایل
-touch-screen	touch-screen	ساوپەردە
-track-1	track-(1)	١ـ شەقار (لە دیسکدا)، لێوارە‌ (لە شیریتدا) ٢ـ شوێنپێ ٣ـ شوێنکەوتن، سۆراخکردن
-track-2	track-(2)	"ترەک"، "تراک"
-track-address	track-address	ناونیشانی شەقار
+touchmobile	touch-mobile	ساوموبایل
+touchscreen	touch-screen	ساوپەردە
+track1	track-(1)	١ـ شەقار (لە دیسکدا)، لێوارە‌ (لە شیریتدا) ٢ـ شوێنپێ ٣ـ شوێنکەوتن، سۆراخکردن
+track2	track-(2)	"ترەک"، "تراک"
+trackaddress	track-address	ناونیشانی شەقار
 trackback	trackback	ڕێباز، ڕێچكە
-trackball--track-ball	trackball-(=-track-ball)	گۆسووڕ
+trackballtrackball	trackball-(=-track-ball)	گۆسووڕ
 transaction	transaction	ڕێككەوتن، گواستنەوە
 transfer	transfer	گواستنەوە
 transform	transform	گۆڕین
 transmission	transmission	ناردن
 transparent	transparent	ڕوون، ڕۆشن، پاشبین
 trick	trick	فێڵ، تەڵە
-tridimensional-	tridimensional-	سێلایی
-Trojan-horse	Trojan-horse	ئەسپی ترووجان
-TTL-2	TTL-(2)	(TTL)، تی‌تی‌ئێڵ
+tridimensional	tridimensional-	سێلایی
+Trojanhorse	Trojan-horse	ئەسپی ترووجان
+TTL2	TTL-(2)	(TTL)، تی‌تی‌ئێڵ
 type	type	١ـ جۆر ٢ـ چاپكردن
-tele-education	tele-education	دوورەفێركاری
-telework-	telework-	دووركاری
-telework-center	telework-center	بنكەی دووركاری، ناوەندی دوورکاری
-telex-	telex-	تێلێکس، تەلەفۆنی دەقی، دەقەتەلەفۆن
+teleeducation	tele-education	دوورەفێركاری
+telework	telework-	دووركاری
+teleworkcenter	telework-center	بنكەی دووركاری، ناوەندی دوورکاری
+telex	telex-	تێلێکس، تەلەفۆنی دەقی، دەقەتەلەفۆن
 Telnet	Telnet	(Telnet)، تێل‌نێت
 template	template	داڕێژە
 temporary	temporary	كاتی
 terminal	terminal	تێرمیناڵ، کۆتاگە
 terminate	terminate	كۆتاییپێهێنان
 text	text	دەق
-text-processing	text-processing	دەقڕێکخەری، دەقکاری
-text-processor	text-processor	دەقڕێکخەر، دەقکار
-Text-String	Text-String	دەقەڕیزبەند
+textprocessing	text-processing	دەقڕێکخەری، دەقکاری
+textprocessor	text-processor	دەقڕێکخەر، دەقکار
+TextString	Text-String	دەقەڕیزبەند
 texture	texture	چنین، ڕستن
 TFT	TFT	(TFT)، تی‌ئێف‌تی
 Ubuntu	Ubuntu	ئوبونتوو
-UCP-1	UCP-(1)	"یووسی‌پی"، کۆنووسی گشتیی کۆمپیوتەر، کۆنووسی جیهانیی کۆمپیوتەر
-UCP-2	UCP-(2)	"یووسی‌پی‌"، کۆنووسی لەبەرگرتنەوەی یونیکس-بۆ یونیکس
+UCP1	UCP-(1)	"یووسی‌پی"، کۆنووسی گشتیی کۆمپیوتەر، کۆنووسی جیهانیی کۆمپیوتەر
+UCP2	UCP-(2)	"یووسی‌پی‌"، کۆنووسی لەبەرگرتنەوەی یونیکس-بۆ یونیکس
 UDA	UDA	"یوودی‌ئەی"، دەستپێگەیشتنی دراوەی جیهانی
 UDF	UDF	"یوودی‌ئێف"، فۆرماتی جیهانیی دیسک
 UDMA	UDMA	(UDMA)، "یوودی‌ئێم‌ئەی"
@@ -1698,29 +1698,29 @@ UDP	UDP	"یوودی‌پی"، کۆنووسی داتاگرامی بەکارهێن
 UHF	UHF	"یووئێچ‌ئێف"، لەرەی لەژووربەرز
 UI	UI	"یووئای"، ناوبەستی بەکارهێنەر، نێوانەڕووی بەکارهێنەر
 UIML	UIML	"یووئای‌ئێم‌ئێڵ"، زمانی هێمادانانی ناوبەستی بەکارهێنەر
-ultra-	ultra-	لەولا، لەژوور، لەوپەڕ
-UML-1	UML-(1)	(UML)، "یووئێم‌ئێڵ" زمانی یەکگرتووی مۆدێلدانان
-UML-2	UML-(2)	(UML)، "یووئێم‌ئێڵ"
+ultra	ultra-	لەولا، لەژوور، لەوپەڕ
+UML1	UML-(1)	(UML)، "یووئێم‌ئێڵ" زمانی یەکگرتووی مۆدێلدانان
+UML2	UML-(2)	(UML)، "یووئێم‌ئێڵ"
 UMS	UMS	(UMS)، "یووئێم‌ئێس"
 UMTS	UMTS	(UMTS)، "یووئێم‌تی‌ئێس"، سیستەمی پێوەندیی بێتەلی گەڕۆکی جیهانی
 unary	unary	یەكانی
 UNC	UNC	پەیمانی ناونانی جیهانی
 underscore	underscore	بنهێڵ
 undo	undo	پووچکردنەوە، هەڵوەشاندنەوە، سڕینەوە
-undo-buffer	undo-buffer	نێوانگری پووچکردنەوە
-undo-disk	undo-disk	پەپکەی پووچکردنەوە، دیسکی پووچکردنەوە
+undobuffer	undo-buffer	نێوانگری پووچکردنەوە
+undodisk	undo-disk	پەپکەی پووچکردنەوە، دیسکی پووچکردنەوە
 Unicast	Unicast	یونیكەست
 Unicode	Unicode	یونیكۆد
-Unified-Modeling-Language-	Unified-Modeling-Language-	زمانی یەكگرتووی مۆدێلدانان
+UnifiedModelingLanguage	Unified-Modeling-Language-	زمانی یەكگرتووی مۆدێلدانان
 uninstall	uninstall	دامەزرانسڕی، دامەزرانسڕینەوە، هەڵوەشاندنەوە
 union	union	یەکێتی
 unique	unique	بێهاوتا، بێوێنە
 unit	unit	یەكە
-Universal-Naming-Convention-	Universal-Naming-Convention-	پەیمانی ناونانی جیهانی
+UniversalNamingConvention	Universal-Naming-Convention-	پەیمانی ناونانی جیهانی
 UNIX	UNIX	یونیكس
 unmute	unmute	نەکپاندن، کپنەکردن، دەنگبەردان
 unsigned	unsigned	بێنیشانه، بێهێما
-up-time--uptime	up-time-(=-uptime)	کاتی کردنەوە، کاتی چالاکی
+uptimeuptime	up-time-(=-uptime)	کاتی کردنەوە، کاتی چالاکی
 update	update	نوێكردنەوە، ئەمڕۆژیكردن، بەڕۆژکردن
 upgrade	upgrade	بەرزكردنەوە
 uplink	uplink	باركردن، سەرخستن
@@ -1728,13 +1728,13 @@ upload	upload	باركردن
 UPnP	UPnP	(UPnP)، پێوەکردن و لێدانی جیهانی
 UPS	UPS	(UPS)، سەرچاوە ئازووقەی بێپچڕان
 upstream	upstream	سەرخستن، ڕەوتی بەرەوبان، ڕەوتی بەرەوسەر، ڕەوتی بەرەوژوور، ڕەوتبان، ڕەوتسەر
-URI-	URI-	(URI)، "یووئارئای"، ناسێنەری سەرچاوەی چوونیەک‌
+URI	URI-	(URI)، "یووئارئای"، ناسێنەری سەرچاوەی چوونیەک‌
 URL	URL	(URL)، ئرڵ، یووئارئێڵ، شوێندۆزی سەرچاوەی جیهانی
 USB	USB	(USB)، یوو‌ئێس‌بی، تێپەڕگەی زنجیرەبەستی گشتی
 User	User	بەكارهێنەر
-user-ID	user-ID	پێناسەی بەكارهێنەر، ناسنامەی بەكارهێنەر
-user-name	user-name	ناوی بەكارهێنەر
-user-friendly	user-friendly	بەكارهێنەرپەسەن
+userID	user-ID	پێناسەی بەكارهێنەر، ناسنامەی بەكارهێنەر
+username	user-name	ناوی بەكارهێنەر
+userfriendly	user-friendly	بەكارهێنەرپەسەن
 USSD	USSD	(USSD)، "یووئێس‌ئێس‌دی"، ڕاژە دراوەی پاشکۆییی ناڕێکپێکهاتوو
 utility	utility	بەكەڵك، سوودمەند، سوودمەندی
 UTP	UTP	(UTP)، "یووتی‌پی"، جووتەکێبڵی بادراوی بێپۆشەر
@@ -1743,16 +1743,16 @@ unary	unary	یەكانی
 UNC	UNC	پەیمانی ناونانی جیهانی
 underscore	underscore	بنهێڵ
 undo	undo	پووچکردنەوە، هەڵوەشاندنەوە، سڕینەوە
-undo-buffer	undo-buffer	نێوانگری پووچکردنەوە
-undo-disk	undo-disk	پەپکەی پووچکردنەوە، دیسکی پووچکردنەوە
+undobuffer	undo-buffer	نێوانگری پووچکردنەوە
+undodisk	undo-disk	پەپکەی پووچکردنەوە، دیسکی پووچکردنەوە
 Unicast	Unicast	یونیكەست
 Unicode	Unicode	یونیكۆد
-Unified-Modeling-Language-	Unified-Modeling-Language-	زمانی یەكگرتووی مۆدێلدانان
+UnifiedModelingLanguage	Unified-Modeling-Language-	زمانی یەكگرتووی مۆدێلدانان
 uninstall	uninstall	دامەزرانسڕی، دامەزرانسڕینەوە، هەڵوەشاندنەوە
 union	union	یەکێتی
 unique	unique	بێهاوتا، بێوێنە
 unit	unit	یەكە
-Universal-Naming-Convention-	Universal-Naming-Convention-	پەیمانی ناونانی جیهانی
+UniversalNamingConvention	Universal-Naming-Convention-	پەیمانی ناونانی جیهانی
 value	value	نرخ
 variable	variable	گۆڕاو
 VBS	VBS	بنواڕە Visual Basic Script
@@ -1765,39 +1765,39 @@ version	version	وەشان
 video	video	١ـ ڕەنگی، وێنەیی، ڤیدیۆ ٢ـ ڕەنگ، وێنە، ڤیدیۆ
 view	view	بینین، پیشاندان
 virtual	virtual	گریمانە، گریمانەکی
-virtual-private-network-	virtual-private-network-	گریمانە ڕایەڵەی خۆیی، ڕایەڵەی خۆییی گریمانەکی
+virtualprivatenetwork	virtual-private-network-	گریمانە ڕایەڵەی خۆیی، ڕایەڵەی خۆییی گریمانەکی
 virus	virus	ڤایرۆس
 visual	visual	بینراو، دیدەیی، دیدەنی، دیداری
-Visual-Basic-	Visual-Basic-	ڤیژواڵ بەیسیك، بەیسیکی دیدەیی
-Visual-Basic-Script-	Visual-Basic-Script-	ڤیژواڵ بەیسیك سكریپت، سکریپتی بەیسیکی دیدەیی
+VisualBasic	Visual-Basic-	ڤیژواڵ بەیسیك، بەیسیکی دیدەیی
+VisualBasicScript	Visual-Basic-Script-	ڤیژواڵ بەیسیك سكریپت، سکریپتی بەیسیکی دیدەیی
 VLAN	VLAN	(VLAN)، "ڤی‌لان"
 voice	voice	دەنگ
-Voice-Card	Voice-Card	کارتی دەنگ
+VoiceCard	Voice-Card	کارتی دەنگ
 VOIP	VOIP	گواستنەوەی دەنگ لە ڕێگەی (IP)ەوه
 volume	volume	پلەی دەنگ، قەبارە، بەرگ
 vulnerable	vulnerable	بەرگەنەگر
 virus	virus	ڤایرۆس
 visual	visual	بینراو، دیدەیی، دیدەنی، دیداری
-Visual-Basic-	Visual-Basic-	ڤیژواڵ بەیسیك، بەیسیکی دیدەیی
-Visual-Basic-Script-	Visual-Basic-Script-	ڤیژواڵ بەیسیك سكریپت، سکریپتی بەیسیکی دیدەیی
+VisualBasic	Visual-Basic-	ڤیژواڵ بەیسیك، بەیسیکی دیدەیی
+VisualBasicScript	Visual-Basic-Script-	ڤیژواڵ بەیسیك سكریپت، سکریپتی بەیسیکی دیدەیی
 VLAN	VLAN	(VLAN)، "ڤی‌لان"
 voice	voice	دەنگ
-Voice-Card	Voice-Card	کارتی دەنگ
+VoiceCard	Voice-Card	کارتی دەنگ
 VOIP	VOIP	گواستنەوەی دەنگ لە ڕێگەی (IP)ەوه
 volume	volume	پلەی دەنگ، قەبارە، بەرگ
 vulnerable	vulnerable	بەرگەنەگر
-WAN-	WAN-	(WAN)، ڕایەڵەی ڕووبەربڵاو
-wap-1	wap-(1)	(wap)، "واپ"، پرۆتۆکۆلی بەکاربەریی بێتەل
-wap-2	wap-(2)	(wap)، "واپ"، خاڵی دەستپێگەیشتنی بێتەل
+WAN	WAN-	(WAN)، ڕایەڵەی ڕووبەربڵاو
+wap1	wap-(1)	(wap)، "واپ"، پرۆتۆکۆلی بەکاربەریی بێتەل
+wap2	wap-(2)	(wap)، "واپ"، خاڵی دەستپێگەیشتنی بێتەل
 ware	ware	واڵە، ئامێر، کاڵا
 Warez	Warez	(warez)، "وەیرز"، "وارێز"
 watchdog	watchdog	پارێزەر، پاسەوان، سەگی پاسەوان
-watchdog-timer-	watchdog-timer-	کاتپێوی پاسەوان
+watchdogtimer	watchdog-timer-	کاتپێوی پاسەوان
 wav	wav	(wav, wave)، "واڤ، وەیڤ"
-wave-1	wave-(1)	شەپۆل
+wave1	wave-(1)	شەپۆل
 web	web	وێب
-web-browser	web-browser	وێبگەڕ
-web-page	web-page	وێبپەڕ
+webbrowser	web-browser	وێبگەڕ
+webpage	web-page	وێبپەڕ
 webcam	webcam	وێبكام
 Webcast	Webcast	پەخشی وێب
 Webcasting	Webcasting	وێبپەخشی
@@ -1810,22 +1810,22 @@ whois	whois	(whois)، "هووئیز"
 wideband	wideband	پانەباند
 widget	widget	"ویجیت"
 window	window	پەنجەرە، دەلاقە
-window-driven-interface	window-driven-interface	ناوبەستی پەنجەرەئاژۆ، ناوبەستی وێنۆچکەئاژۆ
+windowdriveninterface	window-driven-interface	ناوبەستی پەنجەرەئاژۆ، ناوبەستی وێنۆچکەئاژۆ
 Windows	Windows	"ویندۆز"، ویندۆز مایکرۆسۆفت، "ئێم‌ئێس‌ویندۆز"
 WINS	WINS	(WINS)، "وینس"، "وینز"، ڕاژەی ناونانی ئینتەرنێتی ویندۆز
-Winsock-	Winsock-	(Winsock)، "وین‌سوک"
+Winsock	Winsock-	(Winsock)، "وین‌سوک"
 wireless	wireless	بێسیم، بێتەل
-wizard-1	wizard-(1)	فێرکار، ئامۆژگار، بلیمەت، شارەزا، "مامۆستا"، جادووگەر، "ویزارد"
-wizard-2	wizard-(2)	"ویزارد"، مامۆستا
+wizard1	wizard-(1)	فێرکار، ئامۆژگار، بلیمەت، شارەزا، "مامۆستا"، جادووگەر، "ویزارد"
+wizard2	wizard-(2)	"ویزارد"، مامۆستا
 WLAN	WLAN	(WLAN)، "لان"ی بێتەل
 Word	Word	پرۆگرامی وۆرد
-word-processing	word-processing	وشەڕێکخەری
-word-processor	word-processor	وشەڕێکخەر
+wordprocessing	word-processing	وشەڕێکخەری
+wordprocessor	word-processor	وشەڕێکخەر
 workstation	workstation	وێستگەی كار
-World-Wide-Web-	World-Wide-Web-	(www)، "ووو"، "وێب"، وێبی جیهان‌بەرین، جیهانی وێب
+WorldWideWeb	World-Wide-Web-	(www)، "ووو"، "وێب"، وێبی جیهان‌بەرین، جیهانی وێب
 writable	writable	شیاوی خوێندن، خوێندەنی
 WYSBYGI	WYSBYGI	(WYSBYGI)، "ویزبی‌گی"
-WYSIWYG-	WYSIWYG-	(wysiwyg)، "ویزی‌ویگ"
+WYSIWYG	WYSIWYG-	(wysiwyg)، "ویزی‌ویگ"
 Webcasting	Webcasting	وێبپەخشی
 WebDAV	WebDAV	(WebDAV)، "وێب‌داڤ"
 weblog	weblog	وێبلۆگ
@@ -1836,14 +1836,14 @@ whois	whois	(whois)، "هووئیز"
 wideband	wideband	پانەباند
 widget	widget	"ویجیت"
 window	window	پەنجەرە، دەلاقە
-window-driven-interface	window-driven-interface	ناوبەستی پەنجەرەئاژۆ، ناوبەستی وێنۆچکەئاژۆ
+windowdriveninterface	window-driven-interface	ناوبەستی پەنجەرەئاژۆ، ناوبەستی وێنۆچکەئاژۆ
 Windows	Windows	"ویندۆز"، ویندۆز مایکرۆسۆفت، "ئێم‌ئێس‌ویندۆز"
 WINS	WINS	(WINS)، "وینس"، "وینز"، ڕاژەی ناونانی ئینتەرنێتی ویندۆز
-Winsock-	Winsock-	(Winsock)، "وین‌سوک"
+Winsock	Winsock-	(Winsock)، "وین‌سوک"
 wireless	wireless	بێسیم، بێتەل
 X21	X.21	ئیکس-٢١
-X25-	X.25-	ئیکس-٢٥
-X400-	X.400-	ئیکس-٤٠٠
+X25	X.25-	ئیکس-٢٥
+X400	X.400-	ئیکس-٤٠٠
 X500	X.500	ئیکس-٥٠٠
 X75	X.75	ئیکس‌-٧٥
 x86	x86	(x86)، ئیکس٨٦
@@ -1865,55 +1865,55 @@ YaST	YaST	(YaST)
 Ymodem	Ymodem	(Ymodem)
 ypserver	ypserver	ypserver
 yy	yy	yy
-z-axis	z-axis	تەوەرەی "زد"
-z-coordinate	z-coordinate	تانوپۆی "زد"
+zaxis	z-axis	تەوەرەی "زد"
+zcoordinate	z-coordinate	تانوپۆی "زد"
 Z80	Z80	زد-هەشتا
 Z8000	Z8000	زد-هەشت هەزار
 zap	zap	سڕینەوە
-Zapf-Chancery	Zapf-Chancery	"زەپف چانسری"
+ZapfChancery	Zapf-Chancery	"زەپف چانسری"
 zero	zero	سفر
-zero-condition-	zero-condition-	دۆخی سفر
-zero-element	zero-element	توخمی سفر
-zero-flag	zero-flag	نیشانەنوێنی سفر
-zero-insertion-force-	zero-insertion-force-	تەوژمی دامەزراندنی سفر، "زیف"
-zero-access-stroage	zero-access-stroage	بیرگەی سفر-‌دەستپێگەیشتن
-zero-address	zero-address	بێناونیشان، سفرناونیشان
-zero-addressed	zero-addressed	سفرناونیشانی
-zero-addressed-machine	zero-addressed-machine	مەکینەی سفرناونیشانی
-zero-crossing	zero-crossing	لە سفرپەڕینەوە
-zero-insertion-force-	zero-insertion-force-	بێنیاز-لە-تەوژمی "زیف"
-zero-level-classification	zero-level-classification	پۆل‌پۆلکردنی ئاستی سفر
-zerodivide-	zerodivide-	دابەشبوون بە سفر
-zerofill-	zerofill-	پڕکردنەوە بە سفر
+zerocondition	zero-condition-	دۆخی سفر
+zeroelement	zero-element	توخمی سفر
+zeroflag	zero-flag	نیشانەنوێنی سفر
+zeroinsertionforce	zero-insertion-force-	تەوژمی دامەزراندنی سفر، "زیف"
+zeroaccessstroage	zero-access-stroage	بیرگەی سفر-‌دەستپێگەیشتن
+zeroaddress	zero-address	بێناونیشان، سفرناونیشان
+zeroaddressed	zero-addressed	سفرناونیشانی
+zeroaddressedmachine	zero-addressed-machine	مەکینەی سفرناونیشانی
+zerocrossing	zero-crossing	لە سفرپەڕینەوە
+zeroinsertionforce	zero-insertion-force-	بێنیاز-لە-تەوژمی "زیف"
+zerolevelclassification	zero-level-classification	پۆل‌پۆلکردنی ئاستی سفر
+zerodivide	zerodivide-	دابەشبوون بە سفر
+zerofill	zerofill-	پڕکردنەوە بە سفر
 zeroization	zeroization	سفراندن، سفرگەری، سفرسازی
 zerolevel	zerolevel	ئاستی سفر، ئاستسفر
 zetetics	zetetics	زانستناسی، زانستزانی، زێتێتیک
-ZIF-socket	ZIF-socket	پایەگری زیف، پایەگری پێویستنەبووی تەوژم
+ZIFsocket	ZIF-socket	پایەگری زیف، پایەگری پێویستنەبووی تەوژم
 zine	zine	"زین"، گۆڤاری ئەلەکترۆنی
 zip	zip	زیپ، پەستاندن
 Zmodem	Zmodem	Zmodem
 zone	zone	ناوچە
-zone-bit	zone-bit	بیتی ناوچە
+zonebit	zone-bit	بیتی ناوچە
 ZOO	ZOO	جۆرە درێژکراوەیەکی پەڕگە
 zoom	zoom	زووم، وردبیندانان
-zoom-in	zoom-in	زوومکردنی زێدەیی
-zoom-out	zoom-out	زوومکردنی ڕۆچوونی
+zoomin	zoom-in	زوومکردنی زێدەیی
+zoomout	zoom-out	زوومکردنی ڕۆچوونی
 zoomable	zoomable	زوومکردەنی
 zooming	zooming	گەورەنوێنی، زوومگەری، وردبیندانان
 Zope	Zope	Zope
-ZV-Port	ZV-Port	(ZV-Port)
-zero-crossing	zero-crossing	لە سفرپەڕینەوە
-zero-insertion-force-	zero-insertion-force-	بێنیاز-لە-تەوژمی "زیف"
-zero-level-classification	zero-level-classification	پۆل‌پۆلکردنی ئاستی سفر
-zerodivide-	zerodivide-	دابەشبوون بە سفر
-zerofill-	zerofill-	پڕکردنەوە بە سفر
+ZVPort	ZV-Port	(ZV-Port)
+zerocrossing	zero-crossing	لە سفرپەڕینەوە
+zeroinsertionforce	zero-insertion-force-	بێنیاز-لە-تەوژمی "زیف"
+zerolevelclassification	zero-level-classification	پۆل‌پۆلکردنی ئاستی سفر
+zerodivide	zerodivide-	دابەشبوون بە سفر
+zerofill	zerofill-	پڕکردنەوە بە سفر
 zeroization	zeroization	سفراندن، سفرگەری، سفرسازی
 zerolevel	zerolevel	ئاستی سفر، ئاستسفر
 zetetics	zetetics	زانستناسی، زانستزانی، زێتێتیک
-ZIF-socket	ZIF-socket	پایەگری زیف، پایەگری پێویستنەبووی تەوژم
+ZIFsocket	ZIF-socket	پایەگری زیف، پایەگری پێویستنەبووی تەوژم
 zine	zine	"زین"، گۆڤاری ئەلەکترۆنی
 zip	zip	زیپ، پەستاندن
 Zmodem	Zmodem	Zmodem
 zone	zone	ناوچە
-zone-bit	zone-bit	بیتی ناوچە
+zonebit	zone-bit	بیتی ناوچە
 ZOO	ZOO	جۆرە درێژکراوەیەکی پەڕگە

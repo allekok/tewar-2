@@ -8,6 +8,9 @@ foreach($dicts as $dict) {
     if(!$f) continue;
     while(!feof($f)) {
 	$line = explode("\t", trim(fgets($f)));
+	if($dict == "kawe")
+	    $line[1] = str_replace("،جدول نشانەهای اختصاری",
+				   "", $line[1]);
 	$string .= search_sanitize_string($line[0]) .
 		   "\t{$line[0]}\t{$line[1]}\n";
     }
@@ -27,7 +30,7 @@ function search_sanitize_string ($string) {
 	"to"=>["ر","ل","و","ت","ز","ز","ز"],
     ];
     $string = str_replace($extras, "", $string);
-    $string = str_replace($ar_sign, "", $string);
+    $string = str_replace($ar_signs, "", $string);
     $string = str_replace($replace["from"], $replace["to"], $string);
     return $string;
 }

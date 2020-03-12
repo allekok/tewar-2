@@ -176,6 +176,17 @@ function clear_screen ()
     q_el.focus();
 }
 
+function process_url ()
+{
+    let query = window.location.toString();
+    query = query.substr(query.indexOf('?'));
+    if(query.substr(0, 3) != "?q=")
+	return;
+    const q_el = document.getElementById(q_el_id);
+    q_el.value = decodeURIComponent(query.substr(3));
+    lookup();
+}
+
 /* Events */
 window.addEventListener('load', function () {
     // Dicts
@@ -193,4 +204,7 @@ window.addEventListener('load', function () {
     header_h1_el.addEventListener('click', function() {
 	clear_screen();
     });
+
+    // Process URL
+    process_url();
 });
