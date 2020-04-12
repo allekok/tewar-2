@@ -20,9 +20,7 @@ foreach($dicts as $o)
 	{
 	    $w = trim($line[0]);
 	    $w = str_replace('ه‌', 'ە', $w);
-	    $w = trim(str_replace('‌', ' ', $w));
-	    $w = preg_replace('/\s+/u', '-', $w);
-	    $w = preg_replace('/-+/u', '-', $w);
+	    $w = preg_replace('/\s+/u', ' ', $w);
 	    $m = trim($line[1]);
 	    $new_lines[] = "$w\t$m";
 	}

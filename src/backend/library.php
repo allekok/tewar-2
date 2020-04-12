@@ -8,8 +8,8 @@ $extras = ["&#34;","&#39;","&laquo;","&raquo;","&rsaquo;",
 	   ".", "~", "`", "؟", "،", "»", "«","ـ","؛","›","‹","•","‌"];
 $ar_signs =["ِ", "ُ", "ٓ", "ٰ", "ْ", "ٌ", "ٍ", "ً", "ّ", "َ"];
 $replace = [
-    "from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ"],
-    "to"=>["ر","ل","و","ت","ز","ز","ز"],
+    "from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ","یی"],
+    "to"=>["ر","ل","و","ت","ز","ز","ز","ی"],
 ];
 
 function dict_path ($dict_name)
@@ -40,11 +40,12 @@ function get_from_user ($request)
 	$request,FILTER_SANITIZE_STRING)));
 }
 
-function lookup ($q, $dicts_name)
+function lookup ($q, $dicts_name, $n=10)
 {
     if(! ($q and $dicts_name) )
 	return NULL;
-
+    
+    $xq_len = mb_strlen($q) / 2;
     $dict_list = dict_list();
     $results = [];
 
@@ -54,25 +55,17 @@ function lookup ($q, $dicts_name)
 	    continue;
 
 	$dict = dict($dict_name);
-	
-	foreach($q as $w)
-	{
-	    if(! @isset($results[$dict_name][$w]))
-	    {
-		$results[$dict_name][$w] = @$dict[$w];
+	foreach($dict as $o) {
+	    if($n == 0) break;
+	    if(mb_strpos($o[0], $q) !== FALSE or
+		(mb_strpos($q, $o[0] !== FALSE) and mb_strlen($o[0]) >= $xq_len)) {
+		$results[$dict_name][] = $o;
+		$n--;
 	    }
 	}
     }
     
     return $results;
-}
-
-function match_words ($string)
-{
-    $string = sanitize_string($string);
-    $string = preg_replace('/\s+/u', ' ', $string);
-    $string = explode(' ', $string);
-    return $string;
 }
 
 function sanitize_string ($string)
@@ -81,6 +74,7 @@ function sanitize_string ($string)
     $string = str_replace($extras, "", $string);
     $string = str_replace($ar_signs, "", $string);
     $string = str_replace($replace["from"], $replace["to"], $string);
+    $string = preg_replace("/\s+/u", "", $string);
     return $string;
 }
 
@@ -95,7 +89,7 @@ function dict ($dict_name)
 	$line = explode("\t", trim(fgets($f)));
 	if(@$line[2])
 	{
-	    $dict[$line[0]] = [$line[1],$line[2]];
+	    $dict[] = [$line[0],$line[1],$line[2]];
 	}
     }
     fclose($f);

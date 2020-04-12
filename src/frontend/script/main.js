@@ -84,9 +84,10 @@ function lookup ()
 	    
 	    const res = response[dicts[i]];
 	    let wm_html = '';
-	    for(const w in res)
+	    for(const i in res)
 	    {
-		const m = res[w];
+		const w = res[i][1]
+		const m = res[i][2];
 		if(m) wm_html += `<p>- <b>${w}</b>: ${m}</p>`;
 	    }
 	    toprint += wm_html ? wm_html :

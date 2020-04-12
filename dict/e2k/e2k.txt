@@ -109,7 +109,7 @@ accomplishing	verb, bicihanîn
 accomplishment	əˈkämpliSHmənt, bicihhatî
 accomplishments	noun, bicihhatî
 accordingly	əˈkôrdiNGlē, gorvî
-according-to	preposition, gor
+according to	preposition, gor
 accordion	əˈkôrdēən, akordîyon
 accordions	əˈkôrdēən, akordîyon
 account	əˈkount, konto
@@ -399,7 +399,7 @@ agitate	ˈajiˌtāt, acizkirin
 agitated	ˈajiˌtātid, acizkirin
 agitates	ˈajiˌtāt, acizkirin
 agitating	verb, acizkirin
-a-go	əˈgō, pêşî
+a go	əˈgō, pêşî
 ago	əˈgō, pêşî
 agonies	ˈagənē, êş
 agony	ˈagənē, êş
@@ -427,19 +427,19 @@ aiming	verb, armancgirtin
 aims	verb, armancgirtin
 air	e(ə)r, hewa
 aircraft	ˈe(ə)rˌkraft, firrok
-air-force	noun, hêza hewayî
-air-line	noun, şîrketa balafiran
+air force	noun, hêza hewayî
+air line	noun, şîrketa balafiran
 airline	ˈe(ə)rˌlīn, şîrketa balafiran
 airmail	ˈe(ə)rˌmāl, posta balafir
 airplane	ˈe(ə)rˌplān, balafir
 airplanes	noun, balafir
 airport	ˈe(ə)rˌpôrt, balafirgeh
-air-raid	noun, êrişa hewayî
+air raid	noun, êrişa hewayî
 airs	noun, hewa
 aisle	īl, fitêsa
 aisles	noun, fitêsa
 alarm	əˈlärm, hawar
-alarm-clock	, demjimara şîyarker
+alarm clock	, demjimara şîyarker
 alarming	əˈlärmiNG, acizane
 alarms	noun, hawar
 alba	ˈalbə, albûm
@@ -716,7 +716,7 @@ antennae	noun, antên
 antennas	noun, antên
 anthem	ˈanTHəm, marş
 anthems	ˈanTHəm, marş
-ant-hill	noun, girikê gêrîkan
+ant hill	noun, girikê gêrîkan
 anthill	ˈantˌhil, girikê gêrîkan
 anthills	noun, girikê gêrîkan
 antibiotic	ˌantēbīˈätik,ˌantī-, antîbîyotîk
@@ -749,7 +749,7 @@ any	ˈenē, herçiyek
 anybody	-ˌbədē,ˈenēˌbädē, herçi kes
 anyhow	ˈenēˌhou, herçawa
 anything	ˈenēˌTHiNG, hemû
-any-time	adverb, herdem
+any time	adverb, herdem
 anytime	adverb, herdem
 anyway	ˈenēˌwā, herçi jî
 anywhere	ˈenēˌ(h)we(ə)r, herder
@@ -777,7 +777,7 @@ apostle	əˈpäsəl, rêber
 Apostles	noun, rêber
 apostles	noun, rêber
 apostrophe	əˈpästrəfē, tîpveqetok
-apostrophe-s	əˈpästrəfē, tîpveqetok
+apostrophe s	əˈpästrəfē, tîpveqetok
 apostrophe-s	əˈpästrəfē, tîpveqetok
 apostrophes	əˈpästrəfē, tîpveqetok
 appal	verb, xofdan
@@ -948,7 +948,7 @@ armour	ˈärmər, çekdarî
 armouries	ˈärmərē, çekxane
 armours	ˈärmər, çekdarî
 armoury	ˈärmərē, çekxane
-arm-pit	noun, binpî
+arm pit	noun, binpî
 arm-pit	ˈärmˌpit, binpî
 armpit	ˈärmˌpit, binpî
 armpits	noun, binpî
@@ -1016,7 +1016,7 @@ ash	aSH, xwelî
 ashamed	əˈSHāmd, şermezar
 ashes	noun, xwelî
 ashore	əˈSHôr, li erdê
-ash-tray	noun, xwelîdank
+ash tray	noun, xwelîdank
 ash-tray	noun, xwelîdank
 ashtray	ˈaSHˌtrā, xwelîdank
 Asia	ˈāZHə, asya
@@ -1442,20 +1442,20 @@ bat	bat, paçmêlk
 bath	baTH, serşo
 bathe	bāT͟H, serşûştin
 bathes	verb, serşûştin
-bath-robe	noun, qapûtê serşûştinê
+bath robe	noun, qapûtê serşûştinê
 bathrobe	ˈbaTHˌrōb, qapûtê serşûştinê
 bathrobes	noun, qapûtê serşûştinê
 bathroom	-ˌro͝om,ˈbaTHˌro͞om, jura serşoyê
 bathrooms	noun, jura serşoyê
 baths	noun, serşo
-bath-towel	noun, xewlî
+bath towel	noun, xewlî
 bathtub	ˈbaTHˌtəb, serşok
 bathtubs	noun, serşok
 bats	bats, paçmêlk
 batteries	noun, pîl
 battery	ˈbatərē, pîl
 battle	ˈbatl, şer
-battle-field	noun, meydana şer
+battle field	noun, meydana şer
 battlefield	ˈbatlˌfēld, meydana şer
 battlefields	noun, meydana şer
 battles	ˈbatl, şer
@@ -1537,7 +1537,7 @@ beginnings	noun, destpêk
 begins	verb, destpêkirin
 begs	beg, parsêkirin
 begun	verb, destpêkirin
-be-have	biˈhāv, xwenîşandan
+be have	biˈhāv, xwenîşandan
 behave	biˈhāv, xwenîşandan
 behaves	verb, xwenîşandan
 behaving	biˈhāv, xwenîşandan
@@ -1662,8 +1662,8 @@ biologists	noun, jîyanzan
 biology	bīˈäləjē, jîyanzanî
 bird	bərd, teyr
 birth	bərTH, zayîn
-birth-certificate	, nasnama zayinê
-birth-control	, berçavkirina zayinê
+birth certificate	, nasnama zayinê
+birth control	, berçavkirina zayinê
 birthday	ˈbərTHˌdā, roja zayinê
 birthmark	ˈbərTHˌmärk, şanik
 birthplace	ˈbərTHˌplās, cihê jidayikbûnê
@@ -1697,7 +1697,7 @@ blackmail	ˈblakˌmāl, xûkxwestin
 blackmailed	verb, xûkxwestin
 blackmailing	verb, xûkxwestin
 blackmails	verb, xûkxwestin
-black-market	, bazara reş
+black market	, bazara reş
 blacksmith	ˈblakˌsmiTH, nalbend
 blacksmiths	noun, nalbend
 bladder	ˈbladər, ziravê
@@ -1830,7 +1830,7 @@ bond	bänd, girêk
 bondage	ˈbändij, xwekarî
 bonds	noun, girêk
 bone	bōn, hestî
-bone-marrow	noun, mejî
+bone marrow	noun, mejî
 bones	noun, hestî
 bonnet	ˈbänit, devik
 bonnets	ˈbänit, devik
@@ -1838,7 +1838,7 @@ bonus	ˈbōnəs, xelat
 book	bo͝ok, pirtûk
 bookcase	ˈbo͝okˌkās, refê pirtûkan
 bookcases	noun, refê pirtûkan
-book-keeper	noun, deftergir
+book keeper	noun, deftergir
 bookkeeper	noun, deftergir
 bookkeepers	noun, deftergir
 booklet	ˈbo͝oklit, pirtûkok
@@ -1903,7 +1903,7 @@ boxer	ˈbäksər, boksvan
 boxers	noun, boksvan
 boxes	noun, qûtîk
 boy	boi, xort
-boy-friend	noun, heval
+boy friend	noun, heval
 boyfriend	ˈboiˌfrend, heval
 boyfriends	ˈboiˌfrend, heval
 bra	brä, pêsîrveşêr
@@ -1923,7 +1923,7 @@ braiding	ˈbrādiNG, hûnîn
 braids	brād, hûnîn
 brain	brān, mejî
 brains	noun, mejî
-brain-wash	verb, mejîşûştinî
+brain wash	verb, mejîşûştinî
 brainwash	-ˌwäSH,ˈbrānˌwôSH, mejîşûştinî
 brake	brāk, frêngirtin
 braked	verb, frêngirtin
@@ -1949,14 +1949,14 @@ bread	bred, nan
 breads	bred, nan
 break	brāk, şikenandin
 breakable	ˈbrākəbəl, dişkê
-break-down	noun, hiweşîn
+break down	noun, hiweşîn
 breakdown	ˈbrākˌdoun, hiweşîn
-break-fast	noun, taştê
+break fast	noun, taştê
 breakfast	ˈbrekfəst, taştê
 breakfasts	noun, taştê
 breaking	verb, şikenandin
 breaks	verb, şikenandin
-break-through	noun, jiberderketinî
+break through	noun, jiberderketinî
 breakthrough	ˈbrākˌTHro͞o, jiberderketinî
 breakthroughs	ˈbrākˌTHro͞o, jiberderketinî
 breakwater	-ˌwätər,ˈbrākˌwôtər, pêlbirr
@@ -2043,7 +2043,7 @@ brooks	noun, çemik
 broom	bro͝om,bro͞om, melkis
 brooms	bro͝om,bro͞om, melkis
 brother	ˈbrəT͟Hər, bira
-brother-in-law	noun, xezûr
+brother in law	noun, xezûr
 brothers	noun, bira
 brought	verb, anîn
 brown	broun, qehwerengî
@@ -2106,7 +2106,7 @@ bullfight	ˈbo͝olˌfīt, şerrê gayan
 bullfights	noun, şerrê gayan
 bulls	noun, ga
 bum	bəm, tolaz
-bumble-bee	noun, moz
+bumble bee	noun, moz
 bumblebee	ˈbəmbəlˌbē, moz
 bump	bəmp, lêketin
 bumped	bəmp, lêketin
@@ -2138,7 +2138,7 @@ burglaries	ˈbərglərē, dizî
 burglars	ˈbərglər, diz
 burglary	ˈbərglərē, dizî
 burial	ˈberēəl, binerdkirinî
-burial-ground	, gor
+burial ground	, gor
 burials	noun, binerdkirinî
 buried	verb, binerdkirin
 buries	ˈberē, binerdkirin
@@ -2182,7 +2182,7 @@ buzzer	ˈbəzər, dengdar
 buzzers	ˈbəzər, dengdar
 buzzes	bəz, pispisîn
 by	bī, bo
-by-pass	noun, rêya dorhalî
+by pass	noun, rêya dorhalî
 by-pass	noun, rêya dorhalî
 bypass	ˈbīˌpas, rêya dorhalî
 bypasses	noun, rêya dorhalî
@@ -2249,7 +2249,7 @@ campaign	kamˈpān, bêşvekirin
 campaigns	noun, bêşvekirin
 camped	verb, konvekirin
 camps	kamp, konvekirin
-camp-site	ˈkampˌsīt, meydana kon
+camp site	ˈkampˌsīt, meydana kon
 campsite	ˈkampˌsīt, meydana kon
 campsites	ˈkampˌsīt, meydana kon
 campus	ˈkampəs, meydana zankoyê
@@ -2284,7 +2284,7 @@ canoe	kəˈno͞o, berikkirin
 canoed	kəˈno͞o, berikkirin
 canoeing	kəˈno͞oiNG, berikkirin
 canoes	verb, berikkirin
-can-opener	noun, qûtîkvekir
+can opener	noun, qûtîkvekir
 canopies	ˈkanəpē, sîvan
 canopy	ˈkanəpē, sîvan
 cans	noun, qûtîk
@@ -2339,7 +2339,7 @@ cardboard	ˈkärdˌbôrd, qarton
 care	ke(ə)r, bibalî
 career	kəˈri(ə)r, pêşveçûnî
 careers	noun, pêşveçûnî
-care-free	adjective, bêbal
+care free	adjective, bêbal
 carefree	ˈke(ə)rˌfrē, bêbal
 careful	ˈke(ə)rfəl, balî
 careless	ˈke(ə)rlis, jiseravê
@@ -2527,7 +2527,7 @@ certifies	ˈsərtəˌfī, şehadtkirin
 certify	ˈsərtəˌfī, şehadtkirin
 certifying	ˈsərtəˌfī, şehadtkirin
 chain	CHān, merbend
-chain-reaction	, merbenketî
+chain reaction	, merbenketî
 chair	CHe(ə)r, kûrsî
 chairman	ˈCHe(ə)rmən, pêşewar
 chairmen	ˈCHe(ə)rmən, pêşewar
@@ -2603,15 +2603,15 @@ cheats	verb, xapandin
 check	CHek, berçavkirin
 checked	CHekt, berçavkirin
 checking	verb, berçavkirin
-Check-Point	noun, cihê berçavkirinê
-check-point	noun, cihê berçavkirinê
+Check Point	noun, cihê berçavkirinê
+check point	noun, cihê berçavkirinê
 checkpoint	ˈCHekˌpoint, cihê berçavkirinê
 checkpoints	noun, cihê berçavkirinê
 checks	verb, berçavkirin
-check-up	noun, jidestderbaskirin
+check up	noun, jidestderbaskirin
 check-up	noun, jidestderbaskirin
 checkup	ˈCHekˌəp, jidestderbaskirin
-check-ups	ˈCHekˌəp, jidestderbaskirin
+check ups	ˈCHekˌəp, jidestderbaskirin
 checkups	ˈCHekˌəp, jidestderbaskirin
 cheek	CHēk, rû
 cheeks	noun, rû
@@ -2644,11 +2644,11 @@ chests	CHest, mihar
 chew	CHo͞o, cûtin
 chewed	verb, cûtin
 chewing	verb, cûtin
-chewing-gum	, benîşt
+chewing gum	, benîşt
 chewinggum	noun, benîşt
 chews	CHo͞o, cûtin
 chicken	ˈCHikən, mirîşk
-chicken-pox	noun, dirke
+chicken pox	noun, dirke
 chickenpox	ˈCHikənˌpäks, dirke
 chief	CHēf, serokeşîr
 chiefly	ˈCHēflē, serane
@@ -2762,7 +2762,7 @@ citizens	noun, hembajarî
 citizenship	noun, hemkomarî
 citizenships	noun, hemkomarî
 city	ˈsitē, bajar
-city-hall	, bajararêvebirî
+city hall	, bajararêvebirî
 civilian	səˈvilyən, sifîl
 civilians	noun, sifîl
 civilisation	ˌsivələˈzāSHən, beşerî
@@ -2771,11 +2771,11 @@ civilised	adjective, beşer
 civilization	ˌsivələˈzāSHən, beşerî
 civilizations	ˌsivələˈzāSHən, beşerî
 civilized	adjective, beşer
-civil-rights	, mafên mirovatî
-civil-servant	, mamûr
-civil-servants	noun, mamûr
-civil-service	, komarkarî
-civil-war	, şerê nav xwe
+civil rights	, mafên mirovatî
+civil servant	, mamûr
+civil servants	noun, mamûr
+civil service	, komarkarî
+civil war	, şerê nav xwe
 clad	klad, lebaslêkirin
 claim	klām, mafxwestin
 claimant	ˈklāmənt, daxwazkir
@@ -2977,7 +2977,7 @@ collapsed	verb, jiberhevketin
 collapses	verb, jiberhevketin
 collapsing	verb, jiberhevketin
 collar	ˈkälər, berqirrik
-collar-bone	noun, hestîyê mil
+collar bone	noun, hestîyê mil
 collarbone	ˈkälərˌbōn, hestîyê mil
 collarbones	noun, hestîyê mil
 collars	ˈkälər, berqirrik
@@ -3527,15 +3527,15 @@ cooler	ˈko͞olər, hênik
 coolest	adjective, hênik
 cooling	verb, hênikkirin
 cools	ko͞ol, hênikkirin
-co-operate	verb, hevkarkirîn
+co operate	verb, hevkarkirîn
 co-operate	verb, hevkarkirîn
 cooperate	kōˈäpəˌrāt, hevkarkirîn
 cooperated	verb, hevkarkirîn
 cooperates	verb, hevkarkirîn
-co-operation	noun, hevkarî
+co operation	noun, hevkarî
 co-operation	noun, hevkarî
 cooperation	kōˌäpəˈrāSHən, hevkarî
-co-operative	kōˈäp(ə)rətiv, amadeyê alîkarî
+co operative	kōˈäp(ə)rətiv, amadeyê alîkarî
 co-operative	adjective, amadeyê alîkarî
 cooperative	kōˈäp(ə)rətiv, amadeyê alîkarî
 coordinate	, liberhevxistin
@@ -3557,7 +3557,7 @@ core	kôr, navik
 cores	kôr, navik
 cork	kôrk, depik
 corks	kôrk, depik
-cork-screw	noun, depikkêş
+cork screw	noun, depikkêş
 cork-screw	noun, depikkêş
 corkscrew	ˈkôrkˌskro͞o, depikkêş
 corkscrews	noun, depikkêş
@@ -3866,7 +3866,7 @@ dates	noun, xûrme
 dative	ˈdātiv, pîbest
 datives	ˈdātiv, pîbest
 daughter	ˈdä-,ˈdôtər, keç
-daughter-in-law	noun, bûk
+daughter in law	noun, bûk
 daughter-in-law	, bûk
 daughters	noun, keç
 dawn	dän,dôn, tarîbûn
@@ -4324,7 +4324,7 @@ dine	dīn, nanxwarin
 dined	dīn, nanxwarin
 dines	dīn, nanxwarin
 dining	verb, nanxwarin
-dining-room	, jura nanxwarinê
+dining room	, jura nanxwarinê
 dinner	ˈdinər, firavîn
 dinners	ˈdinər, firavîn
 dinosaur	ˈdīnəˌsôr, dînazor
@@ -4632,9 +4632,9 @@ dozen	ˈdəzən, deste
 drag	drag, xwêrvekişandin
 dragged	verb, xwêrvekişandin
 dragging	verb, xwêrvekişandin
-drag-on	noun, zîha
+drag on	noun, zîha
 dragon	ˈdragən, zîha
-dragon-fly	noun, firroke
+dragon fly	noun, firroke
 dragonfly	ˈdragənˌflī, firroke
 drags	drag, xwêrvekişandin
 drain	drān, zûhakirin
@@ -4679,7 +4679,7 @@ drive	drīv, ajotin
 driver	ˈdrīvər, ajotvan
 drives	verb, ajotin
 driving	ˈdrīviNG, ajotin
-driving-license	noun, destûra ajotinê
+driving license	noun, destûra ajotinê
 drop	dräp, dilopkirin
 dropped	verb, dilopkirin
 dropping	verb, dilopkirin
@@ -4751,7 +4751,7 @@ eagle	ˈēgəl, qertel
 ear	i(ə)r, gûh
 earlier	adjective, zû
 earliest	adjective, zû
-ear-lobe	noun, lepê gûh
+ear lobe	noun, lepê gûh
 earlobe	ˈi(ə)rˌlōb, lepê gûh
 earlobes	noun, lepê gûh
 early	ˈərlē, zû
@@ -4759,7 +4759,7 @@ earn	ərn, qezenckirin
 earned	verb, qezenckirin
 earning	verb, qezenckirin
 earns	verb, qezenckirin
-ear-ring	noun, gûhar
+ear ring	noun, gûhar
 earring	ˈi(ə)rˌ(r)iNG, gûhar
 earrings	noun, gûhar
 ears	noun, gûh
@@ -5361,7 +5361,7 @@ eyebrow	ˈīˌbrou, brû
 eyelash	ˈīˌlaSH, mûçav
 eyelid	ˈīˌlid, girtoka çav
 eyes	noun, çav
-eye-witness	noun, şahidê çavdît
+eye witness	noun, şahidê çavdît
 eyewitness	ˈīˈwitnəs, şahidê çavdît
 eyewitnesses	ˈīˈwitnəs, şahidê çavdît
 fable	ˈfābəl, çîrokên heywanan
@@ -5400,7 +5400,7 @@ fairest	fe(ə)r, xweşik
 fairies	noun, horî
 fairs	fe(ə)r, mazat
 fairy	ˈfe(ə)rē, horî
-fairy-tale	, çîrok
+fairy tale	, çîrok
 faith	fāTH, bawerî
 faithful	ˈfāTHfəl, girêda
 faiths	fāTH, bawerî
@@ -5409,7 +5409,7 @@ faked	verb, qelpkirin
 fakes	fāk, qelpkirin
 faking	verb, qelpkirin
 falcon	ˈfalkən,ˈfôl-, teyrê baz
-f-all	fôl, payiz
+f all	fôl, payiz
 f-all	fôl, payiz
 fall	fôl, payiz
 fallen	ˈfôlən, ketin
@@ -5443,7 +5443,7 @@ farmer	ˈfärmər, gûndî
 farmhouse	ˈfärmˌhous, xanîyê gûndî
 farmhouses	noun, xanîyê gûndî
 farming	ˈfärmiNG, cotyarî
-farm-land	noun, erdê cot
+farm land	noun, erdê cot
 farmland	ˈfärmˌland, erdê cot
 farmlands	noun, erdê cot
 farms	noun, malgûndî
@@ -5471,7 +5471,7 @@ fate	fāt, qeder
 Fates	noun, qeder
 fates	noun, qeder
 father	ˈfäT͟Hər, bav
-father-in-law	noun, xezûr
+father in law	noun, xezûr
 father-in-law	, xezûr
 fathers	noun, bav
 fatigue	fəˈtēg, westînî
@@ -5574,7 +5574,7 @@ fiber	ˈfībər, mûyik
 fiberglass	ˈfībərˌglas, cama mûyikî
 fibers	ˈfībər, mûyik
 fibre	ˈfībər, mûyik
-fibre-glass	noun, cama mûyikî
+fibre glass	noun, cama mûyikî
 fibreglass	noun, cama mûyikî
 fibres	ˈfībər, mûyik
 fictitious	fikˈtiSHəs, berxwegoti
@@ -5608,7 +5608,7 @@ figure	ˈfigyər, şikil
 figures	noun, şikil
 file	fīl, êge
 files	noun, êge
-filing-cabinet	, dolaba dosî
+filing cabinet	, dolaba dosî
 fill	fil, tijîkirin
 filled	verb, tijîkirin
 filling	ˈfiliNG, tijî
@@ -5649,7 +5649,7 @@ finishes	ˈfiniSH, qedandin
 finishing	verb, qedandin
 fins	noun, per
 fire	fīr, agir
-fire-alarm	, gazîagir
+fire alarm	, gazîagir
 fireman	ˈfīrmən, parîzevanê ji ber agir
 fireplace	ˈfīrˌplās, tifik
 fireplaces	noun, tifik
@@ -5666,8 +5666,8 @@ fishermen	noun, masivan
 Fishes	verb, masîgirtin
 fishes	verb, masîgirtin
 fishing	ˈfiSHiNG, masîgirtin
-fishing-boat	noun, papora masivanan
-fishing-line	, bendê masîneçirê
+fishing boat	noun, papora masivanan
+fishing line	, bendê masîneçirê
 fist	fist, mişt
 fists	fist, mişt
 fit	fit, lêhatin
@@ -5785,7 +5785,7 @@ fond	fänd, ji dil
 fonder	fänd, ji dil
 fondest	fänd, ji dil
 food	fo͞od, xûrek
-food-poisoning	, jarbûna xûrekî
+food poisoning	, jarbûna xûrekî
 foods	noun, xûrek
 fool	fo͞ol, kêmaqil
 fools	noun, kêmaqil
@@ -5811,7 +5811,7 @@ foreigners	noun, bîyanî
 foresight	ˈfôrˌsīt, pêşdîtinî
 forest	ˈfär-,ˈfôrəst, daristan
 forestry	ˈfär-,ˈfôrəstrē, daristanî
-for-ever	adverb, herdem
+for ever	adverb, herdem
 forever	fô-,fəˈrevər, herdem
 forgave	verb, lêborîn
 forgeries	ˈfôrjərē, qelpî
@@ -6041,7 +6041,7 @@ garlic	ˈgärlik, sîr
 garlics	ˈgärlik, sîr
 gas	gas, xaz
 gases	noun, xaz
-gas-mask	noun, maska xazê
+gas mask	noun, maska xazê
 gasoline	ˈgasəlēn,ˌgasəˈlēn, benzîl
 gasolines	ˈgasəlēn,ˌgasəˈlēn, benzîl
 gasp	gasp, xizandin
@@ -6116,7 +6116,7 @@ gills	noun, bêhngirtokê masî
 giraffe	jəˈraf, zirafa
 giraffes	jəˈraf, zirafa
 girl	gərl, keç
-girl-friend	noun, hevalê
+girl friend	noun, hevalê
 girlfriend	ˈgərlˌfrend, hevalê
 girlfriends	noun, hevalê
 give	giv, dayin
@@ -6178,12 +6178,12 @@ gnats	noun, pêşû
 go	gō, ajotin
 goal	gōl, derî
 goals	noun, derî
-go-at	noun, bizin
+go at	noun, bizin
 goat	gōt, bizin
 God	gäd, xwedê
 god	noun, xwedê
-God-child	noun, kirîbê lawik
-god-child	noun, kirîbê lawik
+God child	noun, kirîbê lawik
+god child	noun, kirîbê lawik
 godchild	ˈgädˌCHīld, kirîbê lawik
 goddess	ˈgädis, xwedê
 goddesses	ˈgädis, xwedê
@@ -6194,12 +6194,12 @@ goggles	noun, berçavk
 going	ˈgōiNG, ajotin
 gold	gōld, zêr
 golden	ˈgōldən, zêrîn
-gold-fish	noun, zêrmasî
+gold fish	noun, zêrmasî
 goldfish	ˈgōldˌfiSH, zêrmasî
 goldfishes	noun, zêrmasî
 golds	gōld, zêr
 golf	gälf,gôlf, gûlf
-golf-course	noun, meydana gulfbazî
+golf course	noun, meydana gulfbazî
 golfer	noun, gûlfbaz
 golfers	noun, gûlfbaz
 good	go͝od, baş
@@ -6207,7 +6207,7 @@ good-bye	noun, xatirgirtinî
 goodbye	ˌgo͝odˈbī, xatirgirtinî
 goodness	ˈgo͝odnis, başî
 goods	noun, malî
-good-will	noun, xêrxwazî
+good will	noun, xêrxwazî
 goodwill	ˌgo͝odˈwil, xêrxwazî
 goose	go͞os, qaz
 gooseberries	noun, tûerdk
@@ -6318,8 +6318,8 @@ greasiest	-zē,ˈgrēsē, bezî
 greasy	-zē,ˈgrēsē, bezî
 great	grāt, mezin
 greatest	adjective, mezin
-great-grandfather	noun, babapîr
-great-grandmother	noun, dadapîr
+great grandfather	noun, babapîr
+great grandmother	noun, dadapîr
 greatness	ˈgrātnəs, mezinahî
 greed	grēd, çavtengî
 greedier	ˈgrēdē, çavteng
@@ -6421,7 +6421,7 @@ guessed	verb, texmînkirin
 guesses	verb, texmînkirin
 guessing	verb, texmînkirin
 guest	gest, mêvan
-guest-house	noun, mêvanxane
+guest house	noun, mêvanxane
 guests	noun, mêvan
 guidance	ˈgīdns, birêvebirî
 guide	gīd, birêvebirin
@@ -6475,7 +6475,7 @@ hairs	noun, por
 hairstyle	ˈhe(ə)rˌstīl, porşikil
 hairy	ˈhe(ə)rē, pirçikî
 half	haf, nêvî
-half-breed	noun, tevcins
+half breed	noun, tevcins
 half-breed	noun, tevcins
 hall	hôl, salon
 halls	noun, salon
@@ -6494,7 +6494,7 @@ hams	noun, goştê hişkkirî
 hand	hand, dest
 handbook	ˈhan(d)ˌbo͝ok, destûr
 handbooks	noun, destûr
-hand-brake	noun, destfirên
+hand brake	noun, destfirên
 handbrake	ˈhan(d)ˌbrāk, destfirên
 handbrakes	noun, destfirên
 handcuffs	noun, destqeyd
@@ -6632,7 +6632,7 @@ hearing	ˈhi(ə)riNG, gûhdarî
 hearings	noun, gûhdarî
 hears	hi(ə)r, gûhdarkirin
 heart	härt, dil
-heart-attack	, krîza dil
+heart attack	, krîza dil
 heartbeat	ˈhärtˌbēt, dillêdanî
 heartburn	ˈhärtˌbərn, serdilşewatî
 heartburns	noun, serdilşewatî
@@ -6642,7 +6642,7 @@ heater	ˈhētər, germakir
 heaters	ˈhētər, germakir
 heating	ˈhētiNG, sofac
 heats	noun, germa
-heat-wave	noun, germî
+heat wave	noun, germî
 heaven	ˈhevən, ezman
 heavier	adjective, giran
 heaviest	adjective, giran
@@ -6725,7 +6725,7 @@ hiding	ˈhīdiNG, veşartin
 high	hī, bilind
 higher	adjective, bilind
 highest	adjective, bilind
-high-school	noun, dibistana bilind
+high school	noun, dibistana bilind
 highway	ˈhīˌwā, rê
 hijack	ˈhīˌjak, revandin
 hijacked	verb, revandin
@@ -6861,7 +6861,7 @@ horrifying	verb, xofdan
 horror	ˈhär-,ˈhôrər, xof
 horrors	noun, xof
 horse	hôrs, hesp
-horse-race	noun, hespbazdan
+horse race	noun, hespbazdan
 horses	noun, hesp
 horseshoe	ˈhôr(s)ˌSHo͞o, nalhesin
 horseshoes	noun, nalhesin
@@ -6895,8 +6895,8 @@ howl	houl, zûrîn
 howled	houl, zûrîn
 howling	ˈhouliNG, zûrîn
 howls	houl, zûrîn
-how-much	adverb, çend
-how-much?	adverb, çend
+how much	adverb, çend
+how much?	adverb, çend
 hug	həg, himbêzkirin
 huge	(h)yo͞oj, pirr
 huger	(h)yo͞oj, pirr
@@ -6970,8 +6970,8 @@ I	ī, ez
 ice	īs, qeşa
 iceberg	ˈīsˌbərg, girqeşa
 icebergs	noun, girqeşa
-ice-cream	noun, qeşayê xawarinê
-ice-creams	noun, qeşayê xawarinê
+ice cream	noun, qeşayê xawarinê
+ice creams	noun, qeşayê xawarinê
 ices	noun, qeşa
 icicle	ˈīsikəl, gûlîqeşa
 icicles	noun, gûlîqeşa
@@ -7386,9 +7386,9 @@ insertion	inˈsərSHən, lêzêdekirinî
 insertions	inˈsərSHən, lêzêdekirinî
 inserts	verb, lêzêdekirin
 inside	, navîn
-inside-out	, vajî
+inside out	, vajî
 insides	noun, hêla nav
-in-sight	noun, rastdîtinî
+in sight	noun, rastdîtinî
 insight	ˈinˌsīt, rastdîtinî
 insights	noun, rastdîtinî
 insignificant	ˌinsigˈnifikənt, bêqîmet
@@ -7428,7 +7428,7 @@ instant	ˈinstənt, deqakê
 instantly	ˈinstəntlē, derhal
 instants	ˈinstənt, deqakê
 instead	inˈsted, di ber
-instead-of	preposition, ji dêlava
+instead of	preposition, ji dêlava
 instinct	, hîssîtî
 instinctive	inˈstiNG(k)tiv, hîssî
 instincts	, hîssîtî
@@ -7722,9 +7722,9 @@ jeep	jēp, cîp
 jeeps	jēp, cîp
 jellies	noun, keşke
 jelly	ˈjelē, keşke
-jelly-fish	noun, tebakî nav avê
+jelly fish	noun, tebakî nav avê
 jellyfish	ˈjelēˌfiSH, tebakî nav avê
-jelly-fishes	ˈjelēˌfiSH, tebakî nav avê
+jelly fishes	ˈjelēˌfiSH, tebakî nav avê
 jellyfishes	ˈjelēˌfiSH, tebakî nav avê
 jet	jet, tîrêj
 jets	noun, tîrêj
@@ -7862,7 +7862,7 @@ kneaded	verb, sitiran
 kneading	verb, sitiran
 kneads	nēd, sitiran
 knee	nē, çog
-knee-cap	noun, serçog
+knee cap	noun, serçog
 kneecap	ˈnēˌkap, serçog
 kneecaps	ˈnēˌkap, serçog
 kneel	nēl, biçogçûn
@@ -7886,7 +7886,7 @@ knocks	näk, lêdan
 knot	nät, girêkkirin
 knots	noun, girêkkirin
 know	nō, zanîn
-know-how	noun, zanyarî
+know how	noun, zanyarî
 knowhow	noun, zanyarî
 knowing	ˈnōiNG, zanîn
 knowledge	ˈnälij, zanyarîn
@@ -7986,12 +7986,12 @@ lava	ˈlavə,ˈlävə, lawa
 lavas	ˈlavə,ˈlävə, lawa
 law	lô, qanûn
 law-abiding	, qanûnnas
-law-court	noun, dad bilind
+law court	noun, dad bilind
 lawcourt	noun, dad bilind
 lawcourts	noun, dad bilind
 lawful	ˈlôfəl, qanûnî
 lawless	ˈlôləs, bêqanûn
-law-suit	noun, doz
+law suit	noun, doz
 lawsuit	ˈlôˌso͞ot, doz
 lawsuits	noun, doz
 lawyer	ˈloi-ər,ˈlôyər, parêzkar
@@ -8000,7 +8000,7 @@ lay	lā, danîn
 layer	ˈlāər, pel
 layers	noun, pel
 laying	verb, danîn
-lay-out	noun, rêz
+lay out	noun, rêz
 layout	ˈlāˌout, rêz
 layouts	ˈlāˌout, rêz
 lays	verb, danîn
@@ -8148,10 +8148,10 @@ lies	verb, derewkirin
 lieutenant	lo͞oˈtenənt, serbaz
 lieutenants	lo͞oˈtenənt, serbaz
 life	līf, jîyan
-life-boat	noun, kaşîya rizgarî
+life boat	noun, kaşîya rizgarî
 lifeboat	ˈlīfˌbōt, kaşîya rizgarî
 lifeboats	noun, kaşîya rizgarî
-life-jacket	, berdilka ajnê
+life jacket	, berdilka ajnê
 lifeless	ˈlīflis, becan
 lift	lift, bilindkirin
 lifted	verb, bilindkirin
@@ -8223,7 +8223,7 @@ literacies	ˈlitrə-,ˈlitərəsē, kêrhatina xwendinê
 literacy	ˈlitrə-,ˈlitərəsē, kêrhatina xwendinê
 literal	ˈlitrəl,ˈlitərəl, asas
 literally	ˈlitrə-,ˈlitərəlē, bêje bêje
-literal-minded	adjective, asas
+literal minded	adjective, asas
 literature	-ˌCHo͝or,-ˌt(y)o͝or,ˈlit(ə)rəCHər, hêdane
 literatures	-ˌCHo͝or,-ˌt(y)o͝or,ˈlit(ə)rəCHər, hêdane
 litigate	ˈlitəˌgāt, dozkirin
@@ -8363,10 +8363,10 @@ luxurious	ˌləgˈZHo͝orēəs,ˌləkˈSHo͝or-, dewlemend
 luxury	ˈləgZH(ə)-,ˈləkSH(ə)rē, dewlemendî
 lying	ˈlī-iNG, derewkirin
 machine	məˈSHēn, makîne
-machine-gun	, tiving
+machine gun	, tiving
 machine-gun	noun, tiving
 machinegun	noun, tiving
-machine-guns	noun, tiving
+machine guns	noun, tiving
 machineries	məˈSHēn(ə)rē, çekgeh
 machinery	məˈSHēn(ə)rē, çekgeh
 machines	noun, makîne
@@ -8392,7 +8392,7 @@ magnified	verb, mezinkirin
 magnifies	ˈmagnəˌfī, mezinkirin
 magnify	ˈmagnəˌfī, mezinkirin
 magnifying	verb, mezinkirin
-magnifying-glass	, mezinker
+magnifying glass	, mezinker
 maid	mād, suxrekar
 mail	māl, poste
 mailbox	ˈmālˌbäks, qutîka poste
@@ -8415,7 +8415,7 @@ majority	-ˈjär-,məˈjôrətē, pirranî
 majors	noun, serbaz
 make	māk, kirin
 makes	verb, kirin
-make-up	noun, rûxemilandin
+make up	noun, rûxemilandin
 makeup	ˈmākˌəp, rûxemilandin
 makeups	noun, rûxemilandin
 male	māl, nêrî
@@ -8485,7 +8485,7 @@ markets	ˈmärkit, bazar
 marksman	ˈmärksmən, segman
 marksmen	ˈmärksmən, segman
 marriage	ˈmarij, mahrî
-marriage-certificate	, nîşana mahrî
+marriage certificate	, nîşana mahrî
 marriages	ˈmarij, mahrî
 married	ˈmarēd, zewicî
 marries	verb, zewicîn
@@ -8518,8 +8518,8 @@ mastered	verb, kanîn
 mastering	verb, kanîn
 masters	verb, kanîn
 masts	mast, beşt
-M-A-T	mat, hesîr
-M-AT	mat, hesîr
+M A T	mat, hesîr
+M AT	mat, hesîr
 mat	mat, hesîr
 match	maCH, wekhevhatin
 matched	verb, wekhevhatin
@@ -8541,13 +8541,13 @@ maximum	ˈmaksəməm, zêdetir
 maximums	ˈmaksəməm, zêdetir
 May	mā, gûlan
 may	mā, kanîn
-may-be	adverb, belkî
+may be	adverb, belkî
 maybe	ˈmābē, belkî
 mayor	ˈmāər, serokbajar
 mayors	noun, serokbajar
 Mays	verb, kanîn
 mays	verb, kanîn
-M-E	pronoun, min
+M E	pronoun, min
 me	mē, min
 meadow	ˈmedō, mêrg
 meadows	noun, mêrg
@@ -8562,7 +8562,7 @@ meaningless	ˈmēniNGlis, bêmane
 meanings	noun, mane
 means	mēnz, manedan
 meant	verb, manedan
-mean-time	adverb, dinavber
+mean time	adverb, dinavber
 meantime	ˈmēnˌtīm, dinavber
 measure	ˈmeZHər, pîvok
 measured	ˈmeZHərd, pîvan
@@ -8666,8 +8666,8 @@ metre	ˈmētər, jimarvan
 microscope	ˈmīkrəˌskōp, mîkroskûp
 microscopes	ˈmīkrəˌskōp, mîkroskûp
 middle	ˈmidl, nav
-Middle-East	, rojhilata navîn
-middle-east	noun, rojhilata navîn
+Middle East	, rojhilata navîn
+middle east	noun, rojhilata navîn
 middles	ˈmidl, nav
 midnight	ˈmidˌnīt, nîvşev
 midnights	ˈmidˌnīt, nîvşev
@@ -8702,7 +8702,7 @@ mills	verb, ardkirin
 mind	mīnd, aqil
 minds	mīnd, aqil
 mine	mīn, zemî
-mine-field	noun, erdê mînê
+mine field	noun, erdê mînê
 minefield	ˈmīnˌfēld, erdê mînê
 minefields	noun, erdê mînê
 miner	ˈmīnər, akrkerê zemî
@@ -8780,7 +8780,7 @@ moaned	verb, nalîn
 moaning	verb, nalîn
 moans	mōn, nalîn
 mobile	, hejî
-mobile-phone	noun, dûrbihîstoka destan
+mobile phone	noun, dûrbihîstoka destan
 mobilise	ˈmōbəˌlīz, seferberkirin
 mobilised	verb, seferberkirin
 mobilises	ˈmōbəˌlīz, seferberkirin
@@ -8829,7 +8829,7 @@ monastery	ˈmänəˌsterē, dêr
 Monday	-dē,ˈməndā, dûşem
 Mondays	noun, dûşem
 money	ˈmənē, dirav
-money-order	, hûkmê diravdayinê
+money order	, hûkmê diravdayinê
 moneys	noun, dirav
 monies	noun, dirav
 monitor	ˈmänətər, lê gûhdarkirin
@@ -8879,7 +8879,7 @@ mosses	noun, kefz
 most	mōst, zêdeyî
 moth	môTH, xirik
 mother	ˈməT͟Hər, dayik
-mother-in-law	noun, xwesî
+mother in law	noun, xwesî
 mother-in-law	, xwesî
 mothers	noun, dayik
 moths	noun, xirik
@@ -9170,7 +9170,7 @@ novels	noun, roman
 novelties	noun, nûhî
 novelty	ˈnävəltē, nûhî
 November	nōˈvembər,nə-, mijdar
-n-o-w	nou, niha
+n o w	nou, niha
 now	nou, niha
 nowhere	ˈnōˌ(h)we(ə)r, ne litûder
 nozzle	ˈnäzəl, qûlik
@@ -9194,7 +9194,7 @@ nurseries	ˈnərs(ə)rē, dibistana daran
 nursery	ˈnərs(ə)rē, dibistana daran
 nurses	noun, nexweşyare
 nursing	ˈnərsiNG, lênerrîn
-nursing-home	, lênerrîngeh
+nursing home	, lênerrîngeh
 nut	nət, gûz
 nutrition	n(y)o͞oˈtriSHən, kedî
 oak	ōk, dara mazî
@@ -9529,7 +9529,7 @@ paler	pāl, spî
 palest	pāl, spî
 palm	pä(l)m, kefa dest
 palms	noun, kefa dest
-palm-tree	noun, xûrmedar
+palm tree	noun, xûrmedar
 pamper	ˈpampər, delalîkirin
 pampered	verb, delalîkirin
 pampering	verb, delalîkirin
@@ -9549,7 +9549,7 @@ pantries	ˈpantrē, zexîre
 pantry	ˈpantrē, zexîre
 pants	pants, derpî
 paper	ˈpāpər, kaxez
-paper-clip	, derzîyê kaxezan
+paper clip	, derzîyê kaxezan
 paperclip	noun, derzîyê kaxezan
 papers	noun, kaxez
 parachute	ˈparəˌSHo͞ot, pereşût
@@ -9629,7 +9629,7 @@ passion	ˈpaSHən, hezî
 passionate	ˈpaSHənit, bi hez
 passions	noun, hezî
 passive	ˈpasiv, nejîr
-pass-out	verb, xewirîn
+pass out	verb, xewirîn
 passport	ˈpasˌpôrt, pesport
 passports	ˈpasˌpôrt, pesport
 password	ˈpasˌwərd, bêjenasî
@@ -9855,9 +9855,9 @@ phoniest	ˈfōnē, qelp
 phony	ˈfōnē, qelp
 photograph	ˈfōtəˌgraf, sûret
 photographs	noun, sûret
-phrase-book	noun, ferheng
+phrase book	noun, ferheng
 phrasebook	noun, ferheng
-phrase-books	noun, ferheng
+phrase books	noun, ferheng
 phrasebooks	noun, ferheng
 physical	ˈfizikəl, cûsseyî
 piano	pēˈanō,pēˈänō, pîyano
@@ -9867,9 +9867,9 @@ picked	verb, çinîn
 picking	verb, çinîn
 pickle	ˈpikəl, xiyar
 pickles	noun, xiyar
-pick-pocket	noun, diz
+pick pocket	noun, diz
 pickpocket	ˈpikˌpäkət, diz
-pick-pockets	noun, diz
+pick pockets	noun, diz
 pickpockets	noun, diz
 picks	verb, çinîn
 picture	ˈpikCHər, sûret
@@ -10039,13 +10039,13 @@ poke	pōk, têrekirin
 poked	pōk, têrekirin
 pokes	pōk, têrekirin
 poking	verb, têrekirin
-polar-bear	, hirçê cemser
+polar bear	, hirçê cemser
 pole	pōl, cemser
 poles	noun, cemser
 police	pəˈlēs, pûlis
 policeman	pəˈlēsmən, polîs
 policemen	noun, polîs
-police-station	, qereqola pûlis
+police station	, qereqola pûlis
 policewoman	pəˈlēsˌwo͝omən, polîs
 policies	noun, tektîk
 policy	ˈpäləsē, tektîk
@@ -10130,7 +10130,7 @@ postman	ˈpōstmən, postevan
 postmark	ˈpōstˌmärk, mora poste
 postmarks	noun, mora poste
 postmen	noun, postevan
-post-office	, postxane
+post office	, postxane
 postoffice	noun, postxane
 postpone	pōstˈpōn, tarloqkirin
 postponed	verb, tarloqkirin
@@ -10205,7 +10205,7 @@ precious	ˈpreSHəs, giranbiha
 precise	priˈsīs, tam
 precision	priˈsiZHən, tamî
 precisions	priˈsiZHən, tamî
-pre-condition	noun, şert
+pre condition	noun, şert
 pre-condition	noun, şert
 precondition	ˌprēkənˈdiSHən, şert
 preconditions	noun, şert
@@ -10315,15 +10315,15 @@ previous	ˈprēvēəs, pêşî
 prey	prā, xenîmet
 price	prīs, biha
 priceless	ˈprīsləs, giranbiha
-price-list	noun, rêzabihayî
+price list	noun, rêzabihayî
 pride	prīd, serbilindî
 prides	prīd, serbilindî
 priest	prēst, keşîş
 priests	noun, keşîş
 primarily	prīˈme(ə)rəlē, asasî
 primary	ˈprīm(ə)rē,ˈprīˌmerē, bingehîn
-primary-school	noun, dibistana pêşîn
-prime-minister	, serokwezîr
+primary school	noun, dibistana pêşîn
+prime minister	, serokwezîr
 primitive	ˈprimətiv, negihîştş
 prince	prins, prens
 princes	noun, prens
@@ -10390,7 +10390,7 @@ produces	verb, çêkirin
 producing	verb, çêkirin
 product	ˈprädəkt, mal
 production	prō-,prəˈdəkSHən, çêkerî
-production-line	, bandherrika karxanê
+production line	, bandherrika karxanê
 productions	prō-,prəˈdəkSHən, çêkerî
 productive	prō-,prəˈdəktiv, bikartê
 productivity	prəˌdək-,ˌprädək-,ˌprōˌdəkˈtivətē, baikarhatinî
@@ -10706,7 +10706,7 @@ raccoons	noun, gornebaş
 race	rās, şertbazdan
 raced	rās, şertbazdan
 races	verb, şertbazdan
-race-track	noun, rêgaha bazdanê
+race track	noun, rêgaha bazdanê
 racetrack	ˈrāsˌtrak, rêgaha bazdanê
 racetracks	noun, rêgaha bazdanê
 racing	ˈrāsiNG, şertbazdan
@@ -10816,7 +10816,7 @@ ratios	ˈrāSHēˌō,ˈrāSHō, têkilî
 rattle	ˈratl, şexîn
 rattled	ˈratl, şexîn
 rattles	verb, şexîn
-rattle-snake	noun, marê kor
+rattle snake	noun, marê kor
 rattlesnake	ˈratlˌsnāk, marê kor
 rattlesnakes	ˈratlˌsnāk, marê kor
 rattling	ˈratl-iNG,ˈratliNG, şexîn
@@ -10834,7 +10834,7 @@ rawest	rô, xavî
 ray	rā, tîrêj
 rays	noun, tîrêj
 razor	ˈrāzər, cilêt
-razor-blade	, rîbirr
+razor blade	, rîbirr
 razors	ˈrāzər, cilêt
 reach	rēCH, dayin
 reached	verb, dayin
@@ -10865,7 +10865,7 @@ ready	ˈredē, amade
 real	rāˈäl,ˈrē(ə)l, rast
 realer	adjective, rast
 realest	adjective, rast
-real-estate	, malgeh
+real estate	, malgeh
 realise	ˈrē(ə)ˌlīz, bicîanîn
 realises	verb, bicîanîn
 realising	verb, bicîanîn
@@ -11158,7 +11158,7 @@ rejoins	riˈjoin,rēˈjoin,ˈrē-, dîsa pêvgirêdan
 relate	riˈlāt, qalkirin
 relates	verb, qalkirin
 relating	verb, qalkirin
-relating-to	preposition, bi girêdayî
+relating to	preposition, bi girêdayî
 relation	riˈlāSHən, meriv
 relations	noun, meriv
 relationship	riˈlāSHənˌSHip, peywendî
@@ -11593,7 +11593,7 @@ riot	ˈrīət, tevxistin
 rioted	ˈrīət, tevxistin
 rioting	verb, tevxistin
 riots	verb, tevxistin
-R-I-P	rip,ˈär ˌī ˈpē, qetandin
+R I P	rip,ˈär ˌī ˈpē, qetandin
 R.I.P	rip,ˈär ˌī ˈpē, qetandin
 rip	rip, qetandin
 ripe	rīp, çêbûyî
@@ -11655,7 +11655,7 @@ roofs	ro͝of,ro͞of, banî
 room	ro͝om,ro͞om, jûre
 roomier	ˈro͝omē,ˈro͞omē, liserhev
 roomiest	ˈro͝omē,ˈro͞omē, liserhev
-room-mate	noun, hevalxanî
+room mate	noun, hevalxanî
 room-mate	noun, hevalxanî
 roommate	ˈro͝om-,ˈro͞omˌmāt, hevalxanî
 roommates	noun, hevalxanî
@@ -11701,7 +11701,7 @@ royal	ˈroiəl, qiralî
 rub	rəb, dihevdan
 rubbed	verb, dihevdan
 rubber	ˈrəbər, lastîk
-rubber-band	, banta lastîkî
+rubber band	, banta lastîkî
 rubbers	noun, lastîk
 rubbing	ˈrəbiNG, dihevdan
 rubbish	ˈrəbiSH, zibil
@@ -11777,19 +11777,19 @@ sailor	ˈsālər, deryavan
 sailors	noun, deryavan
 sails	verb, bapaçavjenîn
 saint	sānt, ezîz
-Saint-s	noun, ezîz
-saint-s	noun, ezîz
+Saint s	noun, ezîz
+saint s	noun, ezîz
 saints	noun, ezîz
 salad	ˈsaləd, xas
 salads	noun, xas
 salaries	noun, meaş
 salary	ˈsalərē, meaş
-s-ale	sāl, firotin
+s ale	sāl, firotin
 sale	sāl, firotin
 sales	noun, firotin
 salesman	ˈsālzmən, firotkar
 salesmen	noun, firotkar
-sales-woman	ˈsālzˌwo͝omən, firotkar
+sales woman	ˈsālzˌwo͝omən, firotkar
 saleswoman	ˈsālzˌwo͝omən, firotkar
 saleswomen	noun, firotkar
 saliva	səˈlīvə, xwezî
@@ -11950,13 +11950,13 @@ scrubs	verb, paqijkirin
 sculpture	ˈskəlpCHər, pût
 sculptures	noun, pût
 sea	sē, gol
-sea-food	noun, mêwê derya
+sea food	noun, mêwê derya
 seafood	ˈsēˌfo͞od, mêwê derya
 seagull	ˈsēˌgəl, teyrav
 seagulls	noun, teyrav
 seal	sēl, morkirin
 sealing	verb, morkirin
-sea-lion	, şêrê avê
+sea lion	, şêrê avê
 sea-lion	noun, şêrê avê
 seam	sēm, kevî
 seams	noun, kevî
@@ -11966,7 +11966,7 @@ searches	sərCH, gerrîn
 searching	ˈsərCHiNG, gerrîn
 seas	noun, gol
 seashore	ˈsēˌSHôr, derav
-sea-sick	ˈsēˌsik, nexweşê avî
+sea sick	ˈsēˌsik, nexweşê avî
 seasick	ˈsēˌsik, nexweşê avî
 season	ˈsēzən, demsal
 seasonal	ˈsēzənəl, demslî
@@ -12054,7 +12054,7 @@ semicircle	ˈsemēˌsərkəl,ˈsemˌī-, nîvdayre
 semicircles	noun, nîvdayre
 seminar	ˈseməˌnär, semîner
 seminars	noun, semîner
-s-end	send, şandin
+s end	send, şandin
 send	send, şandin
 sending	ˈsendiNG, şandin
 sends	verb, şandin
@@ -12140,7 +12140,7 @@ sewed	verb, dirûn
 sewer	ˈso͞oər,ˈsōər, erqa avqirrêj
 sewers	noun, erqa avqirrêj
 sewing	ˈsō-iNG, dirûn
-sewing-machine	, makîna dirûtinê
+sewing machine	, makîna dirûtinê
 sewn	verb, dirûn
 sews	sō, dirûn
 sex	seks, cinsîyet
@@ -12243,7 +12243,7 @@ shocked	verb, bizdandin
 shocking	ˈSHäkiNG, bizdane
 shocks	verb, bizdandin
 shoe	SHo͞o, pêlav
-shoe-lace	noun, benê pêlavê
+shoe lace	noun, benê pêlavê
 shoe-lace	noun, benê pêlavê
 shoelace	ˈSHo͞oˌlās, benê pêlavê
 shone	verb, biriqîn
@@ -12378,7 +12378,7 @@ sirens	ˈsīrən, dengda
 Sirs	noun, mirze
 sirs	noun, mirze
 sister	ˈsistər, xweh
-sister-in-law	noun, amojin
+sister in law	noun, amojin
 sister-in-law	, amojin
 sisters	noun, xweh
 sit	sit, rûniştin
@@ -12446,7 +12446,7 @@ sleep	slēp, xewîn
 sleepier	ˈslēpē, xewar
 sleepiest	ˈslēpē, xewar
 sleeping	verb, xewîn
-sleeping-bag	, tûrê razanê
+sleeping bag	, tûrê razanê
 sleeps	slēp, xewîn
 sleepy	ˈslēpē, xewar
 sleet	slēt, şilope
@@ -12605,17 +12605,17 @@ some	səm, hin
 somebody	ˈsəmˌbädē, kesek
 somehow	ˈsəmˌhou, bi avakî
 something	ˈsəmˌTHiNG, tiştek
-some-times	adverb, carna
+some times	adverb, carna
 sometimes	ˈsəmˌtīmz, carna
 somewhat	ˈsəmˌ(h)wät, tiştek
 somewhere	ˈsəmˌ(h)we(ə)r, li derna
 son	sən, law
 song	sôNG, stran
 songs	noun, stran
-son-in-law	noun, zava
+son in law	noun, zava
 son-in-law	noun, zava
 sons	noun, law
-so-on	adverb, nêzda
+so on	adverb, nêzda
 soon	so͞on, nêzda
 sore	sôr, birîn
 sorer	sôr, birîn
@@ -12687,7 +12687,7 @@ speechless	ˈspēCHlis, bêziman
 speed	spēd, zûbûnî
 speedboat	ˈspēdˌbōt, bota bazî
 speedboats	ˈspēdˌbōt, bota bazî
-speed-limit	, kêmîya hêlê
+speed limit	, kêmîya hêlê
 speedometer	spəˈdämitər, rêpîv
 speedometers	spəˈdämitər, rêpîv
 speeds	spēd, zûbûnî
@@ -12714,7 +12714,7 @@ spilling	verb, rijandin
 spills	spil, rijandin
 spin	spin, hûnîn
 spinach	ˈspiniCH, îspenax
-spinal-cord	, mejî
+spinal cord	, mejî
 spine	spīn, movik
 spines	noun, movik
 spinning	ˈspiniNG, hûnîn
@@ -12874,7 +12874,7 @@ starfish	ˈstärˌfiSH, avstêrk
 starfishes	noun, avstêrk
 staring	verb, ziqnerrîn
 stars	noun, stêrk
-s-t-a-r-t	stärt, destpêk
+s t a r t	stärt, destpêk
 start	stärt, destpêk
 started	verb, destpêkirin
 startle	ˈstärtl, tirsîn
@@ -12920,7 +12920,7 @@ steepest	stēp, tûj
 steer	sti(ə)r, hefsarkirin
 steered	verb, hefsarkirin
 steering	ˈsti(ə)riNG, hefsar
-steering-wheel	, hefsar
+steering wheel	, hefsar
 steers	sti(ə)r, hefsarkirin
 stem	stem, qam
 stems	noun, qam
@@ -12983,7 +12983,7 @@ stock	stäk, tedarîkkirin
 stocked	verb, tedarîkkirin
 stocking	ˈstäkiNG, tedarîkkirin
 stockings	noun, gore
-stock-market	, borse
+stock market	, borse
 stocks	verb, tedarîkkirin
 stole	stōl, dizîn
 stolen	verb, dizîn
@@ -13342,7 +13342,7 @@ suspending	verb, jikargirtin
 suspends	səˈspend, jikargirtin
 suspense	səˈspens, dexsî
 suspension	səˈspenSHən, jikargirtinî
-suspension-bridge	, pira hêlkane
+suspension bridge	, pira hêlkane
 suspensions	noun, jikargirtinî
 suspicion	səˈspiSHən, şik
 suspicions	noun, şik
@@ -13505,7 +13505,7 @@ teaches	verb, hînkirin
 teaching	ˈtēCHiNG, hînkirin
 team	tēm, kom
 teams	noun, kom
-team-work	noun, komkar
+team work	noun, komkar
 teamwork	ˈtēmˌwərk, komkar
 tear	te(ə)r,ti(ə)r, qetyan
 teared	te(ə)r,ti(ə)r, qetyan
@@ -13565,7 +13565,7 @@ tendency	ˈtendənsē, meyil
 tender	ˈtendər, tenik
 tenderer	adjective, tenik
 tenderest	ˈtendər, tenik
-tend-on	ˈtendən, jî
+tend on	ˈtendən, jî
 tendon	ˈtendən, jî
 tendons	ˈtendən, jî
 tennis	ˈtenis, tenîs
@@ -13677,8 +13677,8 @@ thermometers	THərˈmämitər, termomîter
 these	adjective, vaya
 theses	noun, nezer
 thesis	ˈTHēsis, nezer
-The-Y	T͟Hā, ew
-the-Y	T͟Hā, ew
+The Y	T͟Hā, ew
+the Y	T͟Hā, ew
 they	T͟Hā, ew
 thick	THik, zixt
 thicker	adjective, zixt
@@ -13793,7 +13793,7 @@ tightest	tīt, zixt
 time	tīm, dem
 timeless	ˈtīmlis, herdem
 times	tīmz, dem
-time-table	noun, dempîlan
+time table	noun, dempîlan
 time-table	noun, dempîlan
 timetable	ˈtīmˌtābəl, dempîlan
 timetables	ˈtīmˌtābəl, dempîlan
@@ -13824,7 +13824,7 @@ toaster	ˈtōstər, tosbirajt
 toasters	ˈtōstər, tosbirajt
 tobacco	təˈbakō, tûtin
 tobaccos	təˈbakō, tûtin
-to-day	adverb, îro
+to day	adverb, îro
 to-day	adverb, îro
 today	təˈdā, îro
 toe	tō, tilîya pê
@@ -13832,7 +13832,7 @@ toenail	ˈtōˌnāl, nenûka tilîya pê
 toes	noun, tilîya pê
 together	təˈgeT͟Hər, bihevra
 toilet	ˈtoilit, destav
-toilet-paper	, kaxeza destavê
+toilet paper	, kaxeza destavê
 toilets	noun, destav
 tolerable	ˈtälərəbəl, têkêş
 tolerance	ˈtäl(ə)rəns, bêhne
@@ -13842,7 +13842,7 @@ tolerate	ˈtäləˌrāt, bêhnfirgirtin
 tolerated	verb, bêhnfirgirtin
 tolerates	ˈtäləˌrāt, bêhnfirgirtin
 tolerating	ˈtäləˌrāt, bêhnfirgirtin
-to-let	verb, berdan
+to let	verb, berdan
 toll	tōl, xerc
 tolls	noun, xerc
 tomato	-ˈmätō,təˈmātō, bacanê sor
@@ -13865,13 +13865,13 @@ too	to͞o, hîn
 tool	to͞ol, hacet
 tools	noun, hacet
 tooth	to͞oTH, diran
-tooth-brush	noun, firça diranan
+tooth brush	noun, firça diranan
 toothbrush	ˈto͞oTHˌbrəSH, firça diranan
 toothbrushes	noun, firça diranan
-tooth-paste	noun, merhema diranan
+tooth paste	noun, merhema diranan
 toothpaste	ˈto͞oTHˌpāst, merhema diranan
 toothpastes	noun, merhema diranan
-tooth-pick	noun, kûrdan
+tooth pick	noun, kûrdan
 toothpick	ˈto͞oTHˌpik, kûrdan
 top	täp, kop
 topic	ˈtäpik, mijar
@@ -13897,7 +13897,7 @@ torture	ˈtôrCHər, îşkencekirin
 tortured	verb, îşkencekirin
 tortures	ˈtôrCHər, îşkencekirin
 torturing	verb, îşkencekirin
-to-sell	verb, firotin
+to sell	verb, firotin
 toss	täs,tôs, avêtin
 tossed	verb, avêtin
 tosses	täs,tôs, avêtin
@@ -13927,7 +13927,7 @@ tower	ˈtou(ə)r, birc
 towers	noun, birc
 towing	verb, pê xweve kişandin
 town	toun, bajar
-town-hall	noun, beledî
+town hall	noun, beledî
 tows	tō, pê xweve kişandin
 toy	toi, lîstok
 toys	noun, lîstok
@@ -13942,13 +13942,13 @@ traded	verb, bazarkirin
 trader	ˈtrādər, bazirgan
 traders	noun, bazirgan
 trades	verb, bazarkirin
-trade-show	noun, pêşangeh
+trade show	noun, pêşangeh
 trading	ˈtrādiNG, bazarkirin
 tradition	trəˈdiSHən, kevneşopî
 traditional	trəˈdiSHənl, kevneşop
 traditions	noun, kevneşopî
 traffic	ˈtrafik, tirafîk
-traffic-jam	, rêxetim
+traffic jam	, rêxetim
 tragedies	ˈtrajidē, tirajedî
 tragedy	ˈtrajidē, tirajedî
 tragic	ˈtrajik, trajîk
@@ -13965,7 +13965,7 @@ trainers	noun, fêrker
 training	ˈtrāniNG, fêrî
 trainings	ˈtrāniNG, fêrî
 trains	verb, gîhandin
-train-station	noun, îstesyon
+train station	noun, îstesyon
 traitor	ˈtrātər, xayin
 traitors	ˈtrātər, xayin
 tram	tram, trêna nav bajar
@@ -14087,7 +14087,7 @@ tubes	noun, lûle
 tubs	təb, teşta serşo
 Tuesday	-dē,ˈt(y)o͞ozdā, sêşem
 Tuesdays	noun, sêşem
-tug-boat	noun, kêşar
+tug boat	noun, kêşar
 tugboat	, kêşar
 tugboats	, kêşar
 tuition	t(y)o͞oˈiSHən, ders
@@ -14122,10 +14122,10 @@ turmoils	ˈtərˌmoil, serrakirinî
 turn	tərn, zîvirandin
 turned	verb, zîvirandin
 turning	ˈtərniNG, zîvirandin
-turning-over	verb, vacîkirin
+turning over	verb, vacîkirin
 turnip	ˈtərnəp, çelem
 turnips	noun, çelem
-turn-over	verb, vacîkirin
+turn over	verb, vacîkirin
 turns	verb, zîvirandin
 turtle	ˈtərtl, req
 turtles	noun, req
@@ -14224,7 +14224,7 @@ undertakes	verb, girtin ser xwe
 undertaking	ˈəndərˌtākiNG,ˌəndərˈtā-, kirinî
 undertakings	ˈəndərˌtākiNG,ˌəndərˈtā-, kirinî
 undertook	verb, girtin ser xwe
-under-water	adjective, binav
+under water	adjective, binav
 underwater	-ˈwätər,ˌəndərˈwôtər, binav
 underwear	ˈəndərˌwer, bincil
 undesirable	ˌəndiˈzīrəbəl, nexwestî
@@ -14401,7 +14401,7 @@ vaccinating	verb, perpûnkirin
 vaccination	noun, perpûn
 vaccine	vakˈsēn, dermanê perpûnê
 vaccines	vakˈsēn, dermanê perpûnê
-vacuum-cleaner	, qirêjkêş
+vacuum cleaner	, qirêjkêş
 vagina	vəˈjīnə, qûz
 vaginae	vəˈjīnə, qûz
 vaginas	vəˈjīnə, qûz
@@ -14725,14 +14725,14 @@ weaving	verb, tevnkirin
 web	web, tevn
 webs	noun, tevn
 wedding	ˈwediNG, dawet
-wedding-ring	, gûstîla zewacê
+wedding ring	, gûstîla zewacê
 weddings	noun, dawet
 Wednesday	-dē,ˈwenzdā, çarşem
 Wednesdays	noun, çarşem
 weed	wēd, gîhabejî
 weeds	noun, gîhabejî
 week	wēk, hefte
-week-end	noun, dawîaya heftê
+week end	noun, dawîaya heftê
 week-end	noun, dawîaya heftê
 weekend	ˈwēkˌend, dawîaya heftê
 weekends	noun, dawîaya heftê
@@ -14773,7 +14773,7 @@ wheats	noun, gennim
 wheel	(h)wēl, teker
 wheelbarrow	ˈ(h)wēlˌbarō, tolban
 wheelbarrows	ˈ(h)wēlˌbarō, tolban
-wheel-chair	noun, ereboka kûllekan
+wheel chair	noun, ereboka kûllekan
 wheelchair	ˈ(h)wēlˌCHe(ə)r, ereboka kûllekan
 wheelchairs	noun, ereboka kûllekan
 wheels	noun, teker
@@ -14870,7 +14870,7 @@ windows	noun, pace
 windpipe	ˈwindˌpīp, lûla hewê
 windpipes	noun, lûla hewê
 winds	verb, pêçan
-wind-shield	noun, cama hewê
+wind shield	noun, cama hewê
 windshield	ˈwin(d)ˌSHēld, cama hewê
 windshields	noun, cama hewê
 windy	ˈwindē,ˈwīndē, bayî

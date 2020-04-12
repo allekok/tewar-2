@@ -26,12 +26,13 @@ function search_sanitize_string ($string) {
 	       ".", "~", "`", "؟", "،", "»", "«","ـ","؛","›","‹","•","‌"];
     $ar_signs =["ِ", "ُ", "ٓ", "ٰ", "ْ", "ٌ", "ٍ", "ً", "ّ", "َ"];
     $replace = [
-	"from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ"],
-	"to"=>["ر","ل","و","ت","ز","ز","ز"],
+	"from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ","یی"],
+	"to"=>["ر","ل","و","ت","ز","ز","ز","ی"],
     ];
     $string = str_replace($extras, "", $string);
     $string = str_replace($ar_signs, "", $string);
     $string = str_replace($replace["from"], $replace["to"], $string);
+    $string = preg_replace("/\s+/u", "", $string);
     return $string;
 }
 ?>

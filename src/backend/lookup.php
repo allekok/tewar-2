@@ -4,7 +4,7 @@
  * Output: Text or JSON */
 require('library.php');
 
-$q = match_words(get_from_user(@$_REQUEST['q']));
+$q = sanitize_string(get_from_user(@$_REQUEST['q']));
 $dicts = explode(',' , get_from_user(@$_REQUEST['dicts']));
 $output_type = get_from_user(@$_REQUEST['output']);
 
@@ -16,16 +16,9 @@ $dt = kurdish_numbers(number_format($t1-$t0, 3));
 
 if($output_type == 'json')
 {
-    $new_results = [];
-    foreach($results as $dict_name => $dict) {
-	foreach($dict as $arr) {
-	    @$new_results[$dict_name][$arr[0]] = $arr[1];
-	}
-    }
-    $new_results['time'] = $dt;
-    
+    $results['time'] = $dt;
     header('Content-type:application/json; charset=utf-8');
-    echo json_encode($new_results);
+    echo json_encode($results);
 }
 else
 {
@@ -34,11 +27,9 @@ else
     {
 	if($result)
 	{
-	    foreach($result as $arr)
+	    foreach($result as $o)
 	    {
-		$w = $arr[0];
-		$meaning = $arr[1];
-		$toprint .= "$dict\t$w\t$meaning\n";
+		@$toprint .= "$dict\t{$o[0]}\t{$o[1]}\t{$o[2]}\n";
 	    }
 	}
     }
