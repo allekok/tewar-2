@@ -40,12 +40,12 @@ function get_from_user ($request)
 	$request,FILTER_SANITIZE_STRING)));
 }
 
-function lookup ($q, $dicts_name, $n=10)
+function lookup ($q, $dicts_name)
 {
     if(! ($q and $dicts_name) )
 	return NULL;
-    
-    $xq_len = mb_strlen($q) / 2;
+
+    $q_len = mb_strlen($q);
     $dict_list = dict_list();
     $results = [];
 
@@ -54,17 +54,17 @@ function lookup ($q, $dicts_name, $n=10)
 	if(! in_array($dict_name, $dict_list))
 	    continue;
 
+	$results[$dict_name] = [];
 	$dict = dict($dict_name);
 	foreach($dict as $o) {
-	    if($n == 0) break;
-	    if(mb_strpos($o[0], $q) !== FALSE or
-		(mb_strpos($q, $o[0] !== FALSE) and mb_strlen($o[0]) >= $xq_len)) {
-		$results[$dict_name][] = $o;
-		$n--;
+	    if(mb_strpos($o[1], $q) !== FALSE or
+		mb_strpos($q, $o[1] !== FALSE)) {
+		$results[$dict_name][] = [abs($o[0] - $q_len), $o[2], $o[3]];
 	    }
 	}
+	sort($results[$dict_name]);
     }
-    
+
     return $results;
 }
 
@@ -85,13 +85,7 @@ function dict ($dict_name)
     $dict_path = dict_path($dict_name);
     $f = fopen($dict_path, 'r');
     while(! feof($f))
-    {
-	$line = explode("\t", trim(fgets($f)));
-	if(@$line[2])
-	{
-	    $dict[] = [$line[0],$line[1],$line[2]];
-	}
-    }
+	$dict[] = explode("\t", trim(fgets($f)));
     fclose($f);
     
     return $dict;

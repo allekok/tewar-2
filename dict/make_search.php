@@ -11,8 +11,9 @@ foreach($dicts as $dict) {
 	if($dict == "kawe")
 	    $line[1] = str_replace("،جدول نشانەهای اختصاری",
 				   "", $line[1]);
-	$string .= search_sanitize_string($line[0]) .
-		   "\t{$line[0]}\t{$line[1]}\n";
+	$sss = search_sanitize_string($line[0]);
+	$sss_len = mb_strlen($sss);
+	$string .= "$sss_len\t$sss\t{$line[0]}\t{$line[1]}\n";
     }
     fclose($f);
     file_put_contents("{$dict_path}_search", trim($string));
