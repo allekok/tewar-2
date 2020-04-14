@@ -72,8 +72,8 @@ function lookup ()
 
     for(const i in dicts)
     {
-	const request = `q=${q}&dicts=${dicts[i]}&output=json`;
-	postUrl(url, request, function(response) {
+	const request = `q=${q}&dicts=${dicts[i]}&output=json&n=5`;
+	getUrl(`${url}?${request}`, function(response) {
 	    response = isJSON(response);
 	    if(! response) return;
 	    

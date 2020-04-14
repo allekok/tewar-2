@@ -4,9 +4,12 @@
  * Output: Text or JSON */
 require('library.php');
 
-$limit = 10;
+$limit = @filter_var(@$_REQUEST['n'], FILTER_VALIDATE_INT) ?
+	 $_REQUEST['n'] : 5;
 $q = sanitize_string(get_from_user(@$_REQUEST['q']));
-$dicts = explode(',' , get_from_user(@$_REQUEST['dicts']));
+$recv_dicts = get_from_user(@$_REQUEST['dicts']);
+if($recv_dicts == "all") $dicts = dict_list();
+else $dicts = explode(',' , $recv_dicts);
 $output_type = get_from_user(@$_REQUEST['output']);
 
 $t0 = microtime(true);
