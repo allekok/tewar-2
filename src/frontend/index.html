@@ -13,12 +13,14 @@
 	</header>
 	<main id="main">
 	    <form method="post" action="src/backend/lookup.php" id="frm">
-		<input type="text" name="q" id="q" placeholder="وشە ..." />
+		<div style="display:flex">
+		    <input type="text" name="q" id="q" placeholder="وشە ..." />
+		    <button type="submit">گەڕان</button>
+		</div>
 		<!-- < If Javascript was not enabled -->
 		<input type="hidden" name="dicts" value="henbane-borine,xal,kawe">
 		<!-- /> -->
 		<div id="dicts"></div>
-		<button type="submit">گەڕان</button>
 	    </form>
 	    <div id="result"></div>
 	</main>
