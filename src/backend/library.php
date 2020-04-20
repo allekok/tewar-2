@@ -58,7 +58,7 @@ function lookup ($q, $dicts_name)
 	$dict = dict($dict_name);
 	foreach($dict as $o) {
 	    if(mb_strpos($o[1], $q) !== FALSE or
-		mb_strpos($q, $o[1] !== FALSE)) {
+		mb_strpos($q, $o[1]) !== FALSE) {
 		$results[$dict_name][] = [abs($o[0] - $q_len), $o[2], $o[3]];
 	    }
 	}
