@@ -13,37 +13,32 @@ else $dicts = explode(',' , $recv_dicts);
 $output_type = get_from_user(@$_REQUEST['output']);
 
 $t0 = microtime(true);
-$results = lookup($q, $dicts);
+$results = lookup($q, $dicts, $limit);
 $t1 = microtime(true);
 
 $dt = kurdish_numbers(number_format($t1-$t0, 3));
 
 if($output_type == 'json')
 {
-    foreach($results as $dict_name => $dict) {
-	$results[$dict_name] = array_slice($dict, 0, $limit);
-    }
-    $results['time'] = $dt;
-    header('Content-type:application/json; charset=utf-8');
-    echo json_encode($results);
+	$results = slice_results($results, $limit);
+	$results['time'] = $dt;
+	header('Content-type:application/json; charset=utf-8');
+	echo json_encode($results);
 }
 else
 {
-    $toprint = 'گەڕان ' . $dt . "چرکەی خایاند.\n";
-    foreach($results as $dict=>$result)
-    {
-	$n = $limit;
-	if($result)
-	{
-	    foreach($result as $o)
-	    {
-		if($n-- == 0) break;
-		@$toprint .= "$dict\t{$o[0]}\t{$o[1]}\t{$o[2]}\n";
-	    }
+	$toprint = 'گەڕان ' . $dt . "چرکەی خایاند.\n";
+	if($results) {
+		foreach($results as $rank=>$arr)
+		{
+			foreach($arr as $o) {
+				if($limit-- == 0) break 2;
+				@$toprint .= "{$o[0]}\t{$rank}\t{$o[1]}\t{$o[2]}\n";
+			}
+		}
 	}
-    }
-    
-    header('Content-type:text/plain; charset=utf-8');
-    echo trim($toprint);
+	
+	header('Content-type:text/plain; charset=utf-8');
+	echo trim($toprint);
 }
 ?>

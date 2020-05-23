@@ -8,94 +8,112 @@ $extras = ["&#34;","&#39;","&laquo;","&raquo;","&rsaquo;",
 	   ".", "~", "`", "؟", "،", "»", "«","ـ","؛","›","‹","•","‌"];
 $ar_signs =["ِ", "ُ", "ٓ", "ٰ", "ْ", "ٌ", "ٍ", "ً", "ّ", "َ"];
 $replace = [
-    "from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ","یی"],
-    "to"=>["ر","ل","و","ت","ز","ز","ز","ی"],
+	"from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ","یی"],
+	"to"=>["ر","ل","و","ت","ز","ز","ز","ی"],
 ];
 
 function dict_path ($dict_name)
 {
-    return DICT_PATH . "/$dict_name/{$dict_name}.txt_search";
+	return DICT_PATH . "/$dict_name/{$dict_name}.txt_search";
 }
 
 function dict_list ()
 {
-    $dicts = [];
-    
-    $d = opendir(DICT_PATH);
-    while(false !== ($o = readdir($d)))
-    {
-	if(in_array($o, ['.','..','dictio']))
-	    continue;
-	if(is_dir(DICT_PATH . "/$o"))
-	    $dicts[] = $o;
-    }
-    closedir($d);
-    
-    return $dicts;
+	$dicts = [];
+	
+	$d = opendir(DICT_PATH);
+	while(false !== ($o = readdir($d)))
+	{
+		if(in_array($o, ['.','..','dictio']))
+			continue;
+		if(is_dir(DICT_PATH . "/$o"))
+			$dicts[] = $o;
+	}
+	closedir($d);
+	
+	return $dicts;
 }
 
 function get_from_user ($request)
 {
-    return @ strtolower (trim (filter_var (
-	$request,FILTER_SANITIZE_STRING)));
+	return @ strtolower (trim (filter_var (
+		$request,FILTER_SANITIZE_STRING)));
 }
 
-function lookup ($q, $dicts_name)
+function lookup ($q, $dicts_name, $limit)
 {
-    if(! ($q and $dicts_name) )
-	return NULL;
+	if(! ($q and $dicts_name) )
+		return NULL;
 
-    $q_len = mb_strlen($q);
-    $dict_list = dict_list();
-    $results = [];
+	$q_len = mb_strlen($q);
+	$dict_list = dict_list();
+	$results = array_fill(0, 100, []);
 
-    foreach($dicts_name as $dict_name)
-    {
-	if(! in_array($dict_name, $dict_list))
-	    continue;
+	foreach($dicts_name as $dict_name)
+	{
+		if(! in_array($dict_name, $dict_list))
+			continue;
+		
+		$dict_path = dict_path($dict_name);
+		$f = fopen($dict_path, 'r');
+		while(! feof($f)) {
+			$o = explode("\t", fgets($f));
+			if($o[0] > $q_len) {
+				$hs = $o[1]; $ndl = $q;
+			}
+			else {
+				$hs = $q; $ndl = $o[1];
+			}
 
-	$results[$dict_name] = [];
-	$dict = dict($dict_name);
-	foreach($dict as $o) {
-	    if(mb_strpos($o[1], $q) !== FALSE or
-		mb_strpos($q, $o[1]) !== FALSE) {
-		$results[$dict_name][] = [abs($o[0] - $q_len), $o[2], $o[3]];
-	    }
+			if(strpos($hs, $ndl) !== FALSE)
+				$results[abs($o[0] - $q_len)][] = [
+					$dict_name, $o[2], trim($o[3])];
+		}
+		fclose($f);
 	}
-	sort($results[$dict_name]);
-    }
-
-    return $results;
+	
+	return $results;
 }
 
 function sanitize_string ($string)
 {
-    global $extras, $ar_signs, $replace;
-    $string = str_replace($extras, "", $string);
-    $string = str_replace($ar_signs, "", $string);
-    $string = str_replace($replace["from"], $replace["to"], $string);
-    $string = preg_replace("/\s+/u", "", $string);
-    return $string;
+	global $extras, $ar_signs, $replace;
+	$string = str_replace($extras, "", $string);
+	$string = str_replace($ar_signs, "", $string);
+	$string = str_replace($replace["from"], $replace["to"], $string);
+	$string = preg_replace("/\s+/u", "", $string);
+	return $string;
 }
 
 function dict ($dict_name)
 {
-    $dict = [];
-    
-    $dict_path = dict_path($dict_name);
-    $f = fopen($dict_path, 'r');
-    while(! feof($f))
-	$dict[] = explode("\t", trim(fgets($f)));
-    fclose($f);
-    
-    return $dict;
+	$dict = [];
+	
+	$dict_path = dict_path($dict_name);
+	$f = fopen($dict_path, 'r');
+	while(! feof($f))
+		$dict[] = explode("\t", trim(fgets($f)));
+	fclose($f);
+	
+	return $dict;
 }
 
 function kurdish_numbers ($string)
 {
-    return str_replace(
-	['1','2','3','4','5','6','7','8','9','0'],
-	['١','٢','٣','٤','٥','٦','٧','٨','٩','٠'],
-	$string);
+	return str_replace(
+		['1','2','3','4','5','6','7','8','9','0'],
+		['١','٢','٣','٤','٥','٦','٧','٨','٩','٠'],
+		$string);
+}
+
+function slice_results ($results, $limit) {
+	$new_results = [];
+	foreach($results as $arr) {
+		foreach($arr as $o) {
+			if($limit-- == 0) break 2;
+			$new_results[] = $o;
+		}
+	}
+	return $new_results;
 }
 ?>
