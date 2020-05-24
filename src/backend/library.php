@@ -57,6 +57,7 @@ function lookup ($q, $dicts_name, $limit)
 		$dict_path = dict_path($dict_name);
 		$f = fopen($dict_path, 'r');
 		while(! feof($f)) {
+			if($limit == 0) break;
 			$o = explode("\t", fgets($f));
 			if($o[0] > $q_len) {
 				$hs = $o[1]; $ndl = $q;
@@ -65,9 +66,12 @@ function lookup ($q, $dicts_name, $limit)
 				$hs = $q; $ndl = $o[1];
 			}
 
-			if(strpos($hs, $ndl) !== FALSE)
-				$results[abs($o[0] - $q_len)][] = [
+			if(strpos($hs, $ndl) !== FALSE) {
+				$rank = abs($o[0] - $q_len);
+				if($rank == 0) $limit--;
+				$results[$rank][] = [
 					$dict_name, $o[2], trim($o[3])];
+			}
 		}
 		fclose($f);
 	}
