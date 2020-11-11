@@ -14,7 +14,7 @@ $replace = [
 
 function dict_path ($dict_name)
 {
-	return DICT_PATH . "/$dict_name/{$dict_name}.txt_search";
+	return DICT_PATH . "/$dict_name/{$dict_name}.txt";
 }
 
 function dict_list ()
@@ -55,10 +55,14 @@ function lookup ($q, $dicts_name, $limit)
 			continue;
 		
 		$dict_path = dict_path($dict_name);
-		$f = fopen($dict_path, 'r');
-		while(! feof($f)) {
+		$search_path = $dict_path . "_search";
+		
+		$f = fopen($dict_path, "r");
+		$s = fopen($search_path, "r");
+		
+		while(! feof($s)) {
 			if($limit == 0) break;
-			$o = explode("\t", fgets($f));
+			$o = explode("\t", fgets($s));
 			if($o[0] > $q_len) {
 				$hs = $o[1]; $ndl = $q;
 			}
@@ -69,10 +73,13 @@ function lookup ($q, $dicts_name, $limit)
 			if(strpos($hs, $ndl) !== FALSE) {
 				$rank = abs($o[0] - $q_len);
 				if($rank == 0) $limit--;
+				fseek($f, intval($o[2]));
+				$w = explode("\t", trim(fgets($f)));
 				$results[$rank][] = [
-					$dict_name, $o[2], trim($o[3])];
+					$dict_name, $w[0], $w[1]];
 			}
 		}
+		fclose($s);
 		fclose($f);
 	}
 	
