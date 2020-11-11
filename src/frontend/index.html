@@ -1,38 +1,42 @@
 <!DOCTYPE html>
 <html dir="rtl" lang="ckb">
-    <head>
-	<title>تەوار - وەشانی ٢</title>
-	<meta charset="utf-8" >
-	<meta name="viewport" content="width=device-width, initial-scale=1" >
-	{SERVICE_WORKER}
-	{STYLE}
-    </head>
-    <body>
-	<header>
-	    <h1>تەوار <small>وەشانی ٢</small></h1>
-	</header>
-	<main id="main">
-	    <form method="post" action="src/backend/lookup.php" id="frm">
-		<div style="display:flex">
-		    <input type="text" name="q" id="q" placeholder="وشە ..." />
-		    <button type="submit">گەڕان</button>
-		</div>
-		<!-- < If Javascript was not enabled -->
-		<input type="hidden" name="dicts" value="henbane-borine,xal,kawe">
-		<!-- /> -->
-		<div id="dicts"></div>
-	    </form>
-	    <div id="result"></div>
-	</main>
-	<footer>
-	    <a href="dev.html" title="کۆدەکانی تەوار">
-		کۆد
-	    </a>
-	    -
-	    <a href="https://allekok.ir/" title="شێعری شاعیرانی کورد">
-		ئاڵەکۆک
-	    </a>
-	</footer>
-	{SCRIPT}
-    </body>
+	<head>
+		<title>تەوار - وەشانی ٢</title>
+		<meta charset="utf-8" >
+		<meta name="viewport" content="width=device-width, initial-scale=1" >
+		{SERVICE_WORKER}
+		{STYLE}
+	</head>
+	<body>
+		<header>
+			<h1>تەوار <small>وەشانی ٢</small></h1>
+		</header>
+		<main id="main">
+			<form method="post" action="src/backend/lookup.php" id="frm">
+				<div style="display:flex">
+					<input type="text" name="q" id="q" placeholder="وشە ..." />
+					<button type="submit">گەڕان</button>
+				</div>
+				<!-- < If Javascript was not enabled -->
+				<input type="hidden" name="dicts" value="henbane-borine,xal,kawe">
+				<!-- /> -->
+				<div id="dicts"></div>
+			</form>
+			<div id="result"></div>
+		</main>
+		<footer>
+			<a href="https://allekok.github.io/donate/">
+				یارمەتیی ماڵی
+			</a>
+			-
+			<a href="dev.html" title="کۆدەکانی تەوار">
+				کۆد
+			</a>
+			-
+			<a href="https://allekok.github.io/">
+				بەرنامەکانی ئاڵەکۆک
+			</a>
+		</footer>
+		{SCRIPT}
+	</body>
 </html>
