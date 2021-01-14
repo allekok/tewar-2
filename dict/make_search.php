@@ -25,16 +25,31 @@ function search_sanitize_string ($string) {
 		   "&lsaquo;","&bull;","&nbsp;","?", "!", "#", "&",
 		   "*", "(", ")", "-","+", "=", "_","[", "]", "{",
 		   "}","<",">","\\","/", "|", "'","\"", ";", ":", ",",
-		   ".", "~", "`", "؟", "،", "»", "«","ـ","؛","›","‹","•","‌"];
+		   ".", "~", "`", "؟", "،", "»", "«","ـ","؛","›","‹","•"];
 	$ar_signs =["ِ", "ُ", "ٓ", "ٰ", "ْ", "ٌ", "ٍ", "ً", "ّ", "َ"];
 	$replace = [
-		"from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ","یی"],
-		"to"=>["ر","ل","و","ت","ز","ز","ز","ی"],
+		"to" => [
+			"ە","ک","ی","ه",
+			"ز","س","ت","ز","ر",
+			"ل","ز","س","ت","ە","ا",
+			"و","ی","ه","ی","ی","و",
+		],
+		"from" => [
+			"ه‌","ك","ي","ھ",
+			"ض","ص","ط","ظ","ڕ",
+			"ڵ","ذ","ث","ة","أ","آ",
+			"ڤ","ى","ھ","ۍ","ې","ۊ",
+		],
+
 	];
+	$string = strtolower($string);
 	$string = str_replace($extras, "", $string);
 	$string = str_replace($ar_signs, "", $string);
 	$string = str_replace($replace["from"], $replace["to"], $string);
+	$string = str_replace("‌", "", $string);
 	$string = preg_replace("/\s+/u", "", $string);
+	foreach($replace["to"] as $tl)
+		if($tl)	$string = preg_replace("/$tl{2,}/ui", $tl, $string);
 	return $string;
 }
 ?>

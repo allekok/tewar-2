@@ -5,13 +5,31 @@ $extras = ["&#34;","&#39;","&laquo;","&raquo;","&rsaquo;",
 	   "&lsaquo;","&bull;","&nbsp;","?", "!", "#", "&",
 	   "*", "(", ")", "-","+", "=", "_","[", "]", "{",
 	   "}","<",">","\\","/", "|", "'","\"", ";", ":", ",",
-	   ".", "~", "`", "؟", "،", "»", "«","ـ","؛","›","‹","•","‌"];
+	   ".", "~", "`", "؟", "،", "»", "«","ـ","؛","›","‹","•"];
 $ar_signs =["ِ", "ُ", "ٓ", "ٰ", "ْ", "ٌ", "ٍ", "ً", "ّ", "َ"];
 $replace = [
-	"from"=>["ڕ","ڵ","وو","ط","ض","ذ","ظ","یی"],
-	"to"=>["ر","ل","و","ت","ز","ز","ز","ی"],
+	"to" => [
+		"ە","ک","ی","ه",
+		"ز","س","ت","ز","ر",
+		"ل","ز","س","ت","ە","ا",
+		"و","ی","ه","ی","ی","و",
+	],
+	"from" => [
+		"ه‌","ك","ي","ھ",
+		"ض","ص","ط","ظ","ڕ",
+		"ڵ","ذ","ث","ة","أ","آ",
+		"ڤ","ى","ھ","ۍ","ې","ۊ",
+	],
+
 ];
 
+$dicts_list = dict_list();
+$dicts_fp = [];
+foreach($dicts_list as $dict_name) {
+	$dicts_fp[$dict_name] = fopen(dict_path($dict_name), "r");
+}
+
+/* Functions */
 function dict_path ($dict_name)
 {
 	return DICT_PATH . "/$dict_name/{$dict_name}.txt";
@@ -54,10 +72,7 @@ function lookup ($q, $dicts_name, $limit)
 		if(! in_array($dict_name, $dict_list))
 			continue;
 		
-		$dict_path = dict_path($dict_name);
-		$search_path = $dict_path . "_search";
-		
-		$f = fopen($dict_path, "r");
+		$search_path = dict_path($dict_name) . "_search";
 		$s = fopen($search_path, "r");
 		
 		while(! feof($s)) {
@@ -73,14 +88,10 @@ function lookup ($q, $dicts_name, $limit)
 			if(strpos($hs, $ndl) !== FALSE) {
 				$rank = abs($o[0] - $q_len);
 				if($rank == 0) $limit--;
-				fseek($f, intval($o[2]));
-				$w = explode("\t", trim(fgets($f)));
-				$results[$rank][] = [
-					$dict_name, $w[0], $w[1]];
+				$results[$rank][] = [$dict_name, trim($o[2])];
 			}
 		}
 		fclose($s);
-		fclose($f);
 	}
 	
 	return $results;
@@ -92,7 +103,11 @@ function sanitize_string ($string)
 	$string = str_replace($extras, "", $string);
 	$string = str_replace($ar_signs, "", $string);
 	$string = str_replace($replace["from"], $replace["to"], $string);
+	$string = str_replace("‌", "", $string);
 	$string = preg_replace("/\s+/u", "", $string);
+	$string = strtolower($string);
+	foreach($replace["to"] as $tl)
+		if($tl)	$string = preg_replace("/$tl{2,}/ui", $tl, $string);
 	return $string;
 }
 
@@ -122,9 +137,17 @@ function slice_results ($results, $limit) {
 	foreach($results as $arr) {
 		foreach($arr as $o) {
 			if($limit-- == 0) break 2;
-			$new_results[] = $o;
+			$new_results[] = fetch_word($o[0], $o[1]);
 		}
 	}
 	return $new_results;
+}
+
+function fetch_word ($dict_name, $offset) {
+	global $dicts_fp;
+	$f = $dicts_fp[$dict_name];
+	fseek($f, $offset);
+	$line = explode("\t", trim(fgets($f)));
+	return [$dict_name, $line[0], $line[1]];
 }
 ?>

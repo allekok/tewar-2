@@ -6,7 +6,9 @@ require('library.php');
 
 $limit = @filter_var(@$_REQUEST['n'], FILTER_VALIDATE_INT) ?
 	 $_REQUEST['n'] : 5;
+
 $q = sanitize_string(get_from_user(@$_REQUEST['q']));
+
 $recv_dicts = get_from_user(@$_REQUEST['dicts']);
 if($recv_dicts == "all") $dicts = dict_list();
 else $dicts = explode(',' , $recv_dicts);
@@ -33,6 +35,7 @@ else
 		{
 			foreach($arr as $o) {
 				if($limit-- == 0) break 2;
+				$o = fetch_word($o[0], $o[1]);
 				@$toprint .= "{$o[0]}\t{$rank}\t{$o[1]}\t{$o[2]}\n";
 			}
 		}
