@@ -16,6 +16,7 @@ const dicts_selected = dicts_selected_storage ||
       [ 'henbane-borine' , 'xal' ];
 const dicts_el_id = 'dicts';
 const q_el_id = 'q';
+const n_el_id = 'n';
 const result_el_id = 'result';
 const form_el_id = 'frm';
 
@@ -47,10 +48,12 @@ function postUrl (url, request, callback)
 function lookup ()
 {
 	const q_el = document.getElementById(q_el_id);
+	const n_el = document.getElementById(n_el_id);
 	const dicts = get_selected_dicts();
 	const dicts_str = dicts.join(",");
 	const result_el = document.getElementById(result_el_id);
 	const q = encodeURIComponent(q_el.value.trim());
+	const n = encodeURIComponent(enNum(n_el.value.trim()))
 	const url = 'src/backend/lookup.php';
 	const loading = '<div class="loading"></div>';
 
@@ -71,7 +74,7 @@ function lookup ()
 	// Save selected dicts
 	save_selected_dicts(dicts);
 
-	const request = `q=${q}&dicts=${dicts_str}&output=json&n=10`;
+	const request = `q=${q}&dicts=${dicts_str}&output=json&n=${n}`;
 	getUrl(`${url}?${request}`, function(response) {
 		response = isJSON(response);
 		if(! response) return;
@@ -184,12 +187,23 @@ function process_url ()
 	lookup();
 }
 
+function convertNums (str, f, t) {
+	const assoc = {
+		en: ["0","1","2","3","4","5","6","7","8","9"],
+		fa: ["۰","۱","۲","۳","۴","۵","۶","۷","۸","۹"],
+		ck: ["٠","١","٢","٣","٤","٥","٦","٧","٨","٩"]}
+	for(const i in assoc.en)
+		str = str.replace(new RegExp(assoc[f][i],"g"),
+				  assoc[t][i])
+	return str
+}
+
 function ckNum (s) {
-	const en = ['0','1','2','3','4','5','6','7','8','9'],
-	      ck = ['٠','١','٢','٣','٤','٥','٦','٧','٨','٩'];
-	for (const i in en)
-		s = s.replace(new RegExp(en[i]), ck[i]);
-	return s;
+	return convertNums(s, 'en', 'ck');
+}
+
+function enNum (s) {
+	return convertNums(convertNums(s, 'fa', 'en'), 'ck', 'en');
 }
 
 /* Events */
