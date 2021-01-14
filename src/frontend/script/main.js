@@ -1,19 +1,20 @@
 /* Constants */
 const dicts = {
-	'henbane-borine': 'هەنبانەبۆرینە (کوردیی ناوەندی-فارسی)',
 	xal: 'خاڵ (کوردیی ناوەندی-کوردیی ناوەندی)',
-	kawe: 'کاوە (فارسی-کوردیی ناوەندی)',
-	bashur: 'باشوور (کوردیی گۆرانی-فارسی)',
 	kameran: 'کامێران (کوردیی کورمانجی-کوردیی کورمانجی)',
-	e2k: 'e2k (ئینگلیزی-کوردیی کورمانجی)',
+	'henbane-borine': 'هەنبانەبۆرینە (کوردیی ناوەندی-فارسی)',
+	bashur: 'باشوور (کوردیی گۆرانی-فارسی)',
+	kawe: 'کاوە (فارسی-کوردیی ناوەندی)',
+	govend: 'گۆڤەند و زنار (فارسی-کوردیی ناوەندی)',
 	zkurd: 'zkurd (ئینگلیزی-کوردیی ناوەندی)',
+	e2k: 'e2k (ئینگلیزی-کوردیی کورمانجی)',
 	// dictio: 'دیکتیۆ (ئینگلیزی-کوردیی ناوەندی)',
 };
 const dicts_selected_storage_name = 'dicts_selected';
 const dicts_selected_storage = isJSON(
 	localStorage.getItem(dicts_selected_storage_name));
 const dicts_selected = dicts_selected_storage ||
-      [ 'henbane-borine' , 'xal' ];
+      [ 'xal' , 'kameran' , 'henbane-borine' ];
 const dicts_el_id = 'dicts';
 const q_el_id = 'q';
 const n_el_id = 'n';
