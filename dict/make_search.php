@@ -9,9 +9,6 @@ foreach($dicts as $dict) {
 	while(!feof($f)) {
 		$line_pos = ftell($f);
 		$line = explode("\t", trim(fgets($f)));
-		if($dict == "kawe")
-			$line[1] = str_replace("،جدول نشانەهای اختصاری",
-					       "", $line[1]);
 		$sss = search_sanitize_string($line[0]);
 		$sss_len = mb_strlen($sss);
 		$string .= "$sss_len\t$sss\t$line_pos\n";
@@ -33,12 +30,26 @@ function search_sanitize_string ($string) {
 			"ز","س","ت","ز","ر",
 			"ل","ز","س","ت","ە","ا",
 			"و","ی","ه","ی","ی","و",
+
+			"q","w","e","r","t","y","Y",
+			"u","U","i","I","o","O","p",
+			"P","a","A","s","S","d","D",
+			"f","F","g","G","h","j","J",
+			"k","l","L","z","Z","x","X",
+			"c","C","v","V","b","n","m",
 		],
 		"from" => [
 			"ه‌","ك","ي","ھ",
 			"ض","ص","ط","ظ","ڕ",
 			"ڵ","ذ","ث","ة","أ","آ",
 			"ڤ","ى","ھ","ۍ","ې","ۊ",
+			
+			"ق","و","ە","ر","ت","ی","ێ",
+			"ئ","ء","ح","ع","ۆ","ؤ","پ",
+			"ث","ا","آ","س","ش","د","ذ",
+			"ف","إ","گ","غ","ه","ژ","أ",
+			"ک","ل","ڵ","ز","ض","خ","ص",
+			"ج","چ","ڤ","ظ","ب","ن","م",
 		],
 
 	];
@@ -49,7 +60,7 @@ function search_sanitize_string ($string) {
 	$string = str_replace("‌", "", $string);
 	$string = preg_replace("/\s+/u", "", $string);
 	foreach($replace["to"] as $tl)
-		if($tl)	$string = preg_replace("/$tl{2,}/ui", $tl, $string);
+	if($tl)	$string = preg_replace("/$tl{2,}/ui", $tl, $string);
 	return $string;
 }
 ?>

@@ -53,7 +53,7 @@
 2	ah	3797
 3	aha	3902
 5	aheng	4023
-10	ahenggêran	4116
+9	ahengêran	4116
 10	ahengkirin	4215
 8	ahengvan	4290
 3	aho	4440
@@ -119,7 +119,7 @@
 3	ane	9510
 4	ango	9610
 4	anko	9739
-4	anne	9757
+3	ane	9757
 4	anîn	9858
 9	anînziman	9983
 2	ap	10112
@@ -137,7 +137,7 @@
 8	aqilmend	11320
 9	aqilsivik	11338
 12	aqilsivikbûn	11369
-14	aqilsivikkirin	11482
+13	aqilsivikirin	11482
 10	aqilsivikî	11571
 2	ar	11595
 2	ar	11737
@@ -467,7 +467,7 @@
 8	balnekês	35406
 9	balnekêsî	35470
 6	balolk	35528
-11	balolkkirin	35599
+10	balolkirin	35599
 6	balyoz	35730
 10	balyozxane	35776
 9	balçermok	35829
@@ -668,7 +668,7 @@
 7	bendbûn	52681
 5	bende	52725
 6	bendek	52744
-11	bendekkirin	53008
+10	bendekirin	53008
 8	bendeman	53068
 6	bender	53160
 8	bendewar	53201
@@ -900,8 +900,8 @@
 11	berpêkdanan	69742
 6	berpês	69854
 11	berpêskirin	69879
-5	berra	69919
-6	berran	69968
+4	bera	69919
+5	beran	69968
 6	bersev	70047
 6	bersiv	70090
 9	bersivdan	70173
@@ -1053,7 +1053,7 @@
 8	beyanbûn	79975
 10	beyankirin	80044
 9	beyankirî	80123
-9	beyanname	80156
+8	beyaname	80156
 6	beyanî	80217
 5	beyar	80234
 8	beyarbûn	80349
@@ -1143,7 +1143,7 @@
 9	bilindayî	88312
 9	bilindbêj	88333
 9	bilindbûn	88356
-9	bilinddek	88458
+8	bilindek	88458
 11	bilindkirin	88624
 10	bilindkirî	88805
 7	bilindî	88837
@@ -1297,7 +1297,7 @@
 4	birc	98012
 10	bircabelek	98076
 5	birek	98135
-10	birekkirin	98250
+9	birekirin	98250
 6	birgeh	98313
 4	birh	98466
 5	birik	98482
@@ -1415,7 +1415,7 @@
 5	biçûk	107614
 8	biçûkatî	107704
 8	biçûkbûn	107820
-10	biçûkkirin	107913
+9	biçûkirin	107913
 4	blêç	108088
 4	blûr	108114
 7	blûrvan	108128
@@ -1559,7 +1559,7 @@
 10	bêhinvedan	117308
 8	bêhinçik	117411
 11	bêhinçikbûn	117486
-13	bêhinçikkirin	117625
+12	bêhinçikirin	117625
 9	bêhinçikî	117747
 15	bêhinînanûbirin	117814
 7	bêhnefs	117903
@@ -1581,7 +1581,7 @@
 5	bêjok	119537
 6	bêjtin	119588
 6	bêjînk	119694
-11	bêjînkkirin	119920
+10	bêjînkirin	119920
 5	bêkar	120030
 6	bêkarî	120059
 5	bêkes	120117
@@ -1659,8 +1659,8 @@
 8	bêçareyî	124352
 5	bêçav	124399
 5	bêçek	124413
-10	bêçekkirin	124449
-9	bêçekkirî	124511
+9	bêçekirin	124449
+8	bêçekirî	124511
 6	bêçeng	124553
 11	bêçengkirin	124596
 4	bêçî	124679
@@ -1833,7 +1833,7 @@
 8	cehzeran	135890
 4	cejn	135966
 7	cejnane	136048
-8	cejnname	136098
+7	cejname	136098
 14	cejnpîrozkirin	136186
 10	cejnpîrozî	136290
 7	celadet	136351
@@ -2144,8 +2144,8 @@
 8	danisgeh	158439
 9	dankujtin	158470
 6	danmêr	158613
-8	dannasîn	158670
-13	dannivîsandin	158794
+7	danasîn	158670
+12	danivîsandin	158794
 6	danpey	158896
 8	danpêdan	158964
 6	danqut	159079
@@ -2293,8 +2293,8 @@
 9	dehmenpîs	169802
 5	dehol	169849
 8	deholjen	169862
-10	dehollêdan	169881
-13	dehollêxistin	169921
+9	deholêdan	169881
+12	deholêxistin	169921
 8	deholvan	169967
 5	delak	169986
 9	delakxane	170058
@@ -2476,14 +2476,14 @@
 7	derûber	183134
 7	derûdor	183189
 5	derûn	183248
-8	derûnnas	183321
-9	derûnnasî	183380
+7	derûnas	183321
+8	derûnasî	183380
 8	derûnzan	183445
 9	derûnzanî	183466
 6	derûnî	183491
 8	desnivêj	183594
 10	desravêtin	183746
-11	desstxistin	183805
+10	destxistin	183805
 4	dest	183889
 4	dest	184170
 7	destajo	184228
@@ -2603,7 +2603,7 @@
 9	devgirtin	193217
 5	devik	193431
 5	devik	193502
-8	devikkês	193534
+7	devikês	193534
 9	devilxwîn	193634
 11	devjihevçûn	193667
 11	devjêberdan	193718
@@ -2754,7 +2754,7 @@
 9	dilhistin	203229
 8	dilhêlan	203250
 5	dilik	203425
-10	dilikkirin	203555
+9	dilikirin	203555
 6	diljar	203627
 7	diljarî	203652
 8	dilkevir	203681
@@ -2768,7 +2768,7 @@
 12	dilkuzrandin	204022
 9	dilkuzrîn	204115
 6	dilkês	204296
-14	dillihevkevtin	204321
+13	dilihevkevtin	204321
 6	dilman	204390
 8	dilmezin	204547
 9	dilmezinî	204599
@@ -2996,7 +2996,7 @@
 6	dubare	220144
 11	dubarekirin	220241
 10	dubarekirî	220400
-10	dubarrebûn	220461
+9	dubarebûn	220461
 6	dubend	220559
 7	dubendî	220590
 5	duber	220646
@@ -3361,8 +3361,8 @@
 3	ern	242162
 4	erno	242179
 5	ernok	242218
-3	err	242230
-5	errik	242244
+2	er	242230
+4	erik	242244
 6	erwend	242260
 5	erzan	242306
 8	erzanbûn	242419
@@ -3534,7 +3534,7 @@
 9	fermandan	253254
 9	fermandar	253324
 11	fermankirin	253412
-10	fermanname	253435
+9	fermaname	253435
 5	fermo	253502
 5	fermî	253608
 6	fermîn	253751
@@ -3563,7 +3563,7 @@
 6	fincan	255365
 4	find	255447
 4	find	255484
-8	finddank	255534
+7	findank	255534
 6	findiq	255631
 8	fiqerosk	255646
 3	fir	255673
@@ -3608,7 +3608,7 @@
 9	firosyarî	258458
 7	firotin	258496
 6	firsik	258514
-11	firsikkirin	258646
+10	firsikirin	258646
 10	firsikteng	258739
 8	firskbûn	258797
 8	firsteng	258921
@@ -3950,7 +3950,7 @@
 5	gilok	283759
 5	gilol	283858
 6	gilolk	283939
-11	gilolkkirin	283953
+10	gilolkirin	283953
 5	gilor	284044
 8	gilorbûn	284085
 10	gilorkirin	284166
@@ -4174,11 +4174,11 @@
 3	gov	304379
 3	gov	304453
 5	govan	304497
-9	govanname	304552
+8	govaname	304552
 6	govanî	304599
 6	govend	304634
-11	govenddanan	304711
-11	govenddanîn	304812
+10	govendanan	304711
+10	govendanîn	304812
 12	govendgirtin	304853
 9	govendgêr	304936
 11	govendgêran	304971
@@ -4246,7 +4246,7 @@
 5	gulik	310522
 8	gulistan	310537
 8	gulkelem	310596
-5	gulle	310616
+4	gule	310616
 5	gulor	310628
 6	gulpik	310643
 6	gulsen	310686
@@ -4359,7 +4359,7 @@
 5	gêzik	318628
 8	gêzikdan	318856
 8	gêzikdan	318956
-10	gêzikkirin	319053
+9	gêzikirin	319053
 10	gêzirandin	319109
 3	gêç	319403
 8	gêçkirin	319502
@@ -4535,7 +4535,7 @@
 7	helkeft	333734
 9	helkeftin	333800
 9	helkehelk	333820
-14	helkehelkkirin	333913
+13	helkehelkirin	333913
 8	helketin	334017
 9	helkevtin	334037
 8	helkirin	334113
@@ -4587,7 +4587,7 @@
 6	hendef	337742
 4	hene	337775
 5	henek	337786
-10	henekkirin	337814
+9	henekirin	337814
 7	hengame	337934
 6	hengav	337959
 6	hengil	337994
@@ -4615,8 +4615,8 @@
 6	herkes	340987
 5	hermê	341073
 5	hermî	341096
-5	herro	341119
-6	herroj	341166
+4	hero	341119
+5	heroj	341166
 6	hertim	341236
 7	hertist	341259
 7	herweha	341313
@@ -4768,7 +4768,7 @@
 7	hezaran	353208
 8	hezkirin	353254
 5	heçik	353335
-3	hhk	353428
+2	hk	353428
 7	hicmetî	353462
 10	hicmetîbûn	353532
 12	hicmetîkirin	353614
@@ -4793,7 +4793,7 @@
 9	hilgirtin	356120
 10	hilingivîn	356408
 9	hilkehilk	356816
-14	hilkehilkkirin	356900
+13	hilkehilkirin	356900
 8	hilkirin	357003
 11	hilkisandin	357065
 8	hilkisîn	357128
@@ -4846,7 +4846,7 @@
 6	hindik	361416
 9	hindikahî	361480
 9	hindikbûn	361545
-11	hindikkirin	361594
+10	hindikirin	361594
 9	hindistan	361632
 6	hindur	361661
 5	hindî	361713
@@ -4887,9 +4887,9 @@
 7	hiskbûn	364724
 9	hiskesalî	364792
 8	hiskirin	364860
-9	hiskkirin	364896
+8	hiskirin	364896
 5	hiskî	364958
-8	hissivik	364975
+7	hisivik	364975
 7	histewr	365003
 6	histin	365025
 8	histukur	365127
@@ -4974,8 +4974,8 @@
 6	hêkanê	371114
 7	hêkerûn	371312
 6	hêkeyî	371387
-6	hêkker	371462
-8	hêkkirin	371515
+5	hêker	371462
+7	hêkirin	371515
 4	hêkî	371594
 3	hêl	371622
 3	hêl	371698
@@ -4994,7 +4994,7 @@
 6	hêncet	372629
 5	hênik	372645
 8	hênikbûn	372668
-10	hênikkirin	372691
+9	hênikirin	372691
 3	hêr	372716
 5	hêran	372760
 8	hêrandin	373023
@@ -5133,8 +5133,8 @@
 4	jeng	381864
 6	jengar	381944
 7	jengdar	382020
-10	jenggirtin	382048
-9	jenggirtî	382086
+9	jengirtin	382048
+8	jengirtî	382086
 5	jengî	382135
 8	jengîbûn	382172
 10	jengîkirin	382195
@@ -5190,7 +5190,7 @@
 5	jixwe	386700
 5	jiyan	386753
 8	jiyandin	387169
-9	jiyanname	387241
+8	jiyaname	387241
 2	jo	387367
 4	jojî	387380
 3	jor	387398
@@ -5217,7 +5217,7 @@
 12	jêkcudakirin	389581
 12	jêkdûrkevtin	389648
 7	jêkirin	389732
-8	jêkkirin	389828
+7	jêkirin	389828
 8	jêkvebûn	389910
 10	jêkvekirin	390032
 10	jêkçûnepas	390089
@@ -5521,8 +5521,8 @@
 7	kelisîn	411801
 8	keliztin	411860
 4	kelk	411883
-5	kelle	411900
-8	kellereq	411948
+4	kele	411900
+7	kelereq	411948
 8	kelojtin	412009
 7	kelotin	412418
 6	kelpik	412441
@@ -5636,7 +5636,7 @@
 7	keskbûn	422330
 8	keskerûn	422432
 8	keskesor	422534
-9	keskkirin	422597
+8	keskirin	422597
 8	keskûsor	422663
 5	kesme	422706
 6	kesnas	422799
@@ -5865,7 +5865,7 @@
 3	kok	439572
 8	kokakola	439644
 8	kokandin	439696
-8	kokkirin	440018
+7	kokirin	440018
 4	kokî	440070
 3	kol	440101
 3	kol	440209
@@ -6325,8 +6325,8 @@
 10	leskerkêsî	474621
 10	leskerxane	474710
 7	leskerî	474736
-6	lessax	474763
-7	lessaxî	474838
+5	lesax	474763
+6	lesaxî	474838
 3	let	474907
 6	letbûn	474930
 8	letkirin	474966
@@ -6414,7 +6414,7 @@
 8	lêkevtin	482785
 8	lêkgeran	482841
 7	lêkirin	482884
-9	lêkkevtin	482934
+8	lêkevtin	482934
 7	lêkolîn	482967
 10	lêkolînvan	483150
 10	lêkvekirin	483229
@@ -6443,7 +6443,7 @@
 5	lêçûn	484649
 5	lîfik	484753
 8	lîfikdan	484820
-10	lîfikkirin	484903
+9	lîfikirin	484903
 5	lîhaz	484998
 5	lîkav	485167
 5	lîlîk	485207
@@ -6522,7 +6522,7 @@
 13	malwêrankirin	490427
 9	malwêranî	490579
 8	malxirab	490614
-11	malxirabbûn	490634
+10	malxirabûn	490634
 13	malxirabkirin	490662
 9	malxirabî	490692
 6	malxwê	490716
@@ -6607,7 +6607,7 @@
 3	mej	497313
 4	mejî	497328
 9	mejîhisik	497506
-5	mekke	497605
+4	meke	497605
 6	mekîne	497662
 4	mela	497821
 6	melarî	497855
@@ -6680,7 +6680,7 @@
 6	mertal	502222
 5	mesaj	502236
 4	mesk	502262
-9	meskkiyan	502423
+8	meskiyan	502423
 4	mesq	502511
 7	mesqdan	502614
 8	mesqdayî	502659
@@ -7095,10 +7095,10 @@
 4	mîna	531752
 5	mînak	531772
 5	mînak	531833
-10	mînakkirin	531894
-10	mînakkirin	531932
-10	mînakkêsan	531970
-10	mînakkêsan	532059
+9	mînakirin	531894
+9	mînakirin	531932
+9	mînakêsan	531970
+9	mînakêsan	532059
 3	mîr	532148
 3	mîr	532264
 5	mîran	532380
@@ -7350,7 +7350,7 @@
 8	nehemhev	551149
 7	nehemîn	551186
 8	nehevijî	551202
-8	nehhizar	551228
+7	nehizar	551228
 5	nehik	551252
 9	nehmilyon	551310
 6	nehsed	551338
@@ -7477,7 +7477,7 @@
 7	nikarîn	560395
 5	nikil	560538
 10	nikilandin	560563
-10	nikillêdan	560685
+9	nikilêdan	560685
 9	nikrandin	560709
 8	nimandin	561007
 5	nimre	561385
@@ -7546,7 +7546,7 @@
 6	nizniz	567217
 11	niznizkirin	567305
 8	niznizok	567359
-10	nnotmilyon	567399
+9	notmilyon	567399
 2	no	567429
 4	nobe	567498
 7	nobedar	567560
@@ -7598,7 +7598,7 @@
 4	nêzî	570599
 5	nêzîk	570617
 8	nêzîkbûn	570631
-10	nêzîkkirin	570701
+9	nêzîkirin	570701
 6	nêzîkî	570774
 5	nêçîr	570841
 10	nêçîrkirin	570957
@@ -7750,7 +7750,7 @@
 6	pakijî	579749
 8	pakistan	579809
 9	pakistanî	579838
-8	pakkirin	579898
+7	pakirin	579898
 4	pakî	579985
 6	pakîja	580000
 6	pakîte	580021
@@ -7975,9 +7975,9 @@
 10	pejirandin	596391
 4	pejî	596832
 3	pek	596879
-9	pekkevtin	596975
-8	pekkevtî	597041
-5	pekko	597076
+8	pekevtin	596975
+7	pekevtî	597041
+4	peko	597076
 3	pel	597099
 3	pel	597232
 4	pela	597267
@@ -8030,7 +8030,7 @@
 6	pencer	601207
 8	pencesêr	601289
 6	pencik	601376
-11	pencikkirin	601389
+10	pencikirin	601389
 8	pencirîk	601412
 4	pend	601478
 4	pend	601762
@@ -8074,7 +8074,7 @@
 4	pend	608835
 4	pend	609074
 4	pend	609208
-7	penddan	609241
+6	pendan	609241
 7	pendvan	609262
 5	pendî	609281
 4	peng	609310
@@ -8266,7 +8266,7 @@
 6	peyîsk	626846
 3	pez	626885
 6	pezare	626941
-7	pezkkuj	626974
+6	pezkuj	626974
 7	pezkûvî	626997
 8	pezpezok	627021
 6	pezvan	627057
@@ -8310,7 +8310,7 @@
 12	pilepilkirin	629881
 6	piling	629921
 8	pilkirin	629998
-8	pillêdan	630172
+7	pilêdan	630172
 5	pilox	630283
 7	pilîtan	630355
 7	pilîtik	630386
@@ -8389,7 +8389,7 @@
 7	pisepis	636394
 12	pisepiskirin	636417
 5	pisik	636449
-10	pisikkirin	636643
+9	pisikirin	636643
 9	piskandin	636693
 7	piskanê	636714
 9	piskavtin	636795
@@ -8509,7 +8509,7 @@
 8	piçûkatî	645416
 8	piçûkbûn	645498
 9	piçûkirin	645523
-3	pkk	645549
+2	pk	645549
 7	plaster	645647
 3	pol	645747
 4	pola	645802
@@ -8561,7 +8561,7 @@
 10	pêkgihorîn	650256
 8	pêkhatin	650442
 7	pêkirin	650508
-8	pêkkirin	650564
+7	pêkirin	650564
 5	pêkol	650661
 10	pêkolkirin	650695
 7	pêkotir	650767
@@ -8577,7 +8577,7 @@
 6	pêlwes	651349
 11	pêlwesandin	651372
 8	pêmirîsk	651435
-13	pêmirîskkirin	651664
+12	pêmirîskirin	651664
 5	pêmîz	651884
 10	pêmîzkirin	651908
 3	pên	651971
@@ -8737,8 +8737,8 @@
 3	pîk	663030
 3	pîk	663244
 5	pîkeb	663325
-8	pîkkirin	663352
-8	pîkkirin	663459
+7	pîkirin	663352
+7	pîkirin	663459
 3	pîl	663562
 3	pîl	663727
 4	pîla	663788
@@ -8946,7 +8946,7 @@
 7	qiçeqiç	679220
 5	qiçên	679288
 5	qodîk	679330
-10	qodîkkirin	679449
+9	qodîkirin	679449
 3	qol	679534
 6	qolinc	679550
 5	qolçî	679708
@@ -9307,7 +9307,7 @@
 8	rihetbûn	708178
 10	rihetkirin	708223
 6	rihetî	708271
-10	rihhavêtin	708312
+9	rihavêtin	708312
 5	rihik	708478
 11	rihkurkirin	708592
 5	rihse	708641
@@ -9364,7 +9364,7 @@
 3	riq	712835
 5	risan	712856
 4	risk	713072
-9	riskkirin	713113
+8	riskirin	713113
 4	rism	713179
 10	rismgirtin	713198
 9	rismkirin	713251
@@ -9432,10 +9432,10 @@
 3	rol	717269
 8	roldîtin	717373
 4	role	717469
-9	rollîztin	717481
+8	rolîztin	717481
 3	rom	717503
 5	roman	717551
-10	romannivîs	717597
+9	romanivîs	717597
 8	romanvan	717637
 7	romanya	717678
 4	romî	717703
@@ -9506,7 +9506,7 @@
 6	rêkanî	721809
 6	rêkanî	721863
 7	rêkirin	721927
-9	rêkkevtin	722031
+8	rêkevtin	722031
 6	rêklam	722112
 6	rêkxer	722182
 8	rêkxiraw	722215
@@ -9515,7 +9515,7 @@
 5	rêkês	722448
 7	rêkûpêk	722534
 10	rêkûpêkbûn	722612
-12	rêkûpêkkirin	722682
+11	rêkûpêkirin	722682
 8	rêkûpêkî	722753
 3	rêl	722786
 10	rêlêgirtin	722828
@@ -9938,11 +9938,11 @@
 7	serpola	751576
 6	serpos	751622
 9	serpêhatî	751679
-7	serrast	751701
-10	serrastbûn	751745
-12	serrastkirin	751783
-10	serrêkirin	751833
-5	serrû	751906
+6	serast	751701
+9	serastbûn	751745
+11	serastkirin	751783
+9	serêkirin	751833
+4	serû	751906
 6	sersal	751973
 6	sersax	752033
 7	sersaxî	752089
@@ -10026,7 +10026,7 @@
 9	seyrkirin	757177
 6	seyvan	757209
 5	seçme	757246
-4	shhk	757279
+3	shk	757279
 3	shk	757320
 6	sibahî	757392
 5	sibat	757504
@@ -10141,7 +10141,7 @@
 5	sivik	765451
 8	sivikatî	765484
 8	sivikbûn	765521
-10	sivikkirin	765626
+9	sivikirin	765626
 6	sivikî	765704
 6	sivnik	765723
 6	sivore	765738
@@ -10171,7 +10171,7 @@
 6	solker	767718
 5	solîn	767783
 4	sond	767913
-7	sonddan	768028
+6	sondan	768028
 11	sondxwandin	768052
 10	sondxwarin	768075
 4	sopa	768217
@@ -10312,7 +10312,7 @@
 3	sîh	777650
 5	sîhem	777674
 7	sîhemîn	777702
-8	sîhhizar	777720
+7	sîhizar	777720
 9	sîhmilyon	777746
 3	sîk	777779
 5	sîkav	777817
@@ -10361,8 +10361,8 @@
 6	sîçbar	780843
 11	sîçbarkirin	780871
 3	sûd	780964
-6	sûddar	780975
-8	sûddîtin	780992
+5	sûdar	780975
+7	sûdîtin	780992
 11	sûdwergitin	781056
 3	sûk	781099
 3	sûl	781136
@@ -10515,7 +10515,7 @@
 5	teble	791956
 4	tebo	792007
 7	tedarek	792080
-12	tedarekkirin	792109
+11	tedarekirin	792109
 5	tefso	792257
 5	tefsî	792275
 6	tegere	792376
@@ -10597,7 +10597,7 @@
 5	tengî	798130
 5	tenik	798216
 8	tenikbûn	798302
-10	tenikkirin	798345
+9	tenikirin	798345
 6	tenikî	798421
 6	tenist	798461
 5	tenya	798485
@@ -10953,12 +10953,12 @@
 11	têkwerkirin	825430
 6	têkçûn	825553
 10	têkûpêkdan	825647
-12	têkûpêkkirin	825683
+11	têkûpêkirin	825683
 3	têl	825716
 7	têlbend	825773
 12	têlbendkirin	825837
 7	têldirk	825902
-12	têldirkkirin	825965
+11	têldirkirin	825965
 4	têle	825991
 10	têlefizyon	826040
 7	têlefon	826116
@@ -11009,7 +11009,7 @@
 8	tîjkirin	829726
 3	tîk	829956
 6	tîkbûn	830061
-8	tîkkirin	830136
+7	tîkirin	830136
 3	tîm	830174
 6	tîmsah	830186
 3	tîn	830293
@@ -11216,7 +11216,7 @@
 6	vêgavê	845136
 6	vêkdan	845151
 8	vêkevtin	845190
-9	vêkkevtin	845274
+8	vêkevtin	845274
 4	vêra	845367
 4	vêrê	845406
 5	vêsan	845468
@@ -11327,7 +11327,7 @@
 8	westiyan	853916
 9	westiyayî	853933
 6	westîk	853954
-11	westîkkirin	854009
+10	westîkirin	854009
 5	wexer	854130
 10	wexerkirin	854161
 4	wext	854230
@@ -11480,7 +11480,7 @@
 10	xebatkirin	865081
 5	xeber	865206
 10	xebergotin	865220
-8	xeberres	865260
+7	xeberes	865260
 7	xebitîn	865334
 6	xebxeb	865683
 3	xec	865753
@@ -11611,7 +11611,7 @@
 8	xinzirîn	876722
 3	xir	877097
 5	xirab	877201
-8	xirabbûn	877272
+7	xirabûn	877272
 10	xirabkirin	877346
 6	xirabî	877436
 8	xirandin	877490
@@ -11620,7 +11620,7 @@
 5	xirek	877980
 5	xirek	878040
 8	xirekbûn	878070
-10	xirekkirin	878140
+9	xirekirin	878140
 9	xirepisan	878214
 7	xirexir	878267
 12	xirexirkirin	878283
@@ -11751,7 +11751,7 @@
 4	xusk	886681
 6	xuskok	886700
 9	xuskokbûn	886728
-11	xuskokkirin	886762
+10	xuskokirin	886762
 8	xusîmank	886800
 6	xusînk	886835
 4	xuwa	886860
@@ -11894,7 +11894,7 @@
 4	xîsk	895545
 4	xîsk	895572
 9	xîskandin	895615
-12	xîskkisandin	895898
+11	xîskisandin	895898
 6	xîskîn	895935
 5	xîsên	895978
 5	xîvet	896077
@@ -11902,7 +11902,7 @@
 3	xîz	896171
 5	xîzik	896260
 5	xîzik	896294
-13	xîzikkisandin	896348
+12	xîzikisandin	896348
 8	xîzkirin	896376
 3	xîç	896445
 6	xîçbûn	896495
@@ -11979,7 +11979,7 @@
 9	yekgirtin	899943
 8	yekgirtî	899990
 8	yekhizar	900011
-8	yekkirin	900044
+7	yekirin	900044
 7	yekreng	900077
 5	yekrû	900131
 6	yeksan	900163
@@ -12068,7 +12068,7 @@
 6	zazakî	906108
 3	zeb	906152
 6	zebale	906179
-6	zebbûn	906322
+5	zebûn	906322
 7	zebelah	906343
 5	zeber	906469
 9	zeberdest	906510
@@ -12107,7 +12107,7 @@
 7	zengene	908892
 6	zengil	908916
 11	zengilandin	908938
-11	zengillêdan	909255
+10	zengilêdan	909255
 8	zengilok	909281
 10	zengilxane	909313
 8	zengulîk	909363
@@ -12251,7 +12251,7 @@
 7	zirxweh	917999
 8	zirxîtik	918051
 6	ziryan	918076
-12	zirziqanndin	918413
+11	zirziqandin	918413
 8	zirziqîn	918711
 6	zirzir	918793
 11	zirzirkirin	918838
@@ -12373,7 +12373,7 @@
 8	zîqzîqok	926793
 5	zîrek	926835
 8	zîrekbûn	926902
-10	zîrekkirin	927040
+9	zîrekirin	927040
 6	zîrekî	927139
 7	zîrevan	927167
 5	zîtik	927222
@@ -12414,7 +12414,7 @@
 10	Çadirvedan	929414
 3	Çak	929596
 6	Çakbûn	929656
-8	Çakkirin	929737
+7	Çakirin	929737
 5	Çakuç	929831
 10	Çakuçlêdan	929934
 5	Çakêt	930089
@@ -12488,9 +12488,9 @@
 10	Çarparebûn	934933
 12	Çarparekirin	934981
 5	Çarpê	935035
-6	Çarrex	935122
-5	Çarrê	935140
-8	Çarrîyan	935160
+5	Çarex	935122
+4	Çarê	935140
+7	Çarîyan	935160
 6	Çarsed	935218
 7	Çarsemb	935239
 6	Çaryek	935302
@@ -12570,8 +12570,8 @@
 11	Çavtirsandî	941227
 6	Çavtêr	941285
 7	Çavtêrî	941339
-10	Çavvekirin	941371
-9	Çavvekirî	941473
+9	Çavekirin	941371
+8	Çavekirî	941473
 10	Çavxwînbûn	941603
 6	Çavzil	941684
 9	Çavzilbûn	941732
@@ -12716,7 +12716,7 @@
 8	Çikandin	951683
 6	Çikbûn	951705
 8	Çikdanan	951807
-8	Çikkirin	951871
+7	Çikirin	951871
 9	Çiklandin	951966
 6	Çiklêt	952312
 5	Çiklî	952377
@@ -13022,18 +13022,18 @@
 6	Îskdan	974164
 5	Îsker	974202
 7	Îskirin	974241
-8	Îskkirin	974283
+7	Îskirin	974283
 8	Îskvedan	974306
 5	Îslam	974329
 6	Îslamî	974382
 6	Îsqilk	974473
-11	Îsqilkkirin	974570
+10	Îsqilkirin	974570
 7	Îsrayîl	974627
 8	Îsrayîlî	974661
 6	Îstgeh	974728
 7	Îstîkan	974744
-7	Îsîkkês	974778
-9	Îsîkkêsan	974860
+6	Îsîkês	974778
+8	Îsîkêsan	974860
 4	Îtir	974917
 4	Îvan	974938
 5	Îzgeh	974959
