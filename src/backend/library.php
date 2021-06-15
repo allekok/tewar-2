@@ -114,12 +114,12 @@ function lookup ($q, $dicts_name, $limit)
 function sanitize_string ($string)
 {
 	global $extras, $ar_signs, $replace;
+	$string = strtolower($string);
 	$string = str_replace($extras, "", $string);
 	$string = str_replace($ar_signs, "", $string);
 	$string = str_replace($replace["from"], $replace["to"], $string);
 	$string = str_replace("‌", "", $string);
 	$string = preg_replace("/\s+/u", "", $string);
-	$string = strtolower($string);
 	foreach($replace["to"] as $tl)
 	if($tl)	$string = preg_replace("/$tl{2,}/ui", $tl, $string);
 	return $string;
