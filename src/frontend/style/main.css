@@ -1,32 +1,27 @@
 {FONT_DECL}
-*
-{
+* {
 	box-sizing:border-box;
 	font-family:{FONT}, Arial;
 	font-size:inherit;
 }
-body
-{
+body {
 	margin:1em;
 }
-a
-{
+a {
 	color:#00e;
+	text-decoration:none;
 }
-#main
-{
+#main {
 	max-width:1000px;
 	margin:auto;
 }
-input[type=text],button
-{
+input[type=text],button {
 	appearance:none;
 	-webkit-appearance:none;
 	transition:all .2s ease;
 	-webkit-transition:all .2s ease;
 }
-input[type=text]
-{
+input[type=text] {
 	width:100%;
 	display:block;
 	padding:1em;
@@ -37,105 +32,82 @@ input[type=text]
 	border-radius:0 1em 1em 0;
 }
 #n {
+	padding:1em .5em;
 	border-radius:0;
 	text-align:center;
 	direction:ltr;
-	width:25%;
-	min-width:4.75em;
+	width:4em;
 }
-input[type=text]:focus
-{
+input[type=text]:focus {
 	border-color:#00e;
 }
-button
-{
+button {
 	display:block;
 	outline:0;
 	border-radius:1em 0 0 1em;
-	padding:1em 1.5em;
+	padding:1em;
 	background:none;
 	border:2px solid;
 }
-button:hover
-{
+button:hover {
 	border-color:#00e;
 }
-@keyframes loading
-{
+@keyframes loading {
 	0% {width:3em}
 	25% {width:5em}
 	65% {width:2em}
 	80% {width:5em}
 	100% {width:3em}
 }
-.loading
-{
+.loading {
 	height:2px;
 	animation:loading 1s ease infinite;
 	display:block;
 	margin:1em auto;
 	background:#00e;
 }
-#dicts div, #frm p
-{
+#dicts div, #frm p {
 	font-size:.85em;
 }
-#dicts input[type=checkbox]
-{
+#dicts input[type=checkbox] {
 	margin:0;
 }
-#dicts label
-{
+#dicts label {
 	padding-right:.5em;
 }
-#dicts
-{
+#dicts {
 	padding:1em 0 0;
 }
-header h1
-{
-	cursor:pointer;
-	display:inline-block;
-	margin:.3em 0;
-}
-header
-{
-	font-size:2em;
-	max-width:1000px;
+header {
 	margin:auto;
 }
-header small
-{
-	font-size:.5em;
-	vertical-align:top;
+header h1 {
+	cursor:pointer;
+	margin:0 0 0 .5em;
+	font-size:1.5em;
 }
-code
-{
+code {
 	display:block;
 	direction:ltr;
 	font-family:{FONT}, Monospace;
 	border-left:2px solid;
 	padding:.5em 0 .5em 1em;
 }
-footer
-{
+footer {
 	padding:1em;
 	text-align:left;
 	max-width:1000px;
 	margin:auto;
 	font-size:.9em;
 }
-#result h2
-{
+#result h2 {
 	color:#00E;
 	font-weight:normal;
 }
-#result h2 small
-{
+#result h2 small {
 	font-size:.7em;
 }
-#result p
-{
+#result p {
 	padding-right:1.5em;
 }
 .dict-tag {
@@ -144,4 +116,8 @@ footer
 	font-size: .9em;
 	margin-right: 1em;
 	display: inline-block;
+}
+.ltr {
+	direction:ltr;
+	display:inline-block;
 }
