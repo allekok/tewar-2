@@ -184,7 +184,7 @@ function isEng(s) {
 }
 
 function ltr(s) {
-	return isEng(s) ? `<span class='ltr'>${s}</span>` : s
+	return s && isEng(s) ? `<span class='ltr'>${s}</span>` : s
 }
 
 /* Events */
