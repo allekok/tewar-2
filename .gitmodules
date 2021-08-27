@@ -1,9 +1,6 @@
 [submodule "dict/zkurd/dict"]
 	path = dict/zkurd/dict
 	url = https://github.com/dolanskurd/zkurd.git
-[submodule "dict/dictio/dict"]
-	path = dict/dictio/dict
-	url = https://github.com/dolanskurd/Dictio.git
 [submodule "dict/xal/dict"]
 	path = dict/xal/dict
 	url = https://github.com/dolanskurd/Xal.git
