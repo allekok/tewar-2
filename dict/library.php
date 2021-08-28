@@ -1,71 +1,47 @@
 <?php
-const meta_file_name = 'meta.txt';
+const meta_file_name = "meta.txt";
 
-function number_of_lines ($string)
-{
-    $line_num = 1;
-    $char_num = 0;
-    while(false !== ($c = substr($string, $char_num, 1)))
-    {
-	if($c == "\n") $line_num++;
-	$char_num++;
-    }
-    return $line_num;
+function number_of_lines($str) {
+	$line_num = 1;
+	for($i = 0; @$str[$i] !== ""; $i++)
+		if($str[$i] == "\n")
+			$line_num++;
+	return $line_num;
 }
-
-function sanitize_string ($string)
-{
-    $string = str_replace(["\r\n", ' ',],
-			  [  "\n", ' '],
-			  $string);
-    $string = trim($string);
-    return $string;
+function sanitize_string($str) {
+	$str = str_replace(["\r\n", " ",], ["\n", " "], $str);
+	return trim($str);
 }
-
-function mdict_unpack ($path)
-{
-    exec("mdict -x '$path'");
+function mdict_unpack($path) {
+	exec("mdict -x '$path'");
 }
-
-function meta ($string, $dict_path)
-{
-    $meta = "ئەژماری دێڕەکان\t" .
-	    kurdish_numbers(number_format(number_of_lines($string))) .
-	    "\nگەورەیی فەرهەنگ\t" .
-	    kurdish_numbers(number_format(filesize($dict_path)/1e6, 1)) .
-	    'MB';
-    
-    file_put_contents(meta_file_name, $meta);
+function meta($str, $dict_path) {
+	$meta = "ئەژماری دێڕەکان\t" .
+		ck_nums(number_format(number_of_lines($str))) .
+		"\nگەورەیی فەرهەنگ\t" .
+		ck_nums(number_format(filesize($dict_path)/1e6, 1)) .
+		"MB";
+	file_put_contents(meta_file_name, $meta);
 }
-
-function dict_list ()
-{
-    require('../config.php');
-    if(! file_exists(DICT_PATH))
-	die('func: dict_list, `DICT_PATH` not found.');
-    $d = opendir(DICT_PATH);
-    
-    $dicts = [];    
-    while(false !== ($o = readdir($d)))
-    {
-	if(in_array($o, ['.','..']))
-	    continue;
-	if(is_dir($o))
-	    $dicts[] = $o;
-    }
-    return $dicts;
+function dict_list() {
+	require("../config.php");
+	$dicts = [];
+	$d = opendir(DICT_PATH);
+	while(($o = readdir($d)) !== false) {
+		if(in_array($o, [".", ".."]))
+			continue;
+		if(is_dir($o))
+			$dicts[] = $o;
+	}
+	return $dicts;
 }
-
-function kurdish_numbers ($input)
-{
-    return str_replace(['1','2','3','4','5','6','7','8','9','0'],
-		       ['١','٢','٣','٤','٥','٦','٧','٨','٩','٠'],
-		       $input);
+function ck_nums($input) {
+	return str_replace(["1","2","3","4","5","6","7","8","9","0"],
+			   ["١","٢","٣","٤","٥","٦","٧","٨","٩","٠"],
+			   $input);
 }
-
-function save ($where, $string)
-{
-    file_put_contents($where, $string);
-    meta($string, $where);
+function save($where, $str) {
+	file_put_contents($where, $str);
+	meta($str, $where);
 }
 ?>
