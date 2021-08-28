@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html dir="rtl" lang="ckb">
 	<head>
-		<title>تەوار - وەشانی ٢</title>
+		<title>
+			تەوار - وەشانی ٢
+		</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width">
 		{SERVICE_WORKER}
@@ -15,14 +17,20 @@
 					<header>
 						<h1>تەوار</h1>
 					</header>
-					<input type="text" name="q" id="q"
+					<input type="text" id="q"
+					       name="q"
 					       placeholder="وشە ...">
-					<input type="text" name="n" id="n"
-					       placeholder="ئەژمار" value="١٠">
-					<button type="submit">گەڕان</button>
+					<input type="text" id="n"
+					       name="n"
+					       placeholder="ئەژمار"
+					       value="١٠">
+					<button type="submit">
+						گەڕان
+					</button>
 				</div>
-				<!-- < If Javascript was not enabled -->
-				<input type="hidden" name="dicts" value="all">
+				<!-- <If Javascript was not enabled -->
+				<input type="hidden" name="dicts"
+				       value="all">
 				<!-- /> -->
 				<div id="dicts"></div>
 			</form>

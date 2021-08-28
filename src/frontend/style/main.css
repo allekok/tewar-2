@@ -1,4 +1,11 @@
 {FONT_DECL}
+@keyframes loading {
+	0% {width:3em}
+	25% {width:5em}
+	65% {width:2em}
+	80% {width:5em}
+	100% {width:3em}
+}
 * {
 	box-sizing:border-box;
 	font-family:{FONT}, Arial;
@@ -51,13 +58,6 @@ button {
 }
 button:hover {
 	border-color:#00e;
-}
-@keyframes loading {
-	0% {width:3em}
-	25% {width:5em}
-	65% {width:2em}
-	80% {width:5em}
-	100% {width:3em}
 }
 .loading {
 	height:2px;
