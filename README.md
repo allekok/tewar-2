@@ -28,8 +28,5 @@ https://github.com/allekok/tewar-legacy
 - zkurd  
   سەرچاوە: https://github.com/dolanskurd/zkurd  
 
-- دیکتیۆ (لە ئێستادا کارێ ناکات)  
-  سەرچاوە: https://github.com/dolanskurd/Dictio  
-
 - گۆڤەند و زنار  
   سەرچاوە: https://github.com/dolanskurd/govend_u_zinar  
