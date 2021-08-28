@@ -19,9 +19,6 @@
 [submodule "dict/kameran/dict"]
 	path = dict/kameran/dict
 	url = https://github.com/dolanskurd/Kameran.git
-[submodule "src/mdict-utils"]
-	path = src/mdict-utils
-	url = https://github.com/liuyug/mdict-utils.git
 [submodule "dict/govend/dict"]
 	path = dict/govend/dict
 	url = https://github.com/dolanskurd/govend_u_zinar
