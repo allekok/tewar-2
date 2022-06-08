@@ -25,6 +25,8 @@ a {
 input[type=text],button {
 	appearance:none;
 	-webkit-appearance:none;
+	background:inherit;
+	color:inherit;
 	transition:all .2s ease;
 	-webkit-transition:all .2s ease;
 }
@@ -101,7 +103,7 @@ footer {
 	font-size:.9em;
 }
 #result h2 {
-	color:#00E;
+	color:#00e;
 	font-weight:normal;
 }
 #result h2 small {
@@ -111,13 +113,43 @@ footer {
 	padding-right:1.5em;
 }
 .dict-tag {
-	background: #eee;
-	padding: 0 .4em;
-	font-size: .9em;
-	margin-right: 1em;
-	display: inline-block;
+	background:#eee;
+	padding:0 .4em;
+	font-size:.9em;
+	margin-right:1em;
+	display:inline-block;
 }
 .ltr {
 	direction:ltr;
 	display:inline-block;
+}
+.fore-color {
+	color:#000;
+}
+@media (prefers-color-scheme:dark) {
+	body {
+		background:#000;
+		color:#fff;
+	}
+	a {
+		color:#0e0;
+	}
+	input[type=text]:focus {
+		border-color:#0e0;
+	}
+	button:hover {
+		border-color:#0e0;
+	}
+	.loading {
+		background:#0e0;
+	}
+	#result h2 {
+		color:#0e0;
+	}
+	.dict-tag {
+		background: #333;
+	}
+	.fore-color {
+		color:#fff;
+	}
 }
